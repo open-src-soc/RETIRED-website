@@ -1,0 +1,28 @@
+* requirements
+
++ =stack=.  Follow install instructions at https://docs.haskellstack.org/en/stable/README/#how-to-install.
+
+* build tools
+
+#+BEGIN_EXAMPLE
+$ TMPDIR=DIR_WITH_LOTS_OF_SPACE_AVAILABLE stack setup
+$ make stack_build
+#+END_EXAMPLE
+
+You can skip =make stack_build=.  =make all= builds everything.
+
+* build the website
+
+#+BEGIN_EXAMPLE
+$ make
+#+END_EXAMPLE
+
+The website files are build in the directory =_site=.
+
+It's also possible to have the website automatically rebuilt each time
+a file is modified.  Open your browser to =http://localhost:8000=,
+and then run:
+
+#+BEGIN_EXAMPLE
+$ make watch
+#+END_EXAMPLE

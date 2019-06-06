@@ -1,0 +1,32 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2019
+
+* Journée thématique sur les attaques par injection de fautes
+# : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
+
+Jeudi 23 mai 2019, Minatec, Grenoble
+
+** Description
+
+Cette journée s’inscrit dans la suite de la journée [[https://lazart.gricad-pages.univ-grenoble-alpes.fr/sertif/pages/workshop.html][SERTIF]] organisée
+en 2016 à Grenoble,
+puis de la journée [[https://wp-systeme.lip6.fr/jaif][JAIF]] organisée en 2018 à Paris.
+
+
+Cette journée thématique est associée au GT Sécurité des Systèmes
+Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
+[[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
+
+#+BEGIN_EXPORT html
+<p>
+<a href="http://www.cea-tech.fr">
+<img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" /></a>
+
+</p>
+#+END_EXPORT
+
+# pour insérer du html :
+# 1. générer d'abord du html approximatif à partif du .org,
+# 2. ouvrir le source html produit
+# 3. copier dans un BEGIN_EXPORT html
