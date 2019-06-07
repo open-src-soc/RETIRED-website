@@ -1,0 +1,19 @@
+Organisation: &UGA
+  LongName: "Université Grenoble Alpes"
+  ShortName: UGA
+  URL: https://www.univ-grenoble-alpes.fr
+
+Organisation: &PUCMinas
+  LongName: "Pontifícia Universidade Católica de Minas Gerais"
+  ShortName: "PUC Minas"
+  URL: https://www.pucminas.br
+
+Organisation: &INPG
+  LongName: "Insititut National Polythechnique de Grenoble"
+  ShortName: "Grenoble INP"
+  URL: http://www.grenoble-inp.fr
+
+Organisation: &UFSC
+  LongName: "Universidade Federal de Santa Catarina"
+  ShortName: "UFSC"
+  URL: http://ufsc.br
