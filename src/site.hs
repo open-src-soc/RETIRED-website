@@ -50,11 +50,11 @@ main = do
 
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
-    { feedTitle = "JAIF 2019"
-      , feedDescription = "JAIF 2019"
+    { feedTitle = "Deuxièmes rencontres RISC-V"
+      , feedDescription = "Deuxièmes rencontres RISC-V"
       , feedAuthorName = "Damien Couroussé"
       , feedAuthorEmail = "damien.courousse@cea.fr"
-      , feedRoot = "http://jaif2019.github.io"
+      , feedRoot = "http://open-src-soc.github.io"
     }
 
 -- Auxiliary compilers
