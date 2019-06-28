@@ -1,5 +1,5 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: JAIF 2019
+#+title: Programme
 
 * Programme

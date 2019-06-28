@@ -1,8 +1,9 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Deuxièmes rencontres RISC-V
+#+title: Premières rencontres RISC-V
 
-* Deuxièmes rencontres RISC-V
+* Premières rencontres RISC-V
+
 
 Jeudi 23 mai 2019, Minatec, Grenoble
 
