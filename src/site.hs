@@ -85,7 +85,7 @@ gitTag = field "gitinfo" $ \item -> do
   unsafeCompiler $ do
     date    <- gitLog "%aD"
     return $ concat
-             [ "<a href=https://github.com/jaif2019/jaif2019.github.io/commits/master>"
+             [ "<a href=https://github.com/open-src-soc/open-src-soc.github.io/commits/master>"
              , "Page last modified " ++ date
              , "</a>"
              ]
