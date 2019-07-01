@@ -3,3 +3,6 @@
 #+title: Localisation des rencontres
 
 * Localisation des rencontres
+
+Les 2è rencontres auront lieu à [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]],
+Paris XIIè.
