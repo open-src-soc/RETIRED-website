@@ -4,19 +4,15 @@
 
 * Premières rencontres RISC-V
 
+Les premières rencontres sur /«\nbsp{}L’impact et les opportunités de
+RISC-V\nbsp{}»/ étaient consacrées aux /«\nbsp{}Opportunités
+académiques de RISC-V.\nbsp{}»/
 
-Jeudi 23 mai 2019, Minatec, Grenoble
+Elles eurent lieu mercredi 17 octobre 2018 à Minatec, à Grenoble. Le
+programme est accessible [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][en ligne]].
 
-** Description
-
-Cette journée s’inscrit dans la suite de la journée [[https://lazart.gricad-pages.univ-grenoble-alpes.fr/sertif/pages/workshop.html][SERTIF]] organisée
-en 2016 à Grenoble,
-puis de la journée [[https://wp-systeme.lip6.fr/jaif][JAIF]] organisée en 2018 à Paris.
-
-
-Cette journée thématique est associée au GT Sécurité des Systèmes
-Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
-[[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
+Un résumé en fut présenté à [[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]]. Il est disponible en
+[[https://www.youtube.com/watch?v=s4K4PiVAUhQ][vidéo]] (en Anglais).
 
 #+BEGIN_EXPORT html
 <p>
