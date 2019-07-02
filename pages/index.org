@@ -10,7 +10,7 @@
 
 ** Description
 
-Issu du monde de la recherche, l’architecture [[https://riscv.org][RISC-V]] bouscule
+Issue du monde de la recherche, l’architecture [[https://riscv.org][RISC-V]] bouscule
 plusieurs communautés. Notamment :
 
 1. Elle ouvre les communautés de l’architecture et de la conception
@@ -18,7 +18,7 @@ plusieurs communautés. Notamment :
 2. Les communautés des langages, de la compilation, des systèmes
    d’exploitation, de la securité ou de la sûreté (/safety/) peuvent
    maintenant influencer la définition des architectures matérielles ;
-3. De manièe plus générale, elle permet aux communautés materiel,
+3. De manière plus générale, elle permet aux communautés materiel,
    logiciel ou système d’expérimenter ensemble.
 
 Après des premières rencontres sur les « Les opportunités académiques
