@@ -50,32 +50,32 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 Le comité de programme est composé de :
 
 - Thierry Collette, Thales R&T
-- Laurent-Fréderic Ducreux, CEA LETI
-- Christian Fabre, CEA LETI, chair
+- Laurent-Fréderic Ducreux, CEA
+- Christian Fabre, CEA, chair
 - Eric Flamand, GreenWaves
 - Pierre Gobin, STMicroelectronics
 - Nicolas Hili, IRT Saint-Exupéry
 - David Hély, INPG/LCIS
-- Mathieu Jan, CEA LIST
+- Mathieu Jan, CEA
 - Kevin Martin, UBS
-- Ivan Miró-Panadès, CEA LETI
+- Ivan Miró-Panadès, CEA
 - Ahmed Ould El Hacen, Wisekey
-- Thomas Peyret, CEA LIST
+- Thomas Peyret, CEA
 - Frederic Pétrot, INPG/TIMA
-- Olivier Savry, CEA LETI, co-chair
+- Olivier Savry, CEA, co-chair
 - Olivier Sentieys, INRIA
 
 ** Comité d'organisation
 
 Le comité d'organisation est composé de :
-- Jean-Philippe Blanc, CEA LETI
-- Damien Couroussé, CEA LIST
-- Laurent-Frédéric Ducreux, CEA LETI, co-chair
-- Christian Fabre, CEA LETI, chair
-- Mathieu Jan, CEA LIST
-- Didier Louis, CEA LETI
-- Thomas Peyret, CEA LIST
-- Olivier Savry, CEA LETI, co-chair
+- Jean-Philippe Blanc, CEA
+- Damien Couroussé, CEA
+- Laurent-Frédéric Ducreux, CEA, co-chair
+- Christian Fabre, CEA, chair
+- Mathieu Jan, CEA
+- Didier Louis, CEA
+- Thomas Peyret, CEA
+- Olivier Savry, CEA, co-chair
 
 ** Contact
 
