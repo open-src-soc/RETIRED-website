@@ -69,7 +69,7 @@ Le comité de programme est composé de :
 Le comité d'organisation est composé de :
 - Jean-Philippe Blanc (CEA LETI)
 - Damien Couroussé (CEA LIST)
-- Laurent-Frederic Ducreux (CEA LETI)
+- Laurent-Frédéric Ducreux (CEA LETI)
 - Christian Fabre (CEA LETI)
 - Mathieu Jan (CEA LIST)
 - Didier Louis (CEA LETI)
