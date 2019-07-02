@@ -51,7 +51,7 @@ Le comité de programme est composé de :
 
 - Thierry Collette (Thales R&T)
 - Laurent-Fréderic Ducreux (CEA LETI)
-- Christian Fabre (CEA LETI)
+- Christian Fabre, Chair (CEA LETI)
 - Eric Flamand (GreenWaves)
 - Pierre Gobin (STMicroelectronics)
 - Nicolas Hili (IRT Saint-Exupéry)
@@ -71,7 +71,7 @@ Le comité d'organisation est composé de :
 - Jean-Philippe Blanc (CEA LETI)
 - Damien Couroussé (CEA LIST)
 - Laurent-Frédéric Ducreux (CEA LETI)
-- Christian Fabre (CEA LETI)
+- Christian Fabre, Chair (CEA LETI)
 - Mathieu Jan (CEA LIST)
 - Didier Louis (CEA LETI)
 - Thomas Peyret (CEA LIST)
