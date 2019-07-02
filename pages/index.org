@@ -48,21 +48,22 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 ** Comité de programme
 
 Le comité de programme est composé de :
-- Eric Flamand (GreenWaves)
-- David Hély (INPG/LCIS)
-- Olivier Sentieys (INRIA)
-- Nicolas Hili (IRT Saint-Exupéry)
-- Pierre Gobin (STMicroelectronics)
+
 - Thierry Collette (Thales R&T)
-- Frederic Pétrot (INPG/TIMA)
-- Kevin Martin (UBS)
-- Ahmed Ould El Hacen (Wisekey)
 - Laurent-Fréderic Ducreux (CEA LETI)
 - Christian Fabre (CEA LETI)
+- Eric Flamand (GreenWaves)
+- Pierre Gobin (STMicroelectronics)
+- Nicolas Hili (IRT Saint-Exupéry)
+- David Hély (INPG/LCIS)
 - Mathieu Jan (CEA LIST)
+- Kevin Martin (UBS)
 - Ivan Miró-Panadès (CEA LETI)
+- Ahmed Ould El Hacen (Wisekey)
 - Thomas Peyret (CEA LIST)
+- Frederic Pétrot (INPG/TIMA)
 - Olivier Savry (CEA LETI)
+- Olivier Sentieys (INRIA)
 
 ** Comité d'organisation
 
