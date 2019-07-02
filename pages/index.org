@@ -49,33 +49,33 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 
 Le comité de programme est composé de :
 
-- Thierry Collette (Thales R&T)
-- Laurent-Fréderic Ducreux (CEA LETI)
-- Christian Fabre, Chair (CEA LETI)
-- Eric Flamand (GreenWaves)
-- Pierre Gobin (STMicroelectronics)
-- Nicolas Hili (IRT Saint-Exupéry)
-- David Hély (INPG/LCIS)
-- Mathieu Jan (CEA LIST)
-- Kevin Martin (UBS)
-- Ivan Miró-Panadès (CEA LETI)
-- Ahmed Ould El Hacen (Wisekey)
-- Thomas Peyret (CEA LIST)
-- Frederic Pétrot (INPG/TIMA)
-- Olivier Savry (CEA LETI)
-- Olivier Sentieys (INRIA)
+- Thierry Collette, Thales R&T
+- Laurent-Fréderic Ducreux, CEA LETI
+- Christian Fabre, CEA LETI, chair
+- Eric Flamand, GreenWaves
+- Pierre Gobin, STMicroelectronics
+- Nicolas Hili, IRT Saint-Exupéry
+- David Hély, INPG/LCIS
+- Mathieu Jan, CEA LIST
+- Kevin Martin, UBS
+- Ivan Miró-Panadès, CEA LETI
+- Ahmed Ould El Hacen, Wisekey
+- Thomas Peyret, CEA LIST
+- Frederic Pétrot, INPG/TIMA
+- Olivier Savry, CEA LETI, co-chair
+- Olivier Sentieys, INRIA
 
 ** Comité d'organisation
 
 Le comité d'organisation est composé de :
-- Jean-Philippe Blanc (CEA LETI)
-- Damien Couroussé (CEA LIST)
-- Laurent-Frédéric Ducreux (CEA LETI)
-- Christian Fabre, Chair (CEA LETI)
-- Mathieu Jan (CEA LIST)
-- Didier Louis (CEA LETI)
-- Thomas Peyret (CEA LIST)
-- Olivier Savry (CEA LETI)
+- Jean-Philippe Blanc, CEA LETI
+- Damien Couroussé, CEA LIST
+- Laurent-Frédéric Ducreux, CEA LETI
+- Christian Fabre, CEA LETI, chair
+- Mathieu Jan, CEA LIST
+- Didier Louis, CEA LETI
+- Thomas Peyret, CEA LIST
+- Olivier Savry, CEA LETI, co-chair
 
 ** Contact
 
