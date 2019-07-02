@@ -52,9 +52,9 @@ feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
     { feedTitle = "Deuxièmes rencontres RISC-V"
       , feedDescription = "Deuxièmes rencontres RISC-V"
-      , feedAuthorName = "Damien Couroussé"
-      , feedAuthorEmail = "damien.courousse@cea.fr"
-      , feedRoot = "http://open-src-soc.github.io"
+      , feedAuthorName = "Christian Fabre, Damien Couroussé"
+      , feedAuthorEmail = "renc-riscv-orga@saxifrage.saclay.cea.fr "
+      , feedRoot = "http://open-src-soc.org"
     }
 
 -- Auxiliary compilers
