@@ -12,7 +12,7 @@ stack_build:
 
 push: rebuild
 	git submodule update --remote --merge
-	rsync -avr --delete --exclude='.git'  _site/ site/
+	rsync -avr --delete --exclude='.git' --exclude="CNAME" _site/ site/
 	cd site \
 		&& git checkout master \
 		&& git add . \
