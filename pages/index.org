@@ -45,6 +45,45 @@ Cette journée thématique est associée au GT Sécurité des Systèmes
 Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 [[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
 
+** Comité de programme
+
+Le comité de programme est composé de :
+- Eric Flamand (GreenWaves)
+- David Hely (LCIS/INPG)
+- Olivier Sentieys (INRIA)
+- Nicolas Hili (IRT Saint Exupery)
+- Pierre Gobin (ST)
+- Thierry Collette (Thales R&T)
+- Frederic Pétrot (TIMA/INPG)
+- Kevin Martin (UBS)
+- Ahmed Ould El Hacen (Wisekey)
+- Laurent-Fréderic Ducreux (CEA LETI)
+- Christian Fabre (CEA LETI)
+- Mathieu Jan (CEA LIST)
+- Ivan Miro Panades (CEA LETI)
+- Thomas Peyret (CEA LIST)
+- Olivier Savry (CEA LETI)
+
+** Comité d'organisation
+
+Le comité d'organisation est composé de :
+- Jean-Philippe Blanc (CEA LETI)
+- Damien Couroussé (CEA LIST)
+- Laurent-Frederic Ducreux (CEA LETI)
+- Christian Fabre (CEA LETI)
+- Mathieu Jan (CEA LIST)
+- Didier Louis (CEA LETI)
+- Thomas Peyret (CEA LIST)
+- Olivier Savry (CEA LETI)
+
+** Contact
+
+Le comité de programme : [[mailto:programme@open-src-hw.org][~programme@open-src-hw.org~]].
+
+Le comité d'organisation : [[mailto:organisation@open-src-hw.org][~organisation@open-src-hw.org~]].
+
+Site web : [[http://open-src-soc.org][~http://open-src-soc.org~]].
+
 #+BEGIN_EXPORT html
 <p>
 <a href="http://www.cea-tech.fr">
