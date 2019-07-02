@@ -3,3 +3,5 @@
 #+title: Programme
 
 * Programme
+
+Un programme préliminaire sera bientôt mis en ligne.

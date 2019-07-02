@@ -3,3 +3,5 @@
 #+title: Deuxièmes rencontres RISC-V
 
 * Inscription
+
+Le site d'inscription sera bientôt mis en ligne.
