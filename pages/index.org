@@ -18,8 +18,8 @@ plusieurs communautés. Notamment :
 2. Les communautés des langages, de la compilation, des systèmes
    d’exploitation, de la securité ou de la sûreté (/safety/) peuvent
    maintenant influencer la définition des architectures matérielles ;
-3. De manière plus générale, elle permet aux communautés materiel,
-   logiciel ou système d’expérimenter ensemble.
+3. De manière plus générale, elle permet aux communautés du materiel,
+   du logiciel ou des systèmes d’expérimenter ensemble.
 
 Après des premières rencontres sur les « Les opportunités académiques
 de [[https://riscv.org][RISC-V]] » tenues à Grenoble en octobre 2018, la deuxième édition de
@@ -34,7 +34,7 @@ thématiques :
 - L’identification de points de collaborations entre les communautés
   du matériel, du logiciel, ou des systèmes.
 - La facilitation des collaborations entre la recherche académique et
-  l’écosystème industriel.
+  les industriels.
 
 Afin de laisser le maximum de temps aux échanges, le programme est
 organisé en /keynotes/ et en sessions plénières rassemblant un petit
@@ -49,18 +49,18 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 
 Le comité de programme est composé de :
 - Eric Flamand (GreenWaves)
-- David Hely (LCIS/INPG)
+- David Hély (INPG/LCIS)
 - Olivier Sentieys (INRIA)
-- Nicolas Hili (IRT Saint Exupery)
-- Pierre Gobin (ST)
+- Nicolas Hili (IRT Saint-Exupéry)
+- Pierre Gobin (STMicroelectronics)
 - Thierry Collette (Thales R&T)
-- Frederic Pétrot (TIMA/INPG)
+- Frederic Pétrot (INPG/TIMA)
 - Kevin Martin (UBS)
 - Ahmed Ould El Hacen (Wisekey)
 - Laurent-Fréderic Ducreux (CEA LETI)
 - Christian Fabre (CEA LETI)
 - Mathieu Jan (CEA LIST)
-- Ivan Miro Panades (CEA LETI)
+- Ivan Miró-Panadès (CEA LETI)
 - Thomas Peyret (CEA LIST)
 - Olivier Savry (CEA LETI)
 
