@@ -89,6 +89,9 @@ Site web : [[http://open-src-soc.org][~http://open-src-soc.org~]].
 <p>
 <a href="http://www.cea-tech.fr">
 <img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" /></a>
+&nbsp;
+<a href="http://www.irtnanoelec.fr/fr/">
+<img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100" /></a>
 
 </p>
 #+END_EXPORT
