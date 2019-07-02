@@ -50,7 +50,6 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 Le comité de programme est composé de :
 
 - Thierry Collette, Thales R&T
-- Laurent-Fréderic Ducreux, CEA
 - Christian Fabre, CEA, chair
 - Eric Flamand, GreenWaves
 - Pierre Gobin, STMicroelectronics
