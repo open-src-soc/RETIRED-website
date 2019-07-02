@@ -8,11 +8,11 @@ Les premières rencontres sur /«\nbsp{}L’impact et les opportunités de
 RISC-V\nbsp{}»/ étaient consacrées aux /«\nbsp{}Opportunités
 académiques de RISC-V.\nbsp{}»/
 
-Elles eurent lieu mercredi 17 octobre 2018 à Minatec, à Grenoble. Le
-programme est accessible [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][en ligne]].
+Elles eurent lieu mercredi 17 octobre 2018 à Minatec, à Grenoble.
 
-Un résumé en fut présenté à [[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]]. Il est disponible en
-[[https://www.youtube.com/watch?v=s4K4PiVAUhQ][vidéo]] (en Anglais).
+Leur programme est accessible [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][en ligne]].  Un résumé, disponible en
+[[https://www.youtube.com/watch?v=s4K4PiVAUhQ][vidéo]] (en Anglais), fut présenté à
+[[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]].
 
 #+BEGIN_EXPORT html
 <p>
