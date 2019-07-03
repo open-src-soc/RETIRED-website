@@ -78,9 +78,8 @@ Le comité d'organisation est composé de :
 
 ** Contact
 
-Le comité de programme : [[mailto:programme@open-src-soc.org][~programme@open-src-soc.org~]].
-
-Le comité d'organisation : [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
+Le comité d'organisation peut être joint à l'adresse suivante
+[[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 Site web : [[https://open-src-soc.org][~https://open-src-soc.org~]].
 
