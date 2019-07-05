@@ -50,31 +50,31 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 Le comité de programme est composé de :
 
 - Thierry Collette, Thales R&T
-- [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], CEA, chair
+- [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], [[http://www.cea.fr][CEA]], chair
 - Eric Flamand, GreenWaves
 - Pierre Gobin, STMicroelectronics
 - Nicolas Hili, IRT Saint-Exupéry
 - David Hély, INPG/LCIS
-- Mathieu Jan, CEA
+- Mathieu Jan, [[http://www.cea.fr][CEA]]
 - Kevin Martin, UBS
-- Ivan Miró-Panadès, CEA
+- Ivan Miró-Panadès, [[http://www.cea.fr][CEA]]
 - Ahmed Ould El Hacen, Wisekey
-- Thomas Peyret, CEA
+- Thomas Peyret, [[http://www.cea.fr][CEA]]
 - Frederic Pétrot, INPG/TIMA
-- Olivier Savry, CEA, co-chair
+- Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
 - Olivier Sentieys, INRIA
 
 ** Comité d'organisation
 
 Le comité d'organisation est composé de :
 - Jean-Philippe Blanc, [[http://www.irtnanoelec.fr][IRT Nanoelec]]
-- Damien Couroussé, CEA
+- Damien Couroussé, [[http://www.cea.fr][CEA]]
 - Laurent-Frédéric Ducreux, [[http://www.irtnanoelec.fr][IRT Nanoelec]], co-chair
-- [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], CEA, chair
-- Mathieu Jan, CEA
-- Didier Louis, CEA
-- Thomas Peyret, CEA
-- Olivier Savry, CEA, co-chair
+- [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], [[http://www.cea.fr][CEA]], chair
+- Mathieu Jan, [[http://www.cea.fr][CEA]]
+- Didier Louis, [[http://www.cea.fr][CEA]]
+- Thomas Peyret, [[http://www.cea.fr][CEA]]
+- Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
 
 ** Contact
 
