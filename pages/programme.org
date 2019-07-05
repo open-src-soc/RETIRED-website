@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 #+title: Programme
 
-* Programme
+* Programme des Journées RISC-V
 
 Un programme préliminaire sera bientôt mis en ligne. Les journées
 seront organisées comme suit:
