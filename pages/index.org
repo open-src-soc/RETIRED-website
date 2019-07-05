@@ -56,7 +56,7 @@ Le comité de programme est composé de :
 - Nicolas Hili, [[http://www.irt-saintexupery.com][IRT Saint-Exupéry]]
 - David Hély, [[http://www.grenoble-inp.fr][INPG]]/[[http://lcis.grenoble-inp.fr][LCIS]]
 - Mathieu Jan, [[http://www.cea.fr][CEA]]
-- Kevin Martin, [[http://www.univ-ubs.fr][UBS]]
+- [[http://www-labsticc.univ-ubs.fr/~kmartin][Kevin Martin]], [[http://www.univ-ubs.fr][UBS]]/[[http://labsticc.fr][Lab-STICC]]
 - Ivan Miró-Panadès, [[http://www.cea.fr][CEA]]
 - Ahmed Ould El Hacen, [[https://www.wisekey.com][Wisekey]]
 - Thomas Peyret, [[http://www.cea.fr][CEA]]
