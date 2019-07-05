@@ -49,20 +49,20 @@ Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
 
 Le comité de programme est composé de :
 
-- Thierry Collette, Thales R&T
+- Thierry Collette, [[https://www.thalesgroup.com/fr/global/innovation/recherche-technologie][Thales R&T]]
 - [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], [[http://www.cea.fr][CEA]], chair
-- Eric Flamand, GreenWaves
-- Pierre Gobin, STMicroelectronics
-- Nicolas Hili, IRT Saint-Exupéry
-- David Hély, INPG/LCIS
+- Eric Flamand, [[https://greenwaves-technologies.com][GreenWaves Technologies]]
+- Pierre Gobin, [[https://www.st.com][STMicroelectronics]]
+- Nicolas Hili, [[http://www.irt-saintexupery.com][IRT Saint-Exupéry]]
+- David Hély, [[http://www.grenoble-inp.fr][INPG]]/[[http://lcis.grenoble-inp.fr][LCIS]]
 - Mathieu Jan, [[http://www.cea.fr][CEA]]
-- Kevin Martin, UBS
+- Kevin Martin, [[http://www.univ-ubs.fr][UBS]]
 - Ivan Miró-Panadès, [[http://www.cea.fr][CEA]]
-- Ahmed Ould El Hacen, Wisekey
+- Ahmed Ould El Hacen, [[https://www.wisekey.com][Wisekey]]
 - Thomas Peyret, [[http://www.cea.fr][CEA]]
-- Frederic Pétrot, INPG/TIMA
+- Frederic Pétrot, [[http://www.grenoble-inp.fr][INPG]]/[[http://tima.univ-grenoble-alpes.fr/tima][TIMA]]
 - Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
-- Olivier Sentieys, INRIA
+- Olivier Sentieys, [[https://www.inria.fr][INRIA]]
 
 ** Comité d'organisation
 
