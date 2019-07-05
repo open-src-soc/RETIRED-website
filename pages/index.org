@@ -67,9 +67,9 @@ Le comité de programme est composé de :
 ** Comité d'organisation
 
 Le comité d'organisation est composé de :
-- Jean-Philippe Blanc, CEA
+- Jean-Philippe Blanc, [[http://www.irtnanoelec.fr][IRT Nanoelec]]
 - Damien Couroussé, CEA
-- Laurent-Frédéric Ducreux, CEA, co-chair
+- Laurent-Frédéric Ducreux, [[http://www.irtnanoelec.fr][IRT Nanoelec]], co-chair
 - [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], CEA, chair
 - Mathieu Jan, CEA
 - Didier Louis, CEA
