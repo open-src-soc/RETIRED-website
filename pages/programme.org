@@ -4,9 +4,20 @@
 
 * Programme des Journées RISC-V
 
-Un programme préliminaire sera bientôt mis en ligne. Les journées
-seront organisées comme suit:
+Le programme préliminaire ci-dessous détaille la conjonction de deux
+èvénements\nbsp{}:
 
+- Les secondes Rencontres RISC-V, qui auront lieu à l'[[https://espace-van-gogh.com][Espace Van Gogh]],
+  [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]\nbsp{}:
+  - [[#mardi][Mardi 1er octobre]], à partir de 8h00 jusqu'à 17h30.
+  - [[#mercredi][Mercredi 2 octobre]], de 8h30 à 16h30.
+
+- La Journée RISC-V du [[http://www.gdr-soc.cnrs.fr][GDR SO2]] qui aura lieu /there/\nbsp{}:
+  - [[#jeudi][Jeudi 3 octobre]], à partir de 8h00 jusqu'à 16h15.
+
+:PROPERTIES:
+:CUSTOM_ID: mardi
+:END:
 Mardi 1er octobre, premier jour des 2è Rencontres RISC-V :
 
 |-------+----------------+---------+----------------+---------------------|
@@ -55,6 +66,9 @@ Mardi 1er octobre, premier jour des 2è Rencontres RISC-V :
 |-------+----------------+---------+----------------+---------------------|
 
 
+:PROPERTIES:
+:CUSTOM_ID: mercredi
+:END:
 Mercredi 2 octobre, 2è jour des Rencontres RISC-V :
 
 |-------+----------------+---------+----------------+---------------------|
@@ -99,3 +113,44 @@ Mercredi 2 octobre, 2è jour des Rencontres RISC-V :
 | 16h15 |                | TBA     |                | Wrap-up 44          |
 | 16h30 |                | ---     |                | Closure             |
 |-------+----------------+---------+----------------+---------------------|
+
+
+:PROPERTIES:
+:CUSTOM_ID: jeudi
+:END:
+Jeudi 3 octobre, Journée RISC-V du [[http://www.gdr-soc.cnrs.fr][GDR SO2]] :
+
+|-------+----------------+---------+----------------+-----------------|
+| Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre           |
+|-------+----------------+---------+----------------+-----------------|
+| 08h00 |                | ---     |                | Registration    |
+|-------+----------------+---------+----------------+-----------------|
+| 08h45 |                | TBA     |                | Welcome 50      |
+|-------+----------------+---------+----------------+-----------------|
+| 09h00 |                | TBA     |                | Presentation 51 |
+|-------+----------------+---------+----------------+-----------------|
+| 09h15 |                | ---     |                | Break           |
+|-------+----------------+---------+----------------+-----------------|
+| 10h15 |                | TBA     |                | Presentation 52 |
+|-------+----------------+---------+----------------+-----------------|
+| 11h15 |                | ---     |                | Break           |
+|-------+----------------+---------+----------------+-----------------|
+| 11h30 |                | TBA     |                | Presentation 53 |
+|-------+----------------+---------+----------------+-----------------|
+| 12h30 |                | ---     |                | Lunch           |
+|-------+----------------+---------+----------------+-----------------|
+| 13h30 |                | TBA     |                | Presentation 60 |
+|-------+----------------+---------+----------------+-----------------|
+| 14h30 |                | ---     |                | Break           |
+|-------+----------------+---------+----------------+-----------------|
+| 14h45 |                | TBA     |                | Presentation 61 |
+|-------+----------------+---------+----------------+-----------------|
+| 14h45 |                | ---     |                | Break           |
+|-------+----------------+---------+----------------+-----------------|
+| 15h00 |                | TBA     |                | Presentation 62 |
+|-------+----------------+---------+----------------+-----------------|
+| 16h00 |                | ---     |                | Break           |
+|-------+----------------+---------+----------------+-----------------|
+| 16h15 |                | TBA     |                | Wrap-up 63      |
+| 16h30 |                | ---     |                | Closure         |
+|-------+----------------+---------+----------------+-----------------|
