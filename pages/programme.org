@@ -7,7 +7,7 @@
 Un programme préliminaire sera bientôt mis en ligne. Les journées
 seront organisées comme suit:
 
-Mardi 1er octobre :
+Mardi 1er octobre, premier jour des 2è Rencontres RISC-V :
 
 |-------+----------------+---------+----------------+------------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre            |
@@ -55,7 +55,7 @@ Mardi 1er octobre :
 |-------+----------------+---------+----------------+------------------|
 
 
-Mercredi 2 octobre :
+Mercredi 2 octobre, 2è jour des Rencontres RISC-V :
 
 |-------+----------------+---------+----------------+---------------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre               |
