@@ -2,13 +2,25 @@
 #+OPTIONS: toc:nil
 #+title: Deuxièmes rencontres RISC-V
 
-* Deuxièmes Rencontres RISC-V
+* Les Journées RISC-V 2019
 
-#+BEGIN_CENTER
-1er & 2 octobre 2019, [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris XIIè.
-#+END_CENTER
+Les /Journées RISC-V 2019/ rassemblent deux évènements du 1er au 3
+octobre 2019 à Paris\nbsp{}:
 
-** Description
+- Les [[#rencontres][/Deuxièmes Rencontres RISC-V/]], qui auront lieu à l'[[https://espace-van-gogh.com][Espace Van Gogh]],
+  [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]\nbsp{}:
+  - Mardi 1er octobre, à de 8h45 jusqu'à 17h30 -- accueil dès 8h00.
+  - Mercredi 2 octobre, de 8h30 à 16h30.
+
+- La [[#gdr-soc2][/Journée RISC-V/]] du [[http://www.gdr-soc.cnrs.fr][GDR SOC2]] qui aura lieu /there/\nbsp{}:
+  - Jeudi 3 octobre, à partir de 8h00 jusqu'à 16h15.
+
+Un [[../programme.html][programme préliminaire]] des trois jours est disponible.
+
+:PROPERTIES:
+:CUSTOM_ID: rencontres
+:END:
+** Deuxièmes Rencontres RISC-V
 
 Issue du monde de la recherche, l’architecture [[https://riscv.org][RISC-V]] bouscule
 plusieurs communautés. Notamment :
@@ -45,7 +57,7 @@ Ces deuxièmes Rencontres sont associées à la « Journée RISC-V »
 organisée par le [[http://www.gdr-soc.cnrs.fr][GdR SOC2]], ou Groupement de recherche SOC2 (System On
 Chip, Systèmes embarqués et Objets Connectés), du CNRS.
 
-** Comité de programme
+*** Comité de programme
 
 Le comité de programme est composé de :
 
@@ -64,7 +76,7 @@ Le comité de programme est composé de :
 - Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
 - Olivier Sentieys, [[https://www.inria.fr][INRIA]]
 
-** Comité d'organisation
+*** Comité d'organisation
 
 Le comité d'organisation est composé de :
 - Jean-Philippe Blanc, [[http://www.irtnanoelec.fr][IRT Nanoelec]]
@@ -76,12 +88,28 @@ Le comité d'organisation est composé de :
 - Thomas Peyret, [[http://www.cea.fr][CEA]]
 - Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
 
-** Contact
+*** Contact
 
 Le comité d'organisation peut être joint à l'adresse suivante
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 Site web : [[https://open-src-soc.org][~https://open-src-soc.org~]].
+
+:PROPERTIES:
+:CUSTOM_ID: gdr-soc2
+:END:
+
+** La Journée RISC-V du GRD SOC2
+
+/TBD/
+
+*** Comité d'organisation
+
+/TBD/
+
+*** Contact
+
+/TBD/
 
 #+BEGIN_EXPORT html
 <p>
