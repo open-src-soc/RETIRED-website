@@ -41,9 +41,9 @@ organisé en /keynotes/ et en sessions plénières rassemblant un petit
 nombre de courtes contributions suivi d’un temps de discussion
 collectif.
 
-Cette journée thématique est associée au GT Sécurité des Systèmes
-Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
-[[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
+Ces deuxièmes Rencontres sont associées à la « Journée RISC-V »
+organisée par le [[http://www.gdr-soc.cnrs.fr][GdR SOC2]], ou Groupement de recherche SOC2 (System On
+Chip, Systèmes embarqués et Objets Connectés), du CNRS.
 
 ** Comité de programme
 
