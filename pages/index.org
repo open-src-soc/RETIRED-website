@@ -2,10 +2,10 @@
 #+OPTIONS: toc:nil
 #+title: Deuxièmes rencontres RISC-V
 
-* La Semaine RISC-V
+* /Semaine RISC-V/ -- RISC-V Week
 
-« /La Semaine RISC-V/ » (The RISC-V Week) brings together two events
-from 1 to 3 October 2019 in Paris:
+La « /Semaine RISC-V/ » (RISC-V Week) brings together two events from
+1 to 3 October 2019 in Paris:
 
 - The « [[#mardi][/Deuxièmes Rencontres RISC-V/ ]] » (2nd RISC-V
   Meetings) will take place at [[https://espace-van-gogh.com][Espace
@@ -15,15 +15,14 @@ from 1 to 3 October 2019 in Paris:
   - Tuesday 1st October, from 8h45 to 17h30 -- reception from 8h00.
   - Wednesday 2nd October, from 8h30 to 16h30.
 
-- La « /[[#gdr-soc2][Journée RISC-V]] du
-  [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ » will take place at
-  [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu]]:
+- The « /[[#gdr-soc2][Journée RISC-V]] du [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ » (GDR SOC2's RISC-V Day) will
+  take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday 3rd October, from 8h00 until 16h15.
 
 A [[../programme.html][preliminary schedule]] of the three days is
 online. The list of speakers will be added very soon.
 
-** Deuxièmes Rencontres RISC-V
+** /Deuxièmes Rencontres RISC-V/  -- 2nd RISC-V Meetings
 :PROPERTIES:
 :CUSTOM_ID: rencontres
 :END:
@@ -101,7 +100,7 @@ The Organisation Committee can be reached at:
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 
-** La Journée RISC-V du GRD SOC2
+** /Journée RISC-V du GRD SOC2/ -- GDR SOC2's RISC-V Day
 :PROPERTIES:
 :CUSTOM_ID: gdr-soc2
 :END:
