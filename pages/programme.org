@@ -21,6 +21,7 @@ events:
      :CUSTOM_ID: mardi
      :END:
 
+Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]
 |-------+----------------+---------+----------------+---------------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre               |
 |-------+----------------+---------+----------------+---------------------|
@@ -72,6 +73,7 @@ events:
     :CUSTOM_ID: mercredi
     :END:
 
+Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]
 |-------+----------------+---------+----------------+---------------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre               |
 |-------+----------------+---------+----------------+---------------------|
@@ -121,6 +123,7 @@ events:
     :CUSTOM_ID: jeudi
     :END:
 
+Location: [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]
 |-------+----------------+---------+----------------+-----------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre           |
 |-------+----------------+---------+----------------+-----------------|
