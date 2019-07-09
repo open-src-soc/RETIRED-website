@@ -7,7 +7,7 @@
 La « /Semaine RISC-V/ » (RISC-V Week) brings together two events from
 1 to 3 October 2019 in Paris:
 
-- The « [[#mardi][/Deuxièmes Rencontres RISC-V/ ]] » (2nd RISC-V
+- The « [[#mardi][/Deuxièmes Rencontres RISC-V/]] » (2nd RISC-V
   Meetings) will take place at [[https://espace-van-gogh.com][Espace
   Van Gogh]],
   [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62
