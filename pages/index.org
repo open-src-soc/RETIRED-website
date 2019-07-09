@@ -45,12 +45,13 @@ October 2019. Open to the academic and industrial worlds, they will
 address several important topics:
 
  1. The impacts of the arrival of open-source in the design of systems
-    on a chip (SoC), embedded systems or cyber-physics (CPS). These
-    impacts extend beyond the academic communities and technologies
-    into intellectual property (IP) and sovereignty issues.
- 2. The identification of points of collaboration between the
+    on a chip (SoC), embedded systems or cyber-physics (CPS).
+ 2. Legal and strategic intellectual property (IP) issues, that ranges
+    from public management of hardware open source code, down to
+    sovereignty issues.
+ 3. The identification of points of collaboration between the
     hardware, software, or systems communities.
- 3. Facilitating collaboration between academic research and industry.
+ 4. Facilitating collaboration between academic research and industry.
 
 In order to allow as much time as possible for exchanges the core of
 the program is made of multiple sessions where a small number of short
