@@ -2,64 +2,71 @@
 #+OPTIONS: toc:nil
 #+title: Deuxièmes rencontres RISC-V
 
-* Les Journées RISC-V 2019
+* La Semaine RISC-V
 
-Les /Journées RISC-V 2019/ rassemblent deux évènements du 1er au 3
-octobre 2019 à Paris\nbsp{}:
+« /La Semaine RISC-V/ » (The RISC-V Week) brings together two events
+from 1 to 3 October 2019 in Paris:
 
-- Les [[#rencontres][/Deuxièmes Rencontres RISC-V/]], qui auront lieu à l'[[https://espace-van-gogh.com][Espace Van Gogh]],
-  [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]\nbsp{}:
-  - Mardi 1er octobre, à de 8h45 jusqu'à 17h30 -- accueil dès 8h00.
-  - Mercredi 2 octobre, de 8h30 à 16h30.
+- The « [[#mardi][/Deuxièmes Rencontres RISC-V/ ]] » (2nd RISC-V
+  Meetings) will take place at [[https://espace-van-gogh.com][Espace
+  Van Gogh]],
+  [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62
+  quai de la rapée]]:
+  - Tuesday 1st October, from 8h45 to 17h30 -- reception from 8h00.
+  - Wednesday 2nd October, from 8h30 to 16h30.
 
-- La [[#gdr-soc2][/Journée RISC-V/]] du [[http://www.gdr-soc.cnrs.fr][GDR SOC2]] qui aura lieu /there/\nbsp{}:
-  - Jeudi 3 octobre, à partir de 8h00 jusqu'à 16h15.
+- La « /[[#gdr-soc2][Journée RISC-V]] du
+  [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ » will take place at
+  [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu]]:
+  - Thursday 3rd October, from 8h00 until 16h15.
 
-Un [[../programme.html][programme préliminaire]] des trois jours est disponible.
+A [[../programme.html][preliminary schedule]] of the three days is
+online. The list of speakers will be added very soon.
 
 ** Deuxièmes Rencontres RISC-V
 :PROPERTIES:
 :CUSTOM_ID: rencontres
 :END:
 
-Issue du monde de la recherche, l’architecture [[https://riscv.org][RISC-V]] bouscule
-plusieurs communautés. Notamment :
+The RISC-V architecture, which comes from academina, is challenging
+several communities. In particular:
 
-1. Elle ouvre les communautés de l’architecture et de la conception
-   matérielle aux dynamiques de l’open source ;
-2. Les communautés des langages, de la compilation, des systèmes
-   d’exploitation, de la securité ou de la sûreté (/safety/) peuvent
-   maintenant influencer la définition des architectures matérielles ;
-3. De manière plus générale, elle permet aux communautés du materiel,
-   du logiciel ou des systèmes d’expérimenter ensemble.
+ - It opens the architecture and hardware design communities to the
+   dynamics of open source;
+ - Language, compilation, operating system, security or safety
+   communities can now influence the definition of hardware
+   architectures;
+ - More generally, it allows hardware, software or system communities
+   to experiment together.
 
-Après des premières rencontres sur les « Les opportunités académiques
-de [[https://riscv.org][RISC-V]] » tenues à Grenoble en octobre 2018, la deuxième édition de
-ces rencontres aura lieu à Paris les 1er et 2 octobre 2019.  Ouvertes
-aux mondes académiques et industriel, elles aborderont plusieurs
-thématiques :
+After the first « /Rencontres RISC-V/ » on « /Les opportunités
+académiques/ » (Academic opportunities) held in Grenoble in October
+2018, the second edition will take place in Paris on 1 and 2
+October 2019. Open to the academic and industrial worlds, they will
+address several important topics:
 
-- Les impacts de l’arrivée de l’open-source dans la conception de
-  systèmes sur puce (/[[https://fr.wikipedia.org/wiki/Syst%25C3%25A8me_sur_une_puce][SoC]]/), de systèmes embarqués ou cyber-physiques
-  (/[[https://fr.wikipedia.org/wiki/Syst%25C3%25A8me_cyber-physique][CPS]]/). Ces impacts dépassent largement les communautés
-  académiques.
-- L’identification de points de collaborations entre les communautés
-  du matériel, du logiciel, ou des systèmes.
-- La facilitation des collaborations entre la recherche académique et
-  les industriels.
+ 1. The impacts of the arrival of open-source in the design of systems
+    on a chip (SoC), embedded systems or cyber-physics (CPS). These
+    impacts extend beyond the academic communities and technologies
+    into intellectual property (IP) and sovereignty issues.
+ 2. The identification of points of collaboration between the
+    hardware, software, or systems communities.
+ 3. Facilitating collaboration between academic research and industry.
 
-Afin de laisser le maximum de temps aux échanges, le programme est
-organisé en /keynotes/ et en sessions plénières rassemblant un petit
-nombre de courtes contributions suivi d’un temps de discussion
-collectif.
+In order to allow as much time as possible for exchanges the core of
+the program is made of multiple sessions where a small number of short
+contributions is followed by a time for collective discussion. The
+program also includes a number of tutorials on key RISC-V issues and
+solutions, and high-level keynotes.
 
-Ces deuxièmes Rencontres sont associées à la « Journée RISC-V »
-organisée par le [[http://www.gdr-soc.cnrs.fr][GdR SOC2]], ou Groupement de recherche SOC2 (System On
-Chip, Systèmes embarqués et Objets Connectés), du CNRS.
+Theses « /2è Rencontres RISC-V/ » are associated the « Journée RISC-V
+» organised by the [[http://www.gdr-soc.cnrs.fr][GdR SOC2]], or /Groupement de recherche SOC2 (System
+On Chip, Systèmes embarqués et Objets Connectés)/, from the [[http://www.cnrs.fr][CNRS]]
+(/Centre national de la recherche scientifique/).
 
-*** Comité de programme
+*** Program Committee
 
-Le comité de programme est composé de :
+The Program Committee is composed of the following persons:
 
 - Thierry Collette, [[https://www.thalesgroup.com/fr/global/innovation/recherche-technologie][Thales R&T]]
 - [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], [[http://www.cea.fr][CEA]], chair
@@ -76,9 +83,9 @@ Le comité de programme est composé de :
 - Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
 - Olivier Sentieys, [[https://www.inria.fr][INRIA]]
 
-*** Comité d'organisation
+*** Organisation Committee
 
-Le comité d'organisation est composé de :
+The Organisation Committee is composed of the following persons:
 - Jean-Philippe Blanc, [[http://www.irtnanoelec.fr][IRT Nanoelec]]
 - Damien Couroussé, [[http://www.cea.fr][CEA]]
 - Laurent-Frédéric Ducreux, [[http://www.irtnanoelec.fr][IRT Nanoelec]], co-chair
@@ -90,10 +97,8 @@ Le comité d'organisation est composé de :
 
 *** Contact
 
-Le comité d'organisation peut être joint à l'adresse suivante
+The Organisation Committee can be reached at:
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
-
-Site web : [[https://open-src-soc.org][~https://open-src-soc.org~]].
 
 
 ** La Journée RISC-V du GRD SOC2
