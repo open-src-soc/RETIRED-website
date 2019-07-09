@@ -2,18 +2,19 @@
 #+OPTIONS: toc:nil
 #+title: Programme
 
-* Programme des Journées RISC-V
+* Programme de la « /Semaine RISC-V/ » -- RISC-V Week Program
 
-Le programme préliminaire ci-dessous détaille la conjonction de deux
-èvénements\nbsp{}:
+The preliminary program below details the three days of the two
+events:
 
-- Les secondes Rencontres RISC-V, qui auront lieu à l'[[https://espace-van-gogh.com][Espace Van Gogh]],
-  [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]\nbsp{}:
-  - [[#mardi][Mardi 1er octobre]], à partir de 8h00 jusqu'à 17h30.
-  - [[#mercredi][Mercredi 2 octobre]], de 8h30 à 16h30.
+- The « [[#mardi][/Deuxièmes Rencontres RISC-V/]] » (2nd RISC-V Meetings) will
+  take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
+  - [[#mardi][Tuesday 1st October]], from 8h45 to 17h30 -- reception from 8h00.
+  - [[#mercredi][Wednesday 2nd October]], from 8h30 to 16h30.
 
-- La Journée RISC-V du [[http://www.gdr-soc.cnrs.fr][GDR SO2]] qui aura lieu /there/\nbsp{}:
-  - [[#jeudi][Jeudi 3 octobre]], à partir de 8h00 jusqu'à 16h15.
+- The « /[[#gdr-soc2][Journée RISC-V]] du [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ » (GDR SOC2's RISC-V Day) will
+  take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
+  - [[#jeudi][Thursday 3rd October]], from 8h00 until 16h15.
 
 *** Mardi 1er octobre, premier jour des 2è Rencontres RISC-V
      :PROPERTIES:
