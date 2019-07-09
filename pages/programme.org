@@ -15,10 +15,10 @@ Le programme préliminaire ci-dessous détaille la conjonction de deux
 - La Journée RISC-V du [[http://www.gdr-soc.cnrs.fr][GDR SO2]] qui aura lieu /there/\nbsp{}:
   - [[#jeudi][Jeudi 3 octobre]], à partir de 8h00 jusqu'à 16h15.
 
-:PROPERTIES:
-:CUSTOM_ID: mardi
-:END:
-Mardi 1er octobre, premier jour des 2è Rencontres RISC-V :
+*** Mardi 1er octobre, premier jour des 2è Rencontres RISC-V
+     :PROPERTIES:
+     :CUSTOM_ID: mardi
+     :END:
 
 |-------+----------------+---------+----------------+---------------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre               |
@@ -66,10 +66,10 @@ Mardi 1er octobre, premier jour des 2è Rencontres RISC-V :
 |-------+----------------+---------+----------------+---------------------|
 
 
-:PROPERTIES:
-:CUSTOM_ID: mercredi
-:END:
-Mercredi 2 octobre, 2è jour des Rencontres RISC-V :
+*** Mercredi 2 octobre, 2è jour des Rencontres RISC-V
+    :PROPERTIES:
+    :CUSTOM_ID: mercredi
+    :END:
 
 |-------+----------------+---------+----------------+---------------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre               |
@@ -115,10 +115,10 @@ Mercredi 2 octobre, 2è jour des Rencontres RISC-V :
 |-------+----------------+---------+----------------+---------------------|
 
 
-:PROPERTIES:
-:CUSTOM_ID: jeudi
-:END:
-Jeudi 3 octobre, Journée RISC-V du [[http://www.gdr-soc.cnrs.fr][GDR SO2]] :
+*** Jeudi 3 octobre, Journée RISC-V du [[http://www.gdr-soc.cnrs.fr][GDR SO2]]
+    :PROPERTIES:
+    :CUSTOM_ID: jeudi
+    :END:
 
 |-------+----------------+---------+----------------+-----------------|
 | Début | \nbsp{}\nbsp{} | Orateur | \nbsp{}\nbsp{} | Titre           |

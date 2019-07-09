@@ -17,10 +17,10 @@ octobre 2019 à Paris\nbsp{}:
 
 Un [[../programme.html][programme préliminaire]] des trois jours est disponible.
 
+** Deuxièmes Rencontres RISC-V
 :PROPERTIES:
 :CUSTOM_ID: rencontres
 :END:
-** Deuxièmes Rencontres RISC-V
 
 Issue du monde de la recherche, l’architecture [[https://riscv.org][RISC-V]] bouscule
 plusieurs communautés. Notamment :
@@ -95,11 +95,11 @@ Le comité d'organisation peut être joint à l'adresse suivante
 
 Site web : [[https://open-src-soc.org][~https://open-src-soc.org~]].
 
+
+** La Journée RISC-V du GRD SOC2
 :PROPERTIES:
 :CUSTOM_ID: gdr-soc2
 :END:
-
-** La Journée RISC-V du GRD SOC2
 
 /TBD/
 
