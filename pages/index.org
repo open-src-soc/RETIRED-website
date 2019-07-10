@@ -12,8 +12,8 @@ La « /Semaine RISC-V/ » (RISC-V Week) brings together two events from
   - Tuesday 1st October, from 8h45 to 17h30 -- reception from 8h00.
   - Wednesday 2nd October, from 8h30 to 16h30.
 
-- The « /[[#gdr-soc2][Journée RISC-V]] du [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ » (GDR SOC2's RISC-V Day) will
-  take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
+- The /Journée scientifique IRT SE & GDR SOC2:/ « /RISC-V for critical
+  embedded systems/ » will take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday 3rd October, from 8h00 until 16h15.
 
 A [[../programme.html][preliminary schedule]] of the three days is
@@ -98,7 +98,7 @@ The Organisation Committee can be reached at:
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 
-** /Journée RISC-V du GRD SOC2/ -- GDR SOC2's RISC-V Day
+** /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]:/ « /RISC-V for critical embedded systems/ »
 :PROPERTIES:
 :CUSTOM_ID: gdr-soc2
 :END:
