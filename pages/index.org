@@ -24,7 +24,7 @@ online. The list of speakers will be added very soon.
 :CUSTOM_ID: rencontres
 :END:
 
-The RISC-V architecture, which comes from academina, is challenging
+The RISC-V architecture, which comes from academia, is challenging
 several communities. In particular:
 
  - It opens the architecture and hardware design communities to the
@@ -32,12 +32,12 @@ several communities. In particular:
  - Language, compilation, operating system, security or safety
    communities can now influence the definition of hardware
    architectures;
- - More generally, it allows hardware, software or system communities
+ - More generally, it allows hardware, software and system communities
    to experiment together.
 
 After the first « /Rencontres RISC-V/ » on « /Les opportunités
 académiques/ » (Academic opportunities) held in Grenoble in October
-2018, the second edition will take place in Paris on 1 and 2
+2018, the second edition will take place in Paris on 1st and 2nd
 October 2019. Open to the academic and industrial worlds, they will
 address several important topics:
 
@@ -47,7 +47,7 @@ address several important topics:
     from public management of hardware open source code, down to
     sovereignty issues.
  3. The identification of points of collaboration between the
-    hardware, software, or systems communities.
+    hardware, software, and systems communities.
  4. Facilitating collaboration between academic research and industry.
 
 In order to allow as much time as possible for exchanges the core of
