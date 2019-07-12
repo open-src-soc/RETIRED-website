@@ -7,13 +7,15 @@
 La « /Semaine RISC-V/ » (RISC-V Week) brings together two events from
 1 to 3 October 2019 in Paris:
 
-- The « [[#mardi][/Deuxièmes Rencontres RISC-V/]] » (2nd RISC-V Meetings) will
-  take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
+- The « [[#mardi][/Deuxièmes Rencontres RISC-V/]] » (2nd RISC-V Meetings),
+  organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] & [[http://www.cea.fr][CEA]], will take place at [[https://espace-van-gogh.com][Espace Van Gogh]],
+  [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
   - Tuesday 1st October, from 8h45 to 17h30 -- reception from 8h00.
   - Wednesday 2nd October, from 8h30 to 16h30.
 
 - The /Journée scientifique IRT SE & GDR SOC2:/ « /RISC-V for critical
-  embedded systems/ » will take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
+  embedded systems/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
+  take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday 3rd October, from 8h00 until 16h15.
 
 A [[../programme.html][preliminary schedule]] of the three days is
