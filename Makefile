@@ -10,7 +10,12 @@ stack_build:
 	stack build
 .PHONY: stack_build
 
-push: rebuild
+isEverythingCommitted:
+	./src/isEverythingCommitted.sh
+.PHONY: isEverythingCommitted
+
+
+push: isEverythingCommitted rebuild
 	git submodule update --remote --merge
 	rsync -avr --delete --exclude='.git' --exclude="CNAME" _site/ site/
 	cd site \
