@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# report for all files that are not committed.  ignore submodules in a
-# dirty state.
+# report for all files with uncommitted changes.  ignore submodules in
+# a dirty state.
 RES=$(git status --ignore-submodules=dirty  --short)
 
 if [ -z "$RES" ]; then
