@@ -13,7 +13,7 @@ events:
   - [[#mardi][Tuesday 1st October]], from 8h45 to 17h30 -- reception from 8h00.
   - [[#mercredi][Wednesday 2nd October]], from 8h30 to 16h30.
 
-- The /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]:/ « /RISC-V for critical
+- The « /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]: RISC-V for critical
   embedded systems/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - [[#jeudi][Thursday 3rd October]], from 8h00 until 16h15.
