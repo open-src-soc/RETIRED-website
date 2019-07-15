@@ -18,9 +18,6 @@ events:
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - [[#jeudi][Thursday 3rd October]], from 8h00 until 16h15.
 
-
-[[file:index.html#rencontres][les 2e rencontres]]
-
 *** Mardi 1er octobre, premier jour des 2è Rencontres RISC-V
      :PROPERTIES:
      :CUSTOM_ID: mardi
