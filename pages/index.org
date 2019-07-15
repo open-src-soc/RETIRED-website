@@ -100,7 +100,7 @@ The Organisation Committee can be reached at:
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 
-** /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]:/ « /RISC-V for critical embedded systems/ »
+** /Journée scientifique [[http://www.irt-saintexupery.com][IRT St-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]:/ « /RISC-V for critical embedded systems/ »
 :PROPERTIES:
 :CUSTOM_ID: gdr-soc2
 :END:
