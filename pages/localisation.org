@@ -14,6 +14,8 @@ downtown:
 
 - The « /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]: RISC-V for critical
   embedded systems/ » day, on 3rd October, organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]]
-  and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will take place at the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]], Paris Vè.
+  and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will take place in Sorbonne Université, Campus Pierre
+  et Marie Curie, 4 place Jussieu, Paris Vè. Tower 26, Corridor 25–26,
+  Room 105.
 
 Both are close to public transport.
