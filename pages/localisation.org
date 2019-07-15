@@ -2,7 +2,18 @@
 #+OPTIONS: toc:nil
 #+title: Localisation des rencontres
 
-* Lieu des rencontres
+* Venues
 
-Les 2è rencontres auront lieu à l'[[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]],
-Paris XIIè.
+The “Semaine RISC-V” is split on two venues, both located in Paris
+downtown:
+
+- The venue for the two days (1st and 2nd October) of the « [[#mardi][/Deuxièmes
+  Rencontres RISC-V/]] » (2nd RISC-V Meetings), organised by [[http://www.irtnanoelec.fr][IRT
+  Nanoelec]] and [[http://www.cea.fr][CEA]], will take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la
+  rapée]], Paris XIIè.
+
+- The « /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]: RISC-V for critical
+  embedded systems/ » day, on 3rd October, organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]]
+  and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will take place at the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]], Paris Vè.
+
+Both are close to public transport.
