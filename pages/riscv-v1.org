@@ -2,17 +2,16 @@
 #+OPTIONS: toc:nil
 #+title: Premières rencontres RISC-V
 
-* Premières rencontres RISC-V
+* Premières Rencontres RISC-V -- /First RISC-V Meetings/
 
-Les premières rencontres sur /«\nbsp{}L’impact et les opportunités de
-RISC-V\nbsp{}»/ étaient consacrées aux /«\nbsp{}Opportunités
-académiques de RISC-V.\nbsp{}»/
+The first /“RISC-V Meetings”/ on the impact and opportunities of
+RISC-V were dedicated to /“Accademic RISC-V opportunities.”/
 
-Elles eurent lieu mercredi 17 octobre 2018 à Minatec, à Grenoble.
+They took place on Wednesday October 17th, in CEA's premises, at
+Minatec Grenoble, France.
 
-Leur programme est accessible [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][en ligne]].  Un résumé, disponible en
-[[https://www.youtube.com/watch?v=s4K4PiVAUhQ][vidéo]] (en Anglais), fut présenté à
-[[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]].
+The program of this first edition is available [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][online]]. A [[https://www.youtube.com/watch?v=s4K4PiVAUhQ][vidéo]] summary
+was presented at [[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]].
 
 #+BEGIN_EXPORT html
 <p>
