@@ -109,7 +109,9 @@ The Organisation Committee can be reached at:
 
 *** Comité d'organisation
 
-/TBD/
+The Organisation Committee is composed of: Philippe Cuenot ([[http://www.irt-saintexupery.com][IRT
+St-Exupéry]], Continental), Sébastien Faucou (LS2N, Université de
+Nantes), Maxime Pelcat (IETR, Insa de Rennes).
 
 *** Contact
 
