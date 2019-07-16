@@ -7,26 +7,26 @@ RISC-V), organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://w
 looking for sponsors:
 
  - A single Gold Sponsor: :: For 2,500 € ex-VAT you will be get the
-      following benefits: five free entrances to the two-days
-      «\nbsp{}2nd RISC-V Meetings,\nbsp{}» two kakemonos (provided by
-      the sponsor) displayed at the entrance of the venue, its logo on
-      the programm distributed to the audience, and the posibilitiy to
-      add flyers and a couple of goodies (all provided by the sponsor)
-      to the registration pack delivered to the audience.
+      following benefits: three free entrances to the two-days /2nd
+      RISC-V Meetings/, two [[https://fr.wikipedia.org/wiki/Kakemono#Publicit%25C3%25A9][kakemonos]] (provided by the sponsor)
+      displayed at the entrance of the venue, your logo on the
+      programm distributed to the audience, and the posibilitiy to add
+      flyers and a couple of goodies (all provided by the sponsor) to
+      the registration pack delivered to the audience.
 
  - Three Silver Sponsors: :: For 1,500 € ex-VAT you will be get the
-      folloiwng benefits: 2 free entrances to the two-days «\nbsp{}2nd
-      RISC-V Meetings,\nbsp{}» its logo on the programm distributed to
-      the audience, and the possibility to add flyers and a couple
-      goodies (all provided by the sponsor) to the registration pack
-      provided to the audience during resgitration.
+      following benefits: two free entrances to the two-days /2nd
+      RISC-V Meetings/, your logo on the program distributed to the
+      audience, and the possibility to add flyers and a couple goodies
+      (all provided by the sponsor) to the registration pack provided
+      to the audience during resgitration.
 
  - Five Bronze Sponsors: :: For 1,000 € ex-VAT you will be get the
-      folloiwng benefits: 1 free entrance to the two-days «\nbsp{}2nd
-      RISC-V Meetings,\nbsp{}» your logo on the programm distributed
-      to the audience, and the possibility to add a flyer (provided by
-      the sponsor) to the registration pack provided to the audience
-      during resgitration.
+      following benefits: one free entrance to the two-days /2nd
+      RISC-V Meetings/, your logo on the program distributed to the
+      audience, and the possibility to add a flyer (provided by the
+      sponsor) to the registration pack provided to the audience
+      during resgistration.
 
 For more information on sponsoring of the /2nd RISC-V Meetings/,
 please get in touch with [[mailto:somebody@somewher][M. Somebody]] at [[mailo:somebody@somewhere][=somebody@somewhere=]].
