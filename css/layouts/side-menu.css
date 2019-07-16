@@ -257,3 +257,31 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         left: 150px;
     }
 }
+
+/** TABLES **/
+
+
+th, td {
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-width: 100px;
+}
+
+tr td:first-child {
+vertical-align:top;
+padding-right:10px;
+width:90px;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+th, td {
+border-bottom: 1px solid #ddd;
+}
+
+table {
+margin-bottom:10px;
+}
+
+td:has('Break') {
+  font-weight: bold;
+}
