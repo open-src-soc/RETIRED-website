@@ -14,6 +14,9 @@ isEverythingCommitted:
 	./src/isEverythingCommitted.sh
 .PHONY: isEverythingCommitted
 
+# To avoid problems with submodule, do not pull directly.
+pull:
+	git pull --recurse-submodules
 
 push: isEverythingCommitted rebuild
 	git submodule update --remote --merge
