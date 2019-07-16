@@ -2,9 +2,9 @@
 #+OPTIONS: toc:nil
 #+title: Sponsors
 
-The two days event /2nd RISC-V Meetings/ (Deuxièmes Rencontres
-RISC-V), organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]] at [[https://espace-van-gogh.com][Espace Van Gogh]], is
-looking for sponsors:
+The two days event /2nd RISC-V Meetings/ («\nbsp{}Deuxièmes Rencontres
+RISC-V\nbsp{}»), organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]] at [[https://espace-van-gogh.com][Espace Van Gogh]],
+is looking for sponsors:
 
  - A single Gold Sponsor: :: For 2,500 € ex-VAT you will be get the
       following benefits: three free entrances to the two-days /2nd
