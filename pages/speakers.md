@@ -32,6 +32,31 @@ instruction fetch frond-end in a very wide-issue processor.
 
 # Presentations
 
+## Open source GPUs: How can RISC-V play a role?
+
+By [Nima Taherinejad](https://www.ict.tuwien.ac.at/staff/taherinejad).
+
+In this talk, first, I briefly review existing open source GPUs and
+their status. Given its merit and the work we have done in group on
+the award-winning Nyuzi GPGPU, I will pay a closer attention to that
+work. Next, I will discuss some of the challenges they face as well as
+the importance of investing more into research and development of such
+architectures and potential direction of such research and
+development. At the end, I position RISC-V with respect to the open
+source GPUs and present some ideas on how RISC-V and its community can
+play a role in a potentially joint future.
+
+*Nima Taherinejad is a PhD graduate of the University of British
+ Columbia (UBC), Vancouver, Canada. He is currently at the
+ [TU Wien](https://www.ict.tuwien.ac.at) (formerly known also as
+ Vienna University of Technology), Vienna, Austria, where he leads the
+ system-on-chip (SoC) educational MSc module and works on
+ self-awareness in resource-constrained cyber-physical systems,
+ embedded systems, memristor-based circuit and systems, health-care,
+ and robotics. In the field of computer architecture his activities
+ revolve mainly around GPU architectures and resource management in
+ multi-processor SoCs.*
+
 ## Alternative languages for safe and secure RISC-V programming
 
 By [Fabien Chouteau](https://twitter.com/deschips).
