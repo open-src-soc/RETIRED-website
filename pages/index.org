@@ -105,7 +105,22 @@ The Organisation Committee can be reached at:
 :CUSTOM_ID: gdr-soc2
 :END:
 
-/TBD/
+The [[http://www.irt-saintexupery.com][IRT Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ pursue their cooperation with the
+organization of their 3rd sicentific day gathering industry and
+academia on critical embedded systems.
+
+This year, the scientific day is organized in Paris, in partnership
+with the /“Deuxièmes Rencontres RISC-V”/ and as part of the
+“Semaine RISC-V”. It will focus on the opportunities offered by RISC-V
+and open hardware solutions for the field of critical embedded
+systems.
+
+The day will include extensive presentations by guest speakers from
+academia and industry on the following topics:
+
+- Hardware design
+- Industrial needs and requirements
+- Design tools for critical systems
 
 *** Comité d'organisation
 
