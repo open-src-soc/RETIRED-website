@@ -1,5 +1,0 @@
-#+STARTUP: showall
-#+OPTIONS: toc:nil
-#+title: Deuxièmes rencontres RISC-V
-
-* Informations pratiques
