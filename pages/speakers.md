@@ -15,9 +15,7 @@ In this talk, I will focus on the challenges for the design of the
 instruction fetch frond-end in a very wide-issue processor.
 
 *André Seznec is a Fellow Research Director (DR0) at IRISA/INRIA in
- Rennes.*
-
-*His main research activity has ported on the architecture of
+ Rennes.  His main research activity has ported on the architecture of
  microprocessors, including caches, pipeline, branch predictors,
  speculative execution, multithreading and multicores. His research
  has influenced the design of many high-end industrial
