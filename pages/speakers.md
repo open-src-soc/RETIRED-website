@@ -106,10 +106,9 @@ penetrate into the architecture itself and test new attacks
 (e.g. sidechannel attacks, Trojan injection, etc.) making it our
 Trojan horse to conquer security.
 
-## A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal
-   Processing
+## A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing
 
-By Hela Belhadj Amor, **Carolynn Bernier**, Zdeněk Přikryl
+By Hela Belhadj Amor, **Carolynn Bernier**, Zdeněk Přikryl.
 
 We present an instruction-set extension to the open-source RISC-V ISA
 (RV32IM) dedicated to ultra-low power (ULP) software-defined wireless
