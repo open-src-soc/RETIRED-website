@@ -152,8 +152,9 @@ pédagogiques. Ce cœur RISC-V est la brique de base du processeur LBP,
 manycore parallélisant à 64 cœurs, en cours de développement.
 
 Bernard Goossens est professeur émérite à l'Université de Perpignan
-([UPVD](https://webdali.univ-perp.fr)). Il est membre de l'équipe Dali
-du [LIRMM](http://www.lirmm.fr).
+([UPVD](https://webdali.univ-perp.fr)). Il est membre de l'équipe
+[Dali](http://www.lirmm.fr/recherche/equipes/dali) du
+[LIRMM](http://www.lirmm.fr).
 
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
