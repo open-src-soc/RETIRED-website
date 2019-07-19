@@ -33,13 +33,10 @@ For more information on sponsoring of the /2nd RISC-V Meetings/,
 please get in touch with [[mailto:somebody@somewher][M. Somebody]] at [[mailo:somebody@somewhere][=somebody@somewhere=]].
 
 #+BEGIN_EXPORT html
-<p>
-<a href="http://www.cea-tech.fr">
-<img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" /></a>
-
-<a href="http://www.irtnanoelec.fr/fr/">
-<img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100" /></a>
-
+<p align="center">
+<a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
 </p>
 #+END_EXPORT
 

@@ -135,13 +135,10 @@ Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ can be reached at
 [[mailto:contact-3oct@open-src-soc.org][=contact-3oct@open-src-soc.org=]].
 
 #+BEGIN_EXPORT html
-<p>
-<a href="http://www.cea-tech.fr">
-<img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" /></a>
-
-<a href="http://www.irtnanoelec.fr/fr/">
-<img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100" /></a>
-
+<p align="center">
+<a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
 </p>
 #+END_EXPORT
 

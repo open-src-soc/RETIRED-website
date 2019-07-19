@@ -5,3 +5,11 @@
 * Inscription
 
 Le site d'inscription sera bientôt mis en ligne.
+
+#+BEGIN_EXPORT html
+<p align="center">
+<a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
+</p>
+#+END_EXPORT
