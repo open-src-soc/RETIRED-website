@@ -130,7 +130,9 @@ Nantes), Maxime Pelcat (IETR, Insa de Rennes).
 
 *** Contact
 
-/TBD/
+The Organisation Committee from the /Journée scientifique [[http://www.irt-saintexupery.com][IRT
+Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ can be reached at
+[[mailto:contact-3oct@open-src-soc.org][=contact-3oct@open-src-soc.org=]].
 
 #+BEGIN_EXPORT html
 <p>
