@@ -156,6 +156,29 @@ Bernard Goossens est professeur émérite à l'Université de Perpignan
 [Dali](http://www.lirmm.fr/recherche/equipes/dali) du
 [LIRMM](http://www.lirmm.fr).
 
+## Nanvix: un système d'exploitation pour processeurs many-cœurs
+
+By **Pedro Henrique Penna** (PUC Minas, UGA), Marcio Castro (UFSC, Brésil),
+François Broquedis (Grenoble INP), Henrique Cota de Freitas (PUC Minas,
+Brésil), Jean-François Méhaut (UGA).
+
+Nanvix est un système d'exploitation généraliste conçu et développé
+pour les nouvelles générations de processeurs many-cœurs. Un effort
+important a été mené pour rendre le système Nanvix portable et
+performant sur une grande variété de processeurs, comme le MPPA
+(Kalray) ou des processeurs à base OpenRisc (OptimSoC) ou bien RISC-V
+(PULP). La portabilité de Nanvix est garantie par la couche
+d'abstraction HAL que nous présenterons pendant cet exposé. Une des
+particularités des architectures est que les cœurs sont regroupées en
+clusters avec un espace de mémoire local réduit.  Une des originalités
+de Nanvix est de proposer une gestion de mémoire paginée et distribuée
+sur le processeur et la mémoire centrale.  Les services de base du
+système Nanvix sont pris en charge par des processus serveurs
+spécialisés, qui s'exécutent en mode utilisateur. Le domaine
+applicatif visé par Nanvix est celui des data centers.  Nanvix
+Website: [``https://github.com/nanvix``](https://github.com/nanvix)
+
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
