@@ -120,7 +120,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |-------+---------+---------------------|
 
 
-*** Jeudi 3 octobre, /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]:/ « /RISC-V for critical embedded systems/
+*** Jeudi 3 octobre, /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]:/ « /RISC-V for critical embedded systems/ »
     :PROPERTIES:
     :CUSTOM_ID: jeudi
     :END:
