@@ -131,6 +131,31 @@ algorithm.
  low complexity algorithms for machine learning applied to deeply
  embedded systems.*
 
+## Un cœur RISC-V OoO en HLS
+
+By
+**[Bernard Goossens](https://perso.univ-perp.fr/bernard.goossens/)**
+et David Parello.
+
+Je présenterai le cœur RISC-V out-of-order (pipeline à 4 étages :
+fetch+decode+rename ; issue ; writeback ; commit) que j'ai
+développé. Tout est entièrement écrit en C sous Vivado HLS. Le code a
+été testé avec succès sur une carte Pynq (carte de développement
+fournie gratuitement aux enseignants-chercheurs sur demande à Xilinx,
+dans le cadre de l'initiative XUP). Ce cœur RISC-V doit être compris
+comme un kit de base sur lequel les utilisateurs sont invités à
+greffer des extensions. Le cœur RISC-V ne contient aucun accélérateur
+classique pour remplir le pipeline (p.ex. prédicteur de sauts, caches)
+ni d'opérateurs flottants (seul le jeu des instructions entières 32
+bits a été implémenté). Il peut servir de noyau pour ajouter des
+unités et mesurer leurs effets, par exemple dans le cadre de projets
+pédagogiques. Ce cœur RISC-V est la brique de base du processeur LBP,
+manycore parallélisant à 64 cœurs, en cours de développement.
+
+Bernard Goossens est professeur émérite à l'Université de Perpignan
+([UPVD](https://webdali.univ-perp.fr)). Il est membre de l'équipe Dali
+du [LIRMM](http://www.lirmm.fr).
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
