@@ -18,8 +18,8 @@ La « /Semaine RISC-V/ » (RISC-V Week) brings together two events from
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday 3rd October, from 8h00 until 16h15.
 
-A [[../programme.html][preliminary schedule]] of the three days is
-online. The list of speakers will be added very soon.
+The detailed program is not yes published. An early [[./speakers.html][list of speakers]]
+is available.
 
 ** /Deuxièmes Rencontres RISC-V/  -- 2nd RISC-V Meetings
 :PROPERTIES:
