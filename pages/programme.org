@@ -133,7 +133,7 @@ Location: [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]], P
 |-------+------------------------------+------------------------------------------------------------------------------------------|
 | 08h45 | TBA                          | Presentation of IRT Saint-Exupéry and GDR SOC2                                           |
 |-------+------------------------------+------------------------------------------------------------------------------------------|
-| 09h00 | Denis Dutoit                 | The European Processor Initiative and the role of RISC-V                                 |
+| 09h00 | Denis Dutoit (CEA LETI)      | The European Processor Initiative and the role of RISC-V                                 |
 |-------+------------------------------+------------------------------------------------------------------------------------------|
 | 09h50 | TBA (ETHZ)                   | Design of RISC-V Cores for Different Application Domains                                 |
 |-------+------------------------------+------------------------------------------------------------------------------------------|
