@@ -128,7 +128,7 @@ algorithm.
  low complexity algorithms for machine learning applied to deeply
  embedded systems.*
 
-## Un cœur RISC-V OoO en HLS
+## An Out-of-Order RISCV Core Developed with HLS
 
 By
 **[Bernard Goossens](https://perso.univ-perp.fr/bernard.goossens/)**
