@@ -134,25 +134,25 @@ By
 **[Bernard Goossens](https://perso.univ-perp.fr/bernard.goossens/)**
 et David Parello.
 
-Je présenterai le cœur RISC-V out-of-order (pipeline à 4 étages :
-fetch+decode+rename ; issue ; writeback ; commit) que j'ai
-développé. Tout est entièrement écrit en C sous Vivado HLS. Le code a
-été testé avec succès sur une carte Pynq (carte de développement
-fournie gratuitement aux enseignants-chercheurs sur demande à Xilinx,
-dans le cadre de l'initiative XUP). Ce cœur RISC-V doit être compris
-comme un kit de base sur lequel les utilisateurs sont invités à
-greffer des extensions. Le cœur RISC-V ne contient aucun accélérateur
-classique pour remplir le pipeline (p.ex. prédicteur de sauts, caches)
-ni d'opérateurs flottants (seul le jeu des instructions entières 32
-bits a été implémenté). Il peut servir de noyau pour ajouter des
-unités et mesurer leurs effets, par exemple dans le cadre de projets
-pédagogiques. Ce cœur RISC-V est la brique de base du processeur LBP,
-manycore parallélisant à 64 cœurs, en cours de développement.
+I will introduce the out-of-order RISC-V core (4-stage pipeline:
+fetch + decode + rename; issue; writeback; commit) that we
+developed. Everything is written entirely in C under Vivado HLS. The
+code has been successfully tested on a Pynq card (free development
+board provided to teacher-researchers upon request to Xilinx, as part
+of the XUP initiative). This RISC-V core should be understood as a
+basic kit on which users are invited to add extensions. The RISC-V
+core does not contain any traditional accelerator for filling the
+pipeline (eg branch predictor, caches) or floating operators (only the
+set of 32-bit integer instructions has been implemented). It can serve
+as a nutshell to add units and measure their effects, for example in
+the context of educational projects. This RISC-V core is the core
+brick of the LBP processor, a 64-cores manycore parallelizing
+processor, under development.
 
-Bernard Goossens est professeur émérite à l'Université de Perpignan
-([UPVD](https://webdali.univ-perp.fr)). Il est membre de l'équipe
-[Dali](http://www.lirmm.fr/recherche/equipes/dali) du
-[LIRMM](http://www.lirmm.fr).
+*Bernard Goossens is Professor Emeritus at the
+[University of Perpignan (UPVD)](https://webdali.univ-perp.fr).  He is
+a member of the [Dali](http://www.lirmm.fr/recherche/equipes/dali)
+team at [LIRMM](http://www.lirmm.fr).*
 
 ## Nanvix: un système d'exploitation pour processeurs many-cœurs
 
