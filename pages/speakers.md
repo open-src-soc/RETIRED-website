@@ -179,6 +179,37 @@ spécialisés, qui s'exécutent en mode utilisateur. Le domaine
 applicatif visé par Nanvix est celui des data centers.  Nanvix
 Website: [``https://github.com/nanvix``](https://github.com/nanvix)
 
+## Fast and Accurate Vulnerability Analysis of a RISC-V Processor
+
+By Joseph Paturel, Simon Rokicki, Davide Pala, **[Olivier Sentieys](http://people.rennes.inria.fr/Olivier.Sentieys/)**.
+
+As the RISC-V ISA gains traction in the safety-critical embedded
+system domain, the development of hardened cores becomes
+crucial. During this presentation, we present a vulnerability analysis
+framework that allows for a fast and accurate estimation of processor
+errors due to transient faults. The proposed set of tools is based on
+the 32-bit RISC-V core Comet supporting the M extension. The generated
+hardware's reaction to particle hits is characterized at the
+gate-level using logic transient pulse width based on physical
+transistor models. The Comet core being designed at the C level with
+high-level synthesis tools, a fast, cycle- and bit-accurate simulator
+can be derived from the core specifications. The previously extracted
+error patterns are hence re-injected in the core during the execution
+of applications and the system response is evaluated. This enables the
+estimation of various vulnerability related metrics and can swiftly
+drive the core-hardening design process. Results show that the
+combinational logic needed to implement the M extension plays a
+non-negligible role in the overall core vulnerability and that
+multiple-bit upset patterns need to be considered.
+
+*Olivier Sentieys is a Professor at the University of Rennes holding
+ an INRIA Research Chair on Energy-Efficient Computing Systems. He is
+ leading the [Cairn](https://team.inria.fr/cairn/) team common to
+ Inria and IRISA Laboratory. He is also the head of the “Computer
+ Architecture” department of IRISA. His research interests include
+ system-level design, energy-efficiency, reconfigurable systems,
+ hardware acceleration, approximate computing, fault tolerance, and
+ energy harvesting sensor networks.*
 
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
