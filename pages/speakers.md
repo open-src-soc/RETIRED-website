@@ -1,3 +1,6 @@
+<style>
+H2 { color: blue}
+</style>
 
 # Keynotes
 
