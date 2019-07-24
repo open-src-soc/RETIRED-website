@@ -191,6 +191,17 @@ through a rich hardware abstraction layer (HAL), which we shall cover
 in this talk. Nanvix source tree:
 [``https://github.com/nanvix``](https://github.com/nanvix)
 
+*Pedro Henrique Penna is a PhD Candidate in Informatics at Université
+ Grenoble Alpes ([UGA](https://www.univ-grenoble-alpes.fr), France) in
+ a cotutelle regime with Pontifícia Universidade Católica de Minas
+ Gerais ([PUC Minas](https://www.pucminas.br), Brazil). In his thesis,
+ Pedro is focused on the design of operating systems for lightweight
+ manycore processors, and he works in collaboration with Kalray and
+ Technical University of Munich (TUM, Germany) in this subject.  Pedro
+ earned his Master Degree in Computer Science from Universidade
+ Federal de Santa Catarina ([UFSC](http://ufsc.br), Brazil) in 2017,
+ and he is the main designer of Nanvix.*
+
 ## Fast and Accurate Vulnerability Analysis of a RISC-V Processor
 
 By Joseph Paturel, Simon Rokicki, Davide Pala,
