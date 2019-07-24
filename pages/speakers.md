@@ -170,21 +170,22 @@ By **Pedro Henrique Penna** (PUC Minas, UGA), Marcio Castro (UFSC, Brésil),
 François Broquedis (Grenoble INP), Henrique Cota de Freitas (PUC Minas,
 Brésil), Jean-François Méhaut (UGA).
 
-Nanvix est un système d'exploitation généraliste conçu et développé
-pour les nouvelles générations de processeurs many-cœurs. Un effort
-important a été mené pour rendre le système Nanvix portable et
-performant sur une grande variété de processeurs, comme le MPPA
-(Kalray) ou des processeurs à base OpenRisc (OptimSoC) ou bien RISC-V
-(PULP). La portabilité de Nanvix est garantie par la couche
-d'abstraction HAL que nous présenterons pendant cet exposé. Une des
-particularités des architectures est que les cœurs sont regroupées en
-clusters avec un espace de mémoire local réduit.  Une des originalités
-de Nanvix est de proposer une gestion de mémoire paginée et distribuée
-sur le processeur et la mémoire centrale.  Les services de base du
-système Nanvix sont pris en charge par des processus serveurs
-spécialisés, qui s'exécutent en mode utilisateur. Le domaine
-applicatif visé par Nanvix est celui des data centers.  Nanvix
-Website: [``https://github.com/nanvix``](https://github.com/nanvix)
+Lightweight manycores differ from other high core count architectures
+in two major architectural points: they feature a distributed memory
+memory architecture; and they have their cores grouped into clusters
+with small amounts of local memory available. Nanvix is general
+purpose operating system (OS) that we designed from scratch to address
+this next generation of processors. Our OS features a distributed
+structure, in which traditional OS functionalities are implemented as
+system servers; and it aims at a novel distributed paging system to
+overcome architectural challenges of lightweight manycores. So far, a
+great effort was made to make Nanvix portable and performant across
+multiple targets, including industrial processors, such as MPPA
+(Kalray), and academic lightweight manycores, like those based in
+OpenRISC (OpTiMSoC) and RISC-V (PULP). Nanvix delivers these features
+through a rich hardware abstraction layer (HAL), which we shall cover
+in this talk. Nanvix source tree:
+[``https://github.com/nanvix``](https://github.com/nanvix)
 
 ## Fast and Accurate Vulnerability Analysis of a RISC-V Processor
 
