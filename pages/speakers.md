@@ -6,7 +6,8 @@ H2 { color: blue}
 
 ## It’s the Instruction Fetch Front-End, Stupid!
 
-By [André Seznec](https://team.inria.fr/pacap/members/andre-seznec).
+By [André Seznec](https://team.inria.fr/pacap/members/andre-seznec)
+([INRIA](https://www.inria.fr)).
 
 Achieving high single-thread performance remains a major challenge
 even in the multicore era.  To achieve ultimate single-thread
@@ -35,7 +36,8 @@ instruction fetch frond-end in a very wide-issue processor.
 
 ## Open source GPUs: How can RISC-V play a role?
 
-By [Nima Taherinejad](https://www.ict.tuwien.ac.at/staff/taherinejad).
+By [Nima Taherinejad](https://www.ict.tuwien.ac.at/staff/taherinejad)
+([TU Wien](https://www.ict.tuwien.ac.at)).
 
 In this talk, first, I briefly review existing open source GPUs and
 their status. Given its merit and the work we have done in group on
@@ -60,7 +62,8 @@ play a role in a potentially joint future.
 
 ## Alternative languages for safe and secure RISC-V programming
 
-By [Fabien Chouteau](https://twitter.com/deschips).
+By [Fabien Chouteau](https://twitter.com/deschips)
+([Ada Core](https://www.adacore.com)).
 
 In this talk I want to open a window into the wonderful world of
 "alternative" programming languages for RISC-V. What can you get by
@@ -85,6 +88,7 @@ ideas on how the RISC-V can keep the door open.
 
 By Rafail Psiakis &
 [Sylvain Guilley](https://perso.telecom-paristech.fr/guilley)
+([Secure IC](http://www.secure-ic.com)).
 
 RISC-V is an emerging instruction-set architecture widely used inside
 plenty of modern embedded SoCs. As the number of commercial vendors
@@ -109,7 +113,9 @@ Trojan horse to conquer security.
 
 ## A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing
 
-By Hela Belhadj Amor, **Carolynn Bernier**, Zdeněk Přikryl.
+By Hela Belhadj Amor, **Carolynn Bernier**
+([CEA LETI](http://www.leti-cea.fr)), Zdeněk Přikryl
+([Codasip GmbH](http://www.codasip.com)).
 
 We present an instruction-set extension to the open-source RISC-V ISA
 (RV32IM) dedicated to ultra-low power (ULP) software-defined wireless
@@ -135,7 +141,7 @@ algorithm.
 
 By
 **[Bernard Goossens](https://perso.univ-perp.fr/bernard.goossens/)**
-et David Parello.
+& David Parello ([UPVD](https://webdali.univ-perp.fr)).
 
 I will introduce the out-of-order RISC-V core (4-stage pipeline:
 fetch + decode + rename; issue; writeback; commit) that we
@@ -182,7 +188,9 @@ Website: [``https://github.com/nanvix``](https://github.com/nanvix)
 
 ## Fast and Accurate Vulnerability Analysis of a RISC-V Processor
 
-By Joseph Paturel, Simon Rokicki, Davide Pala, **[Olivier Sentieys](http://people.rennes.inria.fr/Olivier.Sentieys/)**.
+By Joseph Paturel, Simon Rokicki, Davide Pala,
+**[Olivier Sentieys](http://people.rennes.inria.fr/Olivier.Sentieys/)**
+([INRIA](https://www.inria.fr)).
 
 As the RISC-V ISA gains traction in the safety-critical embedded
 system domain, the development of hardened cores becomes
@@ -220,7 +228,8 @@ By Rick O'Connor ([OpenHW Group](https://www.openhwgroup.org))
 
 ## Challenges to Adoption of Open-Source RISC-V Processors
 
-By **Zdeněk Přikryl** and Chris Jones
+By **Zdeněk Přikryl** & Chris Jones
+([Codasip GmbH](http://www.codasip.com)).
 
 The RISC-V movement offers the greatest potential for innovation in
 SoC design in a decade as a global ecosystem of contributors has
