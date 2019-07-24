@@ -155,7 +155,8 @@ processor, under development.
 *Bernard Goossens is Professor Emeritus at the
 [University of Perpignan (UPVD)](https://webdali.univ-perp.fr).  He is
 a member of the [Dali](http://www.lirmm.fr/recherche/equipes/dali)
-team at [LIRMM](http://www.lirmm.fr).*
+team at [LIRMM](http://www.lirmm.fr). His research is on the capture
+of very distant ILP.*
 
 ## Nanvix: un système d'exploitation pour processeurs many-cœurs
 
