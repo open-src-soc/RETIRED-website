@@ -267,6 +267,13 @@ addressing them in a manner that benefits the entire RISC-V community.
  he was a Researcher at the Technical University of Brno and a
  software engineer at Red Hat.*
 
+## Formal Proof of RISC-V Cores
+
+By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, **Romain Soulat**
+([Thales R&T](https://www.thalesgroup.com/en/global/innovation/research-and-technology)).
+
+*Abstract and bio. TBA.*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
