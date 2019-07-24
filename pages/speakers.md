@@ -166,9 +166,13 @@ of very distant ILP.*
 
 ## Nanvix: An Operating System for Lightweight Manycores
 
-By **Pedro Henrique Penna** (PUC Minas, UGA), Marcio Castro (UFSC, Brésil),
-François Broquedis (Grenoble INP), Henrique Cota de Freitas (PUC Minas,
-Brésil), Jean-François Méhaut (UGA).
+By **[Pedro Henrique Penna](http://www.sites.google.com/view/ppenna)**
+([PUC Minas](https://www.pucminas.br),
+[UGA](https://www.univ-grenoble-alpes.fr)), Marcio Castro
+([UFSC](http://ufsc.br), Brésil), François Broquedis
+([INPG](http://www.grenoble-inp.fr)), Henrique Cota de Freitas
+([PUC Minas](https://www.pucminas.br), Brésil), Jean-François Méhaut
+([UGA](https://www.univ-grenoble-alpes.fr)).
 
 Lightweight manycores differ from other high core count architectures
 in two major architectural points: they feature a distributed memory
