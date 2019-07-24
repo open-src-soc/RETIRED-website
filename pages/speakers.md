@@ -164,7 +164,7 @@ a member of the [Dali](http://www.lirmm.fr/recherche/equipes/dali)
 team at [LIRMM](http://www.lirmm.fr). His research is on the capture
 of very distant ILP.*
 
-## Nanvix: un système d'exploitation pour processeurs many-cœurs
+## Nanvix: An Operating System for Lightweight Manycores
 
 By **Pedro Henrique Penna** (PUC Minas, UGA), Marcio Castro (UFSC, Brésil),
 François Broquedis (Grenoble INP), Henrique Cota de Freitas (PUC Minas,
