@@ -217,6 +217,30 @@ By Rick O'Connor ([OpenHW Group](https://www.openhwgroup.org))
 
 *Abstract and bio. TBA.*
 
+## Challenges to Adoption of Open-Source RISC-V Processors
+
+By **Zdeněk Přikryl** and Chris Jones
+
+The RISC-V movement offers the greatest potential for innovation in
+SoC design in a decade as a global ecosystem of contributors has
+emerged. This movement offers unprecedented choice for both research
+and for commercial consumers of processor technology. However, going
+from open source RISC-V implementation to deployment in a real
+production design requires cooperation of commercial IP and tools
+suppliers. Codasip endeavours to bridge the gap between open source
+and proprietary ISAs by offering professional grade RISC-V
+implementations and development tools for end-users to modify and
+optimize the architecture.  This presentation will discuss many of the
+challenges of commercial use of RISC-V and Codasip’s approach to
+addressing them in a manner that benefits the entire RISC-V community.
+
+*Dr Zdeněk Přikryl is the co-founder and chief technology officer of
+ [Codasip GmbH](http://www.codasip.com). He has over 10 years of
+ experience in processor design from small MCUs to complex DSPs/VLIWs,
+ along with embedded systems design, HLS, and simulation. Previously
+ he was a Researcher at the Technical University of Brno and a
+ software engineer at Red Hat.*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
