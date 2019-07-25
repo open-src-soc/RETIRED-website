@@ -30,7 +30,7 @@ is looking for sponsors:
       to the audience during resgistration.
 
 If you are interested in sponsoring of the /2nd RISC-V Meetings/,
-please send a mail to [[mailto:organisation@open-src-soc.org?Subject%3D"Sponsoring%202nd%20Rencontres%20RISC-V"%20][=organisation@open-src-soc.org=]].
+please send a mail to [[mailto:organisation@open-src-soc.org?subject%3DSponsoring%202nd%20Rencontres%20RISC-V][=organisation@open-src-soc.org=]].
 
 #+BEGIN_EXPORT html
 <p align="center">
