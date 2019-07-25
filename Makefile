@@ -18,8 +18,12 @@ isEverythingCommitted:
 pull:
 	git pull --recurse-submodules
 
+# The SED is to fix URLs where the "=" in the URL
+# "mailto:foo@example.com?subject=Whatever" should be a real "=", not
+# a "%3D"
 push: isEverythingCommitted rebuild
 	git submodule update --remote --merge
+	sed -i 's:\?subject%3D:\?subject=:' _site/*.html
 	rsync -avr --delete --exclude='.git' --exclude="CNAME" _site/ site/
 	cd site \
 		&& git checkout master \
