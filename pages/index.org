@@ -105,9 +105,9 @@ The Organisation Committee can be reached at:
 :CUSTOM_ID: gdr-soc2
 :END:
 
-The [[http://www.irt-saintexupery.com][IRT Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ pursue their cooperation with the
+[[http://www.irt-saintexupery.com][IRT Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]] pursue their cooperation with the
 organization of their 3rd sicentific day gathering industry and
-academia on critical embedded systems.
+academia on /critical embedded systems/.
 
 This year, the scientific day is organized in Paris, in partnership
 with the /“Deuxièmes Rencontres RISC-V”/ and as part of the
@@ -118,15 +118,14 @@ systems.
 The day will include extensive presentations by guest speakers from
 academia and industry on the following topics:
 
-- Hardware design
 - Industrial needs and requirements
+- Hardware design
 - Design tools for critical systems
 
 *** Comité d'organisation
 
 The Organisation Committee is composed of: Philippe Cuenot ([[http://www.irt-saintexupery.com][IRT
-St-Exupéry]], Continental), Sébastien Faucou (LS2N, Université de
-Nantes), Maxime Pelcat (IETR, Insa de Rennes).
+St-Exupéry]], Continental), Sébastien Faucou ([[https://www.ls2n.fr/][LS2N]], [[https://www.univ-nantes.fr][Université de Nantes]]), Maxime Pelcat ([[https://www.ietr.fr/][IETR]], [[https://www.insa-rennes.fr/][INSA de Rennes]]).
 
 *** Contact
 
