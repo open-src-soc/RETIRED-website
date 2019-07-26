@@ -17,14 +17,10 @@ main = do
   hakyll $ do
 
     -- static content
-    mapM_ (`match` (route idRoute >> compile copyFileCompiler))
-          [   "CNAME"
-            , "css/*"
-            , "css/layouts/*"
-            , "img/*"
-            , "js/*"
-            , "media/*"
-          ]
+    match ( "CNAME" .||. "css/*" .||. "css/layouts/*" .||. "img/*"
+            .||. "js/*" .||. "media/*") $ do
+      route idRoute
+      compile copyFileCompiler
 
     -- Static pages
     match ("pages/*.markdown" .||. "pages/*.md") $ do
