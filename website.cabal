@@ -7,6 +7,7 @@ executable site
   main-is:          site.hs
   hs-source-dirs:   src
   build-depends:    base == 4.*
+                  , MissingH
                   , blaze-html
                   , filepath
                   , hakyll >= 4.6.9
@@ -14,6 +15,6 @@ executable site
                   , pandoc-citeproc
                   , parsec
                   , process
-                  , MissingH
+                  , text
   ghc-options:      -Wall -threaded
   default-language: Haskell2010
