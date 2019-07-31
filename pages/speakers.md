@@ -274,6 +274,29 @@ By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, **Romain Soulat**
 
 *Abstract and bio. TBA.*
 
+## Development of a RV64GC IP core for the GRLIB IP Library
+
+By Jan Andersson ([Cobham Gaisler](https://www.gaisler.com/))
+
+Cobham Gaisler is a world leader for space computing solutions where
+the company provides radiation tolerant system-on-chip devices based
+around the LEON processors. The building blocks for these devices are
+also available as IP cores from the company in an IP library named
+GRLIB. Cobham Gaisler is currently developing a RV64GC core that will
+be provided as part of GRLIB. The presentation will cover why we see
+RISC-V as a good fit for us after SPARC32 and what we see missing in
+the ecosystem features
+
+*Mr Jan Andersson's key competencies are in Management of projects
+ developing complex digital systems, microprocessor architecture,
+ fault-tolerance concepts, use of programmable logic, Field
+ Programmable Gate Arrays for applications both in consumer
+ electronics and harsh environments. Background: Master of Science
+ degree in Computer Engineering focused on digital design and embedded
+ systems. Working at Cobham Gaisler as Director of Engineering,
+ overseeing hardware and software development efforts.*
+
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
