@@ -296,6 +296,66 @@ the ecosystem features
  systems. Working at Cobham Gaisler as Director of Engineering,
  overseeing hardware and software development efforts.*
 
+## Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
+
+Rick O’Connor ([OpenHW Group](openhwgroup.org))
+
+This talk will provide a brief overview of the RISC-V instruction set
+architecture and describe the CORE-V family of open-source cores that
+implement the RISC-V ISA.  RISC-V (pronounced “risk-five”) is an open,
+free ISA enabling a new era of processor innovation through open
+standard collaboration. Born in academia and research, RISC-V ISA
+delivers a new level of free, extensible software and hardware freedom
+on architecture, paving the way for the next 50 years of computing
+design and innovation.
+
+CORE-V is a series of RISC-V based open-source processor cores with
+associated processor subsystem IP, tools and software for electronic
+system designers. The CORE-V family provides quality core IP in line
+with industry best practices in both silicon and FPGA optimized
+implementations. These cores can be used to facilitate rapid design
+innovation and ensure effective manufacturability of production SoCs.
+
+The session will describe barriers to adoption of open-source IP and
+opportunities to overcome these barriers.
+
+*Rick O'Connor is Founder and serves as President & CEO of the OpenHW
+ Group a not-for-profit, global organization driven by its members and
+ individual contributors where hardware and software designers
+ collaborate on open source cores, related IP, tools and software
+ projects.  The OpenHW Group Core-V Family is a series of RISC-V based
+ open-source cores with associated processor subsystem IP, tools and
+ software for electronic system designers.*
+
+*Previously Rick was Executive Director of the RISC-V Foundation.
+ RISC-V (pronounced “risk-five”) is a free and open ISA enabling a new
+ era of processor innovation through open standard
+ collaboration. Founded by Rick in 2015 with the support of over 40
+ Founding Members, the RISC-V Foundation currently comprises more than
+ 235 members building an open, collaborative community of software and
+ hardware innovators powering processor innovation. Born in academia
+ and research, the RISC-V ISA delivers a new level of free, extensible
+ software and hardware freedom on architecture, paving the way for the
+ next 50 years of computing design and innovation.*
+
+*Throughout his career, Rick has continued to be at the leading-edge
+ of technology and corporate strategy and has held executive positions
+ in many industry standards bodies.  Also, with many years of
+ Executive level management experience in semiconductor and systems
+ companies, Rick possesses a unique combination of business and
+ technical skills and was responsible for the development of dozens of
+ products accounting for over $750 million in revenue.  With very
+ strong interpersonal skills, Rick is a regular speaker at key
+ industry forums and has built a very strong professional network of
+ key executives at many of the largest global technology firms
+ including: Altera (now part of Intel), AMD, ARM, Cadence, Dell,
+ Ericsson, Facebook, Google, Huawei, HP, IBM, IDT, Intel, Microsoft,
+ Nokia, NXP, RedHat, Synopsys, Texas Instruments, Western Digital,
+ Xilinx and many more.*
+
+*Rick holds an Executive MBA degree from the University of Ottawa and
+ is an honors graduate of the faculty of Electronics Engineering
+ Technology at Algonquin College.*
 
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
