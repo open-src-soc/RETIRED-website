@@ -357,6 +357,54 @@ opportunities to overcome these barriers.
  is an honors graduate of the faculty of Electronics Engineering
  Technology at Algonquin College.*
 
+## Ecological transition in ICT:  A role for open hardware ?
+
+By David Bol ([ECS, ICTEAM, UC Louvain](https://uclouvain.be/en/research-institutes/icteam/ecs.html)).
+
+Technological innovation has been fueling our financial economic
+system focused on growth. It allowed the prosperity of developed
+countries but also lead to technical obsolescence, accumulation of
+technologies and life activity acceleration as by-products. Pursuing
+the exponential economic growth on a finite planet lead us to an
+environmental crisis whose climate change is the most visible
+symptom. The emergency we are facing calls for an ecological
+transition towards more sustainable society and economy based on
+resource efficiency, sobriety and resilience. In this context, it is
+important for engineers to critically analyze our technological
+innovation habits.
+
+This talk gives a provocative personal point of view of innovation
+habits in the field of information and communication technologies
+(ICT), where exponential trends (Moore’s law, Cooper’s law, Koomey’s
+law) define the R&D roadmaps. We will discuss the potential role of
+open(-source) hardware towards a more sustainable innovation Bio:
+
+*David Bol is an assistant professor at the [Electronic Circuits and
+ Systems
+ (ECS)](https://uclouvain.be/en/research-institutes/icteam/ecs.html)
+ group, ICTEAM Institute of UC Louvain (UCL). He received the Ph.D
+ degree in Engineering Science from UCLouvain in 2008 in the field of
+ ultra-low power digital nanoelectronics. In 2005, he was a visiting
+ Ph.D student at the CNM, Sevilla, Spain, and in 2009, a postdoctoral
+ researcher at intoPIX, Louvain-la-Neuve, Belgium. In 2010, he was a
+ visiting postdoctoral researcher at the UC Berkeley Lab for
+ Manufacturing and Sustainability, Berkeley, CA. In 2015, he
+ participated to the creation of e-peas semiconductors spin-off
+ company, Louvain-la-Neuve, Belgium. He leads the Electronic Circuits
+ and Systems (ECS) research group focused on ultra-low-power design of
+ smart-sensor integrated circuits for the IoT and biomedical
+ applications with a specific focus on environmental
+ sustainability. His personal IC interests include computing, power
+ management, sensing and wireless communications.  Prof. Bol has
+ authored more than 100 papers and conference contributions and holds
+ three delivered patents. He (co-)received three Best
+ Paper/Poster/Design Awards in IEEE conferences (ICCD 2008, SOI
+ Conf. 2008, FTFC 2014). He serves as a reviewer for various IEEE
+ journals/conferences and presented several keynotes in international
+ conferences. On the private side, he pioneered the parental leave for
+ male professors in his institute to spend time connecting to nature
+ with his family.*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
