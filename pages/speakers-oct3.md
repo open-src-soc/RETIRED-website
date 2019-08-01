@@ -27,13 +27,25 @@ core IP.
  Defence and Space. He is now team leader of the R&D On board data processing
  team of Airbus Defence and Space in Toulouse, FR.
 
-## TBA
+## Development of a RV64GC IP core for the GRLIB IP Library
 
-By [TBA]()([Cobham Gaisler](https://www.gaisler.com))
+By [Jan Andersson]()([Cobham Gaisler](https://www.gaisler.com))
 
-TBA
+Cobham Gaisler is a world leader for space computing solutions where the company
+provides radiation tolerant system-on-chip devices based around the LEON
+processors. The building blocks for these devices are also available as IP cores
+from the company in an IP library named GRLIB. Cobham Gaisler is currently
+developing a RV64GC core that will be provided as part of GRLIB. The
+presentation will cover features of the IP core and how it fits with existing
+peripherals, with technical items we see missing in the specification.
 
-*TBA
+*Mr Jan Andersson is working at Cobham Gaisler as Director of Engineering,
+overseeing hardware and software development efforts. Its key competencies are
+in management of projects developing complex digital systems, microprocessor
+architecture, fault-tolerance concepts, use of programmable logic, Field
+Programmable Gate Arrays for applications both in consumer electronics and harsh
+environments. He holds a Master of Science degree in Computer Engineering
+focused on digital design and embedded systems.
 
 ## TBA
 
