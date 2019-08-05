@@ -4,6 +4,8 @@
 
 * Programme de la « /Semaine RISC-V/ » -- RISC-V Week Program
 
+#+include: "pages/inc/program-oct-1st.org"
+
 The preliminary program below details the three days of the two
 events:
 
