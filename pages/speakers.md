@@ -236,7 +236,7 @@ multiple-bit upset patterns need to be considered.
  hardware acceleration, approximate computing, fault tolerance, and
  energy harvesting sensor networks.*
 
-## Open Source Processor IP for High Volume Production SoCs : CORE-V Family of RISC-V cores
+## Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
 
 By Rick O'Connor ([OpenHW Group](https://www.openhwgroup.org))
 
