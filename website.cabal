@@ -7,13 +7,8 @@ executable site
   main-is:          site.hs
   hs-source-dirs:   src
   build-depends:    base == 4.*
-                  , MissingH
-                  , blaze-html
-                  , filepath
                   , hakyll >= 4.6.9
                   , pandoc
-                  , pandoc-citeproc
-                  , parsec
                   , process
                   , text
   ghc-options:      -Wall -threaded
