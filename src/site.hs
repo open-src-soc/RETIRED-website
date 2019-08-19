@@ -23,7 +23,15 @@ main = do
       compile copyFileCompiler
 
     -- Static pages
-    match ("pages/*.markdown" .||. "pages/*.md" .||. "pages/*.org") $ do
+    match ("pages/*.markdown" .||. "pages/*.md") $ do
+        route $ gsubRoute "pages/" (const "") `composeRoutes` setExtension "html"
+        compile $
+            pandocCompiler
+                >>= loadAndApplyTemplate "templates/default.html" builtPageCtx
+                >>= relativizeUrls
+    match "templates/*" $ compile templateCompiler
+
+    match "pages/*.org" $ do
         route $ gsubRoute "pages/" (const "") `composeRoutes` setExtension "html"
         compile $
             pandocIOCompiler
