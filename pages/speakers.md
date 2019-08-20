@@ -297,7 +297,7 @@ the ecosystem features
 
 ## Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
 
-Rick O’Connor ([OpenHW Group](openhwgroup.org))
+Rick O’Connor ([OpenHW Group](https://openhwgroup.org))
 
 This talk will provide a brief overview of the RISC-V instruction set
 architecture and describe the CORE-V family of open-source cores that
