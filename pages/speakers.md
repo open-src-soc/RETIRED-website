@@ -1,7 +1,3 @@
-<style>
-H2 { color: blue}
-</style>
-
 # Keynotes
 
 ## It’s the Instruction Fetch Front-End, Stupid!
