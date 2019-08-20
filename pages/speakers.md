@@ -28,6 +28,15 @@ instruction fetch frond-end in a very wide-issue processor.
  micro-architecture, branch prediction and cache architecture._ » He
  is a IEEE fellow (2013) and an ACM fellow (2016).*
 
+## European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
+
+By [Romain Dolbeau](https://fr.linkedin.com/in/romaindolbeau)
+([EPI](https://www.european-processor-initiative.eu/), [ATOS](https://atos.net))
+
+Summary TBA.
+
+*Short bio. TBA.*
+
 # Presentations
 
 ## Open source GPUs: How can RISC-V play a role?
