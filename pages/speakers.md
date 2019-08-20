@@ -462,6 +462,41 @@ number of instructions retired, caches misses, etc.
  estimation and modelling applied to embedded systems and multicore
  architectures.*
 
+## Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
+
+By **[Ekaterina Berezina](https://www.linkedin.com/in/kate-berezina)**, Dmitry Gusev, Alexander Redkin ([Syntacore](https://syntacore.com)).
+
+We describe family of the state-of-the-art RISC-V compatible processor
+IP developed by Syntacore with a specific focus on the open-source
+part of the product line.
+
+As of 2019, SCRx family of RISC-V compatible cores includes eight
+industry-grade cores with comprehensive features, targeted at
+different applications: from compact microcontroller-class SCR1 core
+to the high-performance 64bit Linux-capable multicore SCR7. The SCRx
+cores deliver competitive performance at low power already in baseline
+configurations. On the top, Syntacore provides one-stop
+workload-specific customization service to enable customer designs
+differentiation via significant performance and efficiency
+boost. Industry-standard interfacing options support enables seamless
+integration with existing designs.
+
+We detail IP features, benchmarks, and collateral availability, with a
+specific focus on the open-source SCR1 core. Initially introduced in
+2017, SCR1 is one of the first fully open and free to use
+industry-grade RISC-V compatible cores, which, since its introduction,
+found extensive use both in the industry and in
+academia. [``https://github.com/syntacore/scr1``](https://github.com/syntacore/scr1).
+
+*Ekaterina Berezina is a Senior HW Engineer at Syntacore, where she
+ contributes to the SCRx core family development and
+ maintenance. Ekaterina has more than 6 years of experience in CPU IP
+ development including architecture and microarchitecture definition,
+ RTL design, testing and verification, area/timing/power optimization
+ for ASIC and FPGA. She received her Master’s degree in Computer
+ Science at Saint-Petersburg ITMO University and teaches Computer
+ Architecture classes there.*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
