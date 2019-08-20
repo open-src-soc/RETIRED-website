@@ -395,6 +395,34 @@ open(-source) hardware towards a more sustainable innovation Bio:
  male professors in his institute to spend time connecting to nature
  with his family.*
 
+## Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
+
+**Matheus Cavalcante** (ETH Zurich, matheusd@iis.ee.ethz.ch), Fabian
+Schuiki (ETH Zurich, fschuiki@iis.ee.ethz.ch), Florian Zaruba (ETH
+Zurich, zarubaf@iis.ee.ethz.ch), Michael Schaffner (ETH Zurich,
+mschaffner@iis.ee.ethz.ch), Luca Benini (ETH Zurich et Universita' di
+Bologna, lbenini@iis.ee.ethz.ch)
+
+In this presentation, we will discuss about our design and
+implementation experience with Ara, a vector processor based on
+RISC-V's Vector Extension. Ara is implemented in GlobalFoundries 22FDX
+FD-SOI technology. Its latest instance runs at up to 1.2 GHz in
+nominal conditions, achieving a peak performance of up to 34 DP-GFLOPS
+and an energy efficiency of up to 67 DP-GFLOPS/W. We will discuss the
+performance and scalability of Ara, including its limitations under
+different work loads, and show that the vector processor achieves a
+high utilization of its functional units, up to 97%, when running a
+256x256 matrix multiplication on sixteen lanes. Ara will be released
+as part of the PULP platform using the same permissive Solderpad
+license.
+
+*Matheus Cavalcante received the M.Sc. degree in Integrated Electronic
+ Systems from the Grenoble Institute of Technology (Phelma) in 2018
+ and is currently pursuing his Ph.D. degree with the Digital Circuits
+ and Systems group of Luca Benini at ETH Zurich. His research
+ interests encompass high-performance computing (namely vector
+ processing) and interconnection networks.*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
