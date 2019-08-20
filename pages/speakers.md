@@ -432,6 +432,36 @@ license.
  interests encompass high-performance computing (namely vector
  processing) and interconnection networks.*
 
+## Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
+
+By **[Caaliph Andriamisaina](mailto:caaliph.andriamisaina@cea.fr)**
+([CEA LIST](http://www-list.cea.fr)), [Pierre-Guillaume Le
+Guay](pierre-guillaume.leguay@cea.fr), ([CEA
+LIST](http://www-list.cea.fr))
+
+Power consumption monitoring of a processor is important for power
+management to reduce power usage. Performance counters have been
+widely used as proxies to estimate processor power online. This work
+focus on the dynamic power modelling at register-transfer level (RTL)
+of the RISC-V Rocket core, developed at the University of California,
+Berkeley. By creating our power model at RTL level, we aim at
+providing a coarse-grained estimation of power consumption, intended
+at the early stage of development and for software developers.
+
+The proposed power modelling methodology is based on the Hardware
+Performance Monitors (HPM) defined in the RISC-V ISA and implemented
+in the rocket-chip. These HPM monitor different events that take place
+during instructions execution and reveal several amount of information
+about power consumption. These events can be the number of cycles, the
+number of instructions retired, caches misses, etc.
+
+*Pierre-Guillaume Le Guay is a research engineer at CEA List,
+ computing and design environment laboratory. He received the MSc
+ degree in electrical engineering from Université Paris-Sud, Orsay, in
+ 2017. His current research topics focus on the power consumption
+ estimation and modelling applied to embedded systems and multicore
+ architectures.*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
