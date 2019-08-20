@@ -434,9 +434,9 @@ license.
 
 ## Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
 
-By **[Caaliph Andriamisaina](mailto:caaliph.andriamisaina@cea.fr)**
-([CEA LIST](http://www-list.cea.fr)), [Pierre-Guillaume Le
-Guay](pierre-guillaume.leguay@cea.fr), ([CEA
+By [Caaliph Andriamisaina](mailto:caaliph.andriamisaina@cea.fr) ([CEA
+LIST](http://www-list.cea.fr)), **[Pierre-Guillaume Le
+Guay](pierre-guillaume.leguay@cea.fr)**, ([CEA
 LIST](http://www-list.cea.fr))
 
 Power consumption monitoring of a processor is important for power
