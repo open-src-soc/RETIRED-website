@@ -2,7 +2,7 @@
 
 ## It’s the Instruction Fetch Front-End, Stupid!
 
-By [André Seznec](https://team.inria.fr/pacap/members/andre-seznec)
+By **[André Seznec](https://team.inria.fr/pacap/members/andre-seznec)**
 ([INRIA](https://www.inria.fr)).
 
 Achieving high single-thread performance remains a major challenge
@@ -30,8 +30,8 @@ instruction fetch frond-end in a very wide-issue processor.
 
 ## European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
 
-By [Romain Dolbeau](https://fr.linkedin.com/in/romaindolbeau)
-([EPI](https://www.european-processor-initiative.eu/), [ATOS](https://atos.net))
+By **[Romain Dolbeau](https://fr.linkedin.com/in/romaindolbeau)**
+([EPI](https://www.european-processor-initiative.eu/), [ATOS](https://atos.net)).
 
 Summary TBA.
 
@@ -41,8 +41,9 @@ Summary TBA.
 
 ## Open source GPUs: How can RISC-V play a role?
 
-By [Nima Taherinejad](https://www.ict.tuwien.ac.at/staff/taherinejad)
-([TU Wien](https://www.ict.tuwien.ac.at)).
+By **[Nima
+Taherinejad](https://www.ict.tuwien.ac.at/staff/taherinejad)** ([TU
+Wien](https://www.ict.tuwien.ac.at)).
 
 In this talk, first, I briefly review existing open source GPUs and
 their status. Given its merit and the work we have done in group on
@@ -67,7 +68,7 @@ play a role in a potentially joint future.
 
 ## Alternative languages for safe and secure RISC-V programming
 
-By [Fabien Chouteau](https://twitter.com/deschips)
+By **[Fabien Chouteau](https://twitter.com/deschips)**
 ([Ada Core](https://www.adacore.com)).
 
 In this talk I want to open a window into the wonderful world of
@@ -91,9 +92,9 @@ ideas on how the RISC-V can keep the door open.
 
 ## RISC-V ISA: Secure-IC’s Trojan Horse to Conquer Security
 
-By Rafail Psiakis &
-[Sylvain Guilley](https://perso.telecom-paristech.fr/guilley)
-([Secure IC](http://www.secure-ic.com)).
+By Rafail Psiakis & **[Sylvain
+Guilley](https://perso.telecom-paristech.fr/guilley)** ([Secure
+IC](http://www.secure-ic.com)).
 
 RISC-V is an emerging instruction-set architecture widely used inside
 plenty of modern embedded SoCs. As the number of commercial vendors
@@ -275,7 +276,7 @@ By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, **Romain Soulat**
 
 ## Development of a RV64GC IP core for the GRLIB IP Library
 
-By Jan Andersson ([Cobham Gaisler](https://www.gaisler.com/))
+By **Jan Andersson** ([Cobham Gaisler](https://www.gaisler.com/)).
 
 Cobham Gaisler is a world leader for space computing solutions where
 the company provides radiation tolerant system-on-chip devices based
@@ -297,7 +298,7 @@ the ecosystem features
 
 ## Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
 
-Rick O’Connor ([OpenHW Group](https://openhwgroup.org))
+By **Rick O’Connor** ([OpenHW Group](https://openhwgroup.org)).
 
 This talk will provide a brief overview of the RISC-V instruction set
 architecture and describe the CORE-V family of open-source cores that
@@ -358,7 +359,9 @@ opportunities to overcome these barriers.
 
 ## Ecological transition in ICT:  A role for open hardware ?
 
-By David Bol ([ECS, ICTEAM, UC Louvain](https://uclouvain.be/en/research-institutes/icteam/ecs.html)).
+By **[David Bol](https://perso.uclouvain.be/david.bol)** ([ECS,
+ICTEAM, UC
+Louvain](https://uclouvain.be/en/research-institutes/icteam/ecs.html)).
 
 Technological innovation has been fueling our financial economic
 system focused on growth. It allowed the prosperity of developed
@@ -406,11 +409,14 @@ open(-source) hardware towards a more sustainable innovation Bio:
 
 ## Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
 
-**Matheus Cavalcante** (ETH Zurich, matheusd@iis.ee.ethz.ch), Fabian
-Schuiki (ETH Zurich, fschuiki@iis.ee.ethz.ch), Florian Zaruba (ETH
-Zurich, zarubaf@iis.ee.ethz.ch), Michael Schaffner (ETH Zurich,
-mschaffner@iis.ee.ethz.ch), Luca Benini (ETH Zurich et Universita' di
-Bologna, lbenini@iis.ee.ethz.ch)
+**[Matheus Cavalcante](mailto:matheusd@iis.ee.ethz.ch)**, [Fabian
+Schuiki](mailto:fschuiki@iis.ee.ethz.ch), [Florian
+Zaruba](mailto:zarubaf@iis.ee.ethz.ch), [Michael
+Schaffner](mailto:mschaffner@iis.ee.ethz.ch) ([ETH
+Zurich](https://iis.ee.ethz.ch)), [Luca
+Benini](mailto:lbenini@iis.ee.ethz.ch) ([ETH
+Zurich](https://iis.ee.ethz.ch) & [Universitá di
+Bologna](http://www.dei.unibo.it)).
 
 In this presentation, we will discuss about our design and
 implementation experience with Ara, a vector processor based on
@@ -437,7 +443,7 @@ license.
 By [Caaliph Andriamisaina](mailto:caaliph.andriamisaina@cea.fr) ([CEA
 LIST](http://www-list.cea.fr)), **[Pierre-Guillaume Le
 Guay](pierre-guillaume.leguay@cea.fr)**, ([CEA
-LIST](http://www-list.cea.fr))
+LIST](http://www-list.cea.fr)).
 
 Power consumption monitoring of a processor is important for power
 management to reduce power usage. Performance counters have been
@@ -499,8 +505,10 @@ academia. [``https://github.com/syntacore/scr1``](https://github.com/syntacore/s
 
 ## Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
 
-By **[Sylvain Boulmé](http://www-verimag.imag.fr/~boulme)** (Ensimag
-Grenoble-INP, Verimag, Université Grenoble-Alpes).
+By **[Sylvain Boulmé](http://www-verimag.imag.fr/~boulme)**
+([ENSIMAG](http://ensimag.grenoble-inp.fr),
+[Verimag](http://www-verimag.imag.fr), [Université
+Grenoble-Alpes](https://www.univ-grenoble-alpes.fr)).
 
 The CompCert certified compiler -- developed by [Xavier Leroy et
 al. 2006-2018] at Inria -- is the first optimizing C compiler with a
@@ -527,7 +535,7 @@ these CFI protections. We are formally proving the functional
 correctness of this backend.
 
 *Sylvain Boulmé is Maître de conférences (assistant professor) at
- Ensimag (Engineering school in Information Technology).  His research
+ ENSIMAG (Engineering school in Information Technology).  His research
  applies the Coq proof assistant and the OCaml typechecker the
  verification of software in toolchains (in particular static
  analyzers and compilers).*
