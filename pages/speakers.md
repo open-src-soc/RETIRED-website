@@ -497,6 +497,41 @@ academia. [``https://github.com/syntacore/scr1``](https://github.com/syntacore/s
  Science at Saint-Petersburg ITMO University and teaches Computer
  Architecture classes there.*
 
+## Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
+
+By **[Sylvain Boulmé](http://www-verimag.imag.fr/~boulme)** (Ensimag
+Grenoble-INP, Verimag, Université Grenoble-Alpes).
+
+The CompCert certified compiler -- developed by [Xavier Leroy et
+al. 2006-2018] at Inria -- is the first optimizing C compiler with a
+formal proof of correctness.  In particular, it does not have the
+middle-end bugs usually found in compilers [Yang et al. 2011].  It is
+now used in real-time safety-critical industry [Bedin França et
+al. 2012; Kästner et al. 2018]. It produces assembly code for several
+processors including RISC-V (32 bit and 64 bit).
+
+This talk will present two backends of CompCert developed at the
+Verimag Laboratory of Grenoble.  The first one -- jointly developed
+with Cyril Six (Kalray-Verimag) and David Monniaux (Verimag) --
+targets the K1c processor of Kalray.  This backend features a
+(certified) postpass scheduling which optimizes running-times of the
+produced program by exploiting the instruction-level-parallelism of
+this VLIW processor.
+
+Our second (more experimental) backend targets the intrinSec processor
+designed by Olivier Savry et al at LETI.  This secure cryptoprocessor
+extends the RISC-V Instruction Set with instructions and registers for
+protecting Control-Flow Integrity (CFI). With Paolo Torrini (Verimag),
+we have modified the RISC-V backend of CompCert in order to include
+these CFI protections. We are formally proving the functional
+correctness of this backend.
+
+*Sylvain Boulmé is Maître de conférences (assistant professor) at
+ Ensimag (Engineering school in Information Technology).  His research
+ applies the Coq proof assistant and the OCaml typechecker the
+ verification of software in toolchains (in particular static
+ analyzers and compilers).*
+
 <p align="center">
 <a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
