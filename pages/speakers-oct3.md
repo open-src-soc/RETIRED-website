@@ -47,13 +47,44 @@ Programmable Gate Arrays for applications both in consumer electronics and harsh
 environments. He holds a Master of Science degree in Computer Engineering
 focused on digital design and embedded systems.
 
-## TBA
+## RISC-V in embedded applications
 
-By [TBA]()([]())
+By [Michael Chapman](https://www.linkedin.com/michael-chapman-at-cortus)([Cortus](https://www.cortus.com))
 
-TBA
+Cortus is a French ASIC design company with a very large selection of IPs
+available including processors (Cortus proprietary ISA, RISC-V ISA), and many
+other Digital, Analog/RF and Security (HW & SW) which together with its ASIC
+Design expertise enables it to architect, design and implement innovative chips
+for its clients.
 
-*TBA
+Cortus provides a comprehensive and complete toolchain package such as debugger,
+compiler, IDE, etc, for all the chips it develops.
+
+To facilitate the work of software developers, Cortus can also provide FPGA
+prototypes.
+
+Cortus has designed and is designing chips and modules for customers
+incorporating RISC-V processors in the following application fields: Satellite,
+Avionics, Automotive, IoT, Hardware Security Module, HPC (outside Europe)
+
+*Michael Chapman is the creator of microprocessors, micro-controllers, CAN
+(Controller Area Network) and System C.
+
+He has worked on a Silicon on Saphire radiation hard microprocessor chip set for
+Marconi Space and Defence, a pure asynchronous chip for Acorn computers, and
+developed all the initial CAN implementations including the Intel 82526 and
+those for Bosch internal implementations, Philips, Motorola, National, NEC,
+Siemens as well as the Intel 82527 and those on Intel MCUs. He also developed
+MCUs for engine management and ABS.
+
+He designed a new generation 16 bit micro-controller for Siemens and modeled
+that controller in 'C'. The simulation environment he created escaped from
+Siemens and became the foundation of System C.
+
+In 2003, he created the first Cortus processor which is at the heart of security
+solutions used in bank cards, SIM cards, e-passport and is the root of trust in
+many devices including Blackberry, Intel, Fujitsu, etc.
+
 
 ## Achieving determinism and performance on the RISC-V FlexPRET Processor
 
@@ -81,13 +112,32 @@ Timed Architecture (PRET) proposed by the University of California at Berkeley.
  participated in many collaborative research projects involving academic and
  industrial partners, including GUARDS, Diana, SPICES, ESPASS, P, etc.
 
-## TBA
+## RISC-V based Virtual Prototype: An Open Source Platform for Modeling and Verification
 
-By [Daniel Große](http://www.informatik.uni-bremen.de/~grosse/)([University of Bremen](https://www.uni-bremen.de))
+By [Daniel Große](http://www.informatik.uni-bremen.de/~grosse/)([University of
+Bremen](https://www.uni-bremen.de) and  [DFKI GmbH](https://www.dfki.de/en/web/))
 
-TBA
+We propose an open source RISC-V based Virtual Prototype (VP) under MIT license,
+available at
+[http://www.systemc-verification.org/riscv-vp](http://www.systemc-verification.org/riscv-vp).
+Our VP is implemented in standard compliant SystemC using a generic bus system
+with TLM 2.0 communication. Our VP provides a 32 and 64 bit RISC-V core with
+different privilege levels, the RISC-V CLINT and PLIC interrupt controllers and
+an essential set of peripherals. It supports simulation of (mixed 32 and 64 bit)
+multi-core platforms and provides SW debug and coverage measurement
+capabilities. We support FreeRTOS, Zephyr and Linux operating systems. Our VP
+allows a significantly faster simulation compared to RTL, while being more
+accurate than existing ISSs. The VP has been designed as configurable and
+extensible platform. For example we provide the configuration for the RISC-V
+HiFive1 board from SiFive.
 
-*TBA
+*Daniel Große is a Senior Researcher at the University of Bremen and the German
+Research Center for Artificial Intelligence (DFKI) Bremen, Germany. His research
+interests include verification, virtual prototyping, debugging and synthesis. He
+has published more than 120 papers in peer-reviewed journals and conferences and
+served in program committees of numerous conferences, such as DAC, ICCAD, DATE
+and CODES+ISSS. He received best paper awards at FDL 2007, DVCon Europe 2018,
+and ICCAD 2018.
 
 ## TBA
 
