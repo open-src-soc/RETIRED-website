@@ -37,6 +37,39 @@ Summary TBA.
 
 *Short bio. TBA.*
 
+# Tutorials
+
+## Teaching basic computer architecture, assembly language programming, and operating system design using risc-v
+
+By Liliana Andrare, Mounir Benabdendi, Olivier Muller, Frédéric
+Rousseau, **[Frédéric
+Pétrot](http://tima.imag.fr/sls/people/petrot/)**
+([Grenoble-IPN](http://www.grenoble-inp.fr)).
+
+This talk presents the work done by the team teaching computer
+architecture and assembler level programming at the Institute of
+Engineering of Univ. Grenoble Alpes ([Grenoble INP
+Ensimag](http://ensimag.grenoble-inp.fr), [Grenoble INP
+Phelma](http://phelma.grenoble-inp.fr) and
+[Polytech'Grenoble](https://www.polytech-grenoble.fr)).
+
+We will in particular detail what are the goals of these classes and
+how we mapped them on the RISC-V architecture. We will also have demos
+at hand for those interested in the putative use of this material, as
+teachers or hobbyists.
+
+*Starting in 1994, Frédéric Pétrot was assistant professor at
+ Université Pierre et Marie Curie in Paris, where he was primary
+ teaching VLSI design, CAD algorithms for VLSI design, bases of
+ operating systems, and practical use of parser generators (but also
+ C, ADA, UNIX, ...). He was one of the main contributor of the
+ open-source Alliance CAD system, still in use today. He also started
+ working on ESL tools, building the ancestor of the SoCLib SystemC
+ library.  He moved to Grenoble INP ENSIMAG in 2004, taking the
+ responsibility of all classes related to logic circuit design and
+ computer architecture.  He still teaches UNIX, bases of OS design and
+ knows no other editor than vim.*
+
 # Presentations
 
 ## Open source GPUs: How can RISC-V play a role?
