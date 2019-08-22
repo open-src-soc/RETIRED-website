@@ -39,7 +39,7 @@ Summary TBA.
 
 # Tutorials
 
-## Teaching basic computer architecture, assembly language programming, and operating system design using risc-v
+## Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V
 
 By Liliana Andrare, Mounir Benabdendi, Olivier Muller, Frédéric
 Rousseau, **[Frédéric
