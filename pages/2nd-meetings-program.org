@@ -1,0 +1,106 @@
+** Tuesday October 1st, First Day of the /2nd RISC-V Meetings/
+     :PROPERTIES:
+     :CUSTOM_ID: mardi
+     :END:
+
+The detailed program is not yes published. An early [[./speakers.html][list of speakers]]
+is available.
+
+Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris.
+|-------+---------+---------------------|
+| Time  | Speaker | Title               |
+|-------+---------+---------------------|
+| 08h00 | ---     | /Registration/      |
+|-------+---------+---------------------|
+| 08h45 | TBA     | Welcome  10         |
+|-------+---------+---------------------|
+| 09h00 | TBA     | Tutorial 11         |
+|-------+---------+---------------------|
+| 09h45 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 10h00 | TBA     | Tutorial 12         |
+|-------+---------+---------------------|
+| 10h45 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 11h00 | TBA     | Tutorial 13         |
+|-------+---------+---------------------|
+| 11h45 | ---     | /Lunch/             |
+|-------+---------+---------------------|
+| 13h00 | TBA     | Keynote 20          |
+|-------+---------+---------------------|
+| 13h45 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 14h00 | TBA     | Presentation 21     |
+| 14h15 | TBA     | Presentation 22     |
+| 14h30 | TBA     | Presentation 23     |
+| 14h45 | ---     | Discussion 21+22+23 |
+|-------+---------+---------------------|
+| 15h00 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 15h15 | TBA     | Presentation 24     |
+| 15h30 | TBA     | Presentation 25     |
+| 15h45 | TBA     | Presentation 26     |
+| 16h00 | ---     | Discussion 24+25+26 |
+|-------+---------+---------------------|
+| 16h15 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 16h30 | TBA     | Presentation 27     |
+| 16h45 | TBA     | Presentation 28     |
+| 17h00 | TBA     | Presentation 29     |
+| 17h15 | ---     | Discussion 27+28+29 |
+|-------+---------+---------------------|
+| 17h30 | ---     | /Closure/           |
+|-------+---------+---------------------|
+
+
+** Wednesday October 2ns, Second Day of the /2nd RISC-V Meetings/
+    :PROPERTIES:
+    :CUSTOM_ID: mercredi
+    :END:
+
+The detailed program is not yes published. An early [[./speakers.html][list of speakers]]
+is available.
+
+Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris.
+|-------+---------+---------------------|
+| Time  | Speaker | Title               |
+|-------+---------+---------------------|
+| 08h30 | TBA     | Keynote 30          |
+|-------+---------+---------------------|
+| 09h15 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 09h30 | TBA     | Presentation 31     |
+| 09h45 | TBA     | Presentation 32     |
+| 10h00 | TBA     | Presentation 33     |
+| 10h15 | ---     | Discussion 31+32+33 |
+|-------+---------+---------------------|
+| 10h30 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 10h45 | TBA     | Presentation 34     |
+| 11h00 | TBA     | Presentation 35     |
+| 11h15 | TBA     | Presentation 36     |
+| 11h30 | ---     | Discussion 34+35+36 |
+|-------+---------+---------------------|
+| 11h45 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 12h00 | TBA     | Presentation 37     |
+| 12h15 | TBA     | Presentation 38     |
+| 12h30 | TBA     | Presentation 39     |
+| 12h45 | ---     | Discussion 37+38+39 |
+|-------+---------+---------------------|
+| 13h00 | ---     | /Lunch/             |
+|-------+---------+---------------------|
+| 14h00 | TBA     | Keynote 40          |
+|-------+---------+---------------------|
+| 14h45 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 15h00 | TBA     | Presentation 41     |
+| 15h15 | TBA     | Presentation 42     |
+| 15h30 | TBA     | Presentation 43     |
+| 15h45 | ---     | Discussion 41+42+43 |
+|-------+---------+---------------------|
+| 16h00 | ---     | /Break/             |
+|-------+---------+---------------------|
+| 16h15 | TBA     | Wrap-up 44          |
+| 16h30 | ---     | /Closure/           |
+|-------+---------+---------------------|

@@ -1,0 +1,19 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: Programme
+
+* The program of the RISC-V Week Program
+
+The program below details the three days of the two events:
+
+- The /2nd RISC-V Meetings/ at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
+  - [[#mardi][Tuesday 1st October]], from 8h45 to 17h30 -- reception from 8h00.
+  - [[#mercredi][Wednesday 2nd October]], from 8h30 to 16h30.
+
+- The /Scientifc Day of [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]: RISC-V for critical
+  embedded systems/ at the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
+  - [[#jeudi][Thursday 3rd October]], from 8h00 until 16h15.
+
+#+INCLUDE: "pages/2nd-meetings-program.org"
+#+INCLUDE: "pages/gdr-scienday-program.org"
+
