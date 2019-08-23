@@ -2,9 +2,15 @@
 #+OPTIONS: toc:nil
 #+title: Deuxièmes rencontres RISC-V
 
-* Inscription
+* Registration
 
-Le site d'inscription sera bientôt mis en ligne.
+The number of seats of the two venues is limited so register quickly!
+
+The registration link will soon be accessible.
+
+#+BEGIN_COMMENT
+The registration link is accessible here.
+#+END_COMMENT
 
 #+BEGIN_EXPORT html
 <p align="center">
