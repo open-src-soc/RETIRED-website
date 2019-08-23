@@ -20,7 +20,7 @@ front-end engine.
 In this talk, I will focus on the challenges for the design of the
 instruction fetch frond-end in a very wide-issue processor.
 
-/André Seznec is a Fellow Research Director (DR0) at IRISA/INRIA in
+/André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in
 Rennes. His main research activity has ported on the architecture of
 microprocessors, including caches, pipeline, branch predictors,
 speculative execution, multithreading and multicores. His research has
@@ -28,10 +28,10 @@ influenced the design of many high-end industrial microprocessors,
 particularly the caches and the branch predictors./
 
 /André Seznec is member of the hall of fame of the 3 major conferences
-in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM/ IEEE Micro.
+in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM IEEE Micro.
 He received the first Intel Research Impact Medal in 2012 for his «
-/exemplary work on high-performance computer micro-architecture, branch
-prediction and cache architecture./ » He is a IEEE fellow (2013) and an
+exemplary work on high-performance computer micro-architecture, branch
+prediction and cache architecture. » He is a IEEE fellow (2013) and an
 ACM fellow (2016)./
 
 ** European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
