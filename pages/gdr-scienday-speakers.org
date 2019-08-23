@@ -1,3 +1,7 @@
+*  Presentations of the Scientifc Day on RISC-V for critical embedded systems
+  :PROPERTIES:
+  :CUSTOM_ID: scientific-day
+  :END:
 ** TBA
    :PROPERTIES:
    :CUSTOM_ID: tba
