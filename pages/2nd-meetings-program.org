@@ -7,6 +7,7 @@ The detailed program is not yes published. An early [[./speakers.html][list of s
 is available.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris.
+#+BEGIN_COMMENT
 |-------+---------+---------------------|
 | Time  | Speaker | Title               |
 |-------+---------+---------------------|
@@ -51,7 +52,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |-------+---------+---------------------|
 | 17h30 | ---     | /Closure/           |
 |-------+---------+---------------------|
-
+#+END_COMMENT
 
 ** Wednesday October 2nd, Second Day of the /2nd RISC-V Meetings/
     :PROPERTIES:
@@ -62,6 +63,7 @@ The detailed program is not yes published. An early [[./speakers.html][list of s
 is available.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris.
+#+BEGIN_COMMENT
 |-------+---------+---------------------|
 | Time  | Speaker | Title               |
 |-------+---------+---------------------|
@@ -104,3 +106,4 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 16h15 | TBA     | Wrap-up 44          |
 | 16h30 | ---     | /Closure/           |
 |-------+---------+---------------------|
+#+END_COMMENT
