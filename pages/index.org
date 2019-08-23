@@ -2,24 +2,20 @@
 #+OPTIONS: toc:nil
 #+title: Deuxièmes rencontres RISC-V
 
-* /Semaine RISC-V/ -- RISC-V Week
+* The RISC-V Week
 
-La « /Semaine RISC-V/ » (RISC-V Week) brings together two events from
-1 to 3 October 2019 in Paris:
+The /RISC-V Week/ brings together two events from October 1st to 3rd,
+2019, in Paris:
 
-- The « [[#mardi][/Deuxièmes Rencontres RISC-V/]] » (2nd RISC-V Meetings),
-  organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will take place at [[https://espace-van-gogh.com][Espace Van
-  Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
+- The [[#mardi][/2nd RISC-V Meetings/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will
+  take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
   - Tuesday 1st October, from 8h45 to 17h30 -- reception from 8h00.
   - Wednesday 2nd October, from 8h30 to 16h30.
 
-- The « /Journée scientifique IRT SE & GDR SOC2: RISC-V for critical
+- The « /Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
   embedded systems/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday 3rd October, from 8h00 until 16h15.
-
-The detailed program is not yes published. An early [[./speakers.html][list of speakers]]
-is available.
 
 ** /Deuxièmes Rencontres RISC-V/  -- 2nd RISC-V Meetings
 :PROPERTIES:
@@ -38,7 +34,7 @@ several communities. In particular:
    to experiment together.
 
 After the first « /Rencontres RISC-V/ » on « /Les opportunités
-académiques/ » (Academic opportunities) held in Grenoble in October
+académiques/ » (academic opportunities) held in Grenoble in October
 2018, the second edition will take place in Paris on 1st and 2nd
 October 2019. Open to the academic and industrial worlds, they will
 address several important topics:
