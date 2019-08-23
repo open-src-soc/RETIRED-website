@@ -7,10 +7,12 @@
 The “Semaine RISC-V” is split on two venues, both located in Paris
 downtown:
 
-- The venue for the two days (1st and 2nd October) of the « [[#mardi][/Deuxièmes
-  Rencontres RISC-V/]] » (2nd RISC-V Meetings), organised by [[http://www.irtnanoelec.fr][IRT
-  Nanoelec]] and [[http://www.cea.fr][CEA]], will take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la
-  rapée]], Paris XIIè.
+- The venue for the /2nd RISC-V Meetings/ on October 1st & 2nd,
+  organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will be [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai
+  de la rapée]], Paris XIIè. It can easily be reached by public
+  transport at station « /Quai de la Rapée/ » on line n°5, or at
+  station « /Gare de Lyon/ » on RER A, RER D, metro n°1 & 14, bus
+  n°24, 29, 57, 61, 63, 72, 77, 87 & 91.
 
 - The « /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]: RISC-V for critical
   embedded systems/ » day, on 3rd October, organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]]
