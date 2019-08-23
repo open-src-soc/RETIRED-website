@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 #+title: Programme
 
-* The program of the RISC-V Week Program
+* The Program of the RISC-V Week
 
 The program below details the three days of the two events:
 
