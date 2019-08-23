@@ -83,6 +83,56 @@ in 2004, taking the responsibility of all classes related to logic
 circuit design and computer architecture. He still teaches UNIX, bases
 of OS design and knows no other editor than vim./
 
+** RISC-V design using Free Open Source Software
+
+By *[[https://www.lip6.fr/actualite/personnes-fiche.php?ident=P109][Jean-Paul Chaput]]*, Roselyne Chotin, Marie-Minerve Louerat, Adrian
+Satin ([[https://www.lip6.fr][LIP6]])
+
+This tutorial aims to build a RISC-V processor using only free VLSI
+CAD tools with a symbolic technology approach (a refined Mead-Conway
+method as formerly used by MOSIS). The toolchain is currently
+organised as follow :
+
+1. A design description in VHDL language.
+
+2. Simulation with GHDL.
+
+3. Logical synthesis with Yosys.  We use a frontend to convert VHDL
+   into Verilog (from Alliance).
+
+4. Physical design (place & route) using Coriolis.
+
+5. DRC & LVS using Alliance.
+
+6. Timing analysis with Tas/Yagle.
+
+7. Symbolic to real translation (Alliance).
+
+Our first objective is to design a RISC-V for AMS 350nm node (c35b4).
+
+The choice of symbolic technology is mainly made for three reasons :
+
+1. Node portability.  From one symbolic layout, you may target
+   multiple technologies. Only step 7 needs to be done.
+
+2. Community. Symbolic layout do not contains any NDA related
+   information.  As such it can freely be published and shared.
+
+3. Security.  With a published layout, everybody can check that the
+   chip send back from the foundry is exactly what it should be (no
+   hardware trojan).
+
+/Jean-Paul Chaput  holds a  Master Degree  in MicroElectronics  and Software
+Engineering.  He  joined the LIP6  laboratory within SU (formerly  UPMC) in
+2000. Currently  he is a Research  Engineer in the Analog  and Mixed Signal
+Team at LIP6. His main focus is on physical level design software.  He
+is a key contributor in developing and maintaining the
+Alliance/Coriolis VLSI CAD projects for CMOS technologies.  In
+particular he contributed in developing the routers of both
+Alliance/Coriolis and the whole Coriolis toolchain infrastructure.  He
+his now a key contributor in extending Alliance/Coriolis to the Analog
+Mixed-Signal integration for nanometric CMOS technologies./
+
 * 2nd RISC-V Meetings' Presentations
   :PROPERTIES:
   :CUSTOM_ID: presentations
