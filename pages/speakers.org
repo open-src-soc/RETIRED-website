@@ -1,0 +1,3 @@
+#+INCLUDE: "pages/2nd-meetings-speakers.org"
+#+INCLUDE: "pages/gdr-scienday-speakers.org"
+
