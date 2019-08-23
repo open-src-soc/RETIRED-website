@@ -3,8 +3,8 @@
      :CUSTOM_ID: mardi
      :END:
 
-The detailed program is not yes published. An early [[./speakers.html][list of speakers]]
-is available.
+The detailed program of the /2nd RISC-V Meetings/ is not yes
+published. An early [[./2nd-meetings-speakers.html][list of speakers]] is available.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris.
 #+BEGIN_COMMENT
@@ -59,8 +59,8 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
     :CUSTOM_ID: mercredi
     :END:
 
-The detailed program is not yes published. An early [[./speakers.html][list of speakers]]
-is available.
+The detailed program of the /2nd RISC-V Meetings/ is not yes
+published. An early [[./2nd-meetings-speakers.html][list of speakers]] is available.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]], Paris.
 #+BEGIN_COMMENT
