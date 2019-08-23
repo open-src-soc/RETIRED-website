@@ -34,8 +34,7 @@ He received the first Intel Research Impact Medal in 2012 for his «
 prediction and cache architecture./ » He is a IEEE fellow (2013) and an
 ACM fellow (2016)./
 
-** European Processor Initiative: challenges & opportunities for RISC-V
-accelerators in an HPC platform
+** European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
    :PROPERTIES:
    :CUSTOM_ID: european-processor-initiative-challenges-opportunities-for-risc-v-accelerators-in-an-hpc-platform
    :END:
@@ -53,8 +52,7 @@ Summary TBA.
   :CUSTOM_ID: tutorials
   :END:
 
-** Teaching basic computer architecture, assembly language programming,
-and operating system design using RISC-V
+** Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V
    :PROPERTIES:
    :CUSTOM_ID: teaching-basic-computer-architecture-assembly-language-programming-and-operating-system-design-using-risc-v
    :END:
@@ -222,8 +220,7 @@ attacks. In Secure-IC, RISC-V allows us to penetrate into the
 architecture itself and test new attacks (e.g. sidechannel attacks,
 Trojan injection, etc.) making it our Trojan horse to conquer security.
 
-** A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal
-Processing
+** A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing
    :PROPERTIES:
    :CUSTOM_ID: a-risc-v-isa-extension-for-ultra-low-power-iot-wireless-signal-processing
    :END:
@@ -420,8 +417,7 @@ Engineering focused on digital design and embedded systems. Working at
 Cobham Gaisler as Director of Engineering, overseeing hardware and
 software development efforts./
 
-** Open Source Processor IP for High Volume Production SoCs: CORE-V
-Family of RISC-V cores
+** Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
    :PROPERTIES:
    :CUSTOM_ID: open-source-processor-ip-for-high-volume-production-socs-core-v-family-of-risc-v-cores
    :END:
@@ -534,8 +530,7 @@ international conferences. On the private side, he pioneered the
 parental leave for male professors in his institute to spend time
 connecting to nature with his family./
 
-** Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector
-Processor in 22 nm FD-SOI
+** Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
    :PROPERTIES:
    :CUSTOM_ID: ara-design-and-implementation-of-a-1ghz-64-bit-risc-v-vector-processor-in-22-nm-fd-soi
    :END:
@@ -568,8 +563,7 @@ Systems group of Luca Benini at ETH Zurich. His research interests
 encompass high-performance computing (namely vector processing) and
 interconnection networks./
 
-** Coarse-grained power modelling and estimation using the Hardware
-Performance Monitors (HPM) of the RISC-V Rocket core
+** Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
    :PROPERTIES:
    :CUSTOM_ID: coarse-grained-power-modelling-and-estimation-using-the-hardware-performance-monitors-hpm-of-the-risc-v-rocket-core
    :END:
@@ -601,8 +595,7 @@ electrical engineering from Université Paris-Sud, Orsay, in 2017. His
 current research topics focus on the power consumption estimation and
 modelling applied to embedded systems and multicore architectures./
 
-** Open-source processor IP in the SCRx family of the RISC-V compatible
-cores by Syntacore
+** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
    :CUSTOM_ID: open-source-processor-ip-in-the-scrx-family-of-the-risc-v-compatible-cores-by-syntacore
    :END:
@@ -641,8 +634,7 @@ FPGA. She received her Master's degree in Computer Science at
 Saint-Petersburg ITMO University and teaches Computer Architecture
 classes there./
 
-** Extending the CompCert certified compiler with instruction scheduling
-and control-flow integrity
+** Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
    :PROPERTIES:
    :CUSTOM_ID: extending-the-compcert-certified-compiler-with-instruction-scheduling-and-control-flow-integrity
    :END:
