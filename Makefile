@@ -10,15 +10,11 @@ stack_build:
 	stack build
 .PHONY: stack_build
 
-isEverythingCommitted:
-	./src/isEverythingCommitted.sh
-.PHONY: isEverythingCommitted
-
 # To avoid problems with submodule, do not pull directly.
 pull:
 	git pull --recurse-submodules
 
-push: isEverythingCommitted rebuild
+push: rebuild
 	git submodule update --remote --merge
 	rsync -avr --delete --exclude='.git'  _site/ site/
 	cd site \
@@ -28,5 +24,5 @@ push: isEverythingCommitted rebuild
 		&& git push origin master
 	git add site
 	git commit -m 'site update'
-	git push origin master
+	git push --recurse-submodules=check origin master
 .PHONY: push
