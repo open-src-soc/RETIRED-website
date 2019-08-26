@@ -13,6 +13,7 @@ stack_build:
 # To avoid problems with submodule, do not pull directly.
 pull:
 	git pull --recurse-submodules
+.PHONY: pull
 
 push: rebuild
 	git submodule update --remote --merge
