@@ -645,13 +645,13 @@ By *[[http://www-verimag.imag.fr/~boulme][Sylvain Boulmé]]*
 [[http://www-verimag.imag.fr][Verimag]],
 [[https://www.univ-grenoble-alpes.fr][Université Grenoble-Alpes]]).
 
-The CompCert certified compiler -- developed by [Xavier Leroy et al.
-2006-2018] at Inria -- is the first optimizing C compiler with a formal
-proof of correctness. In particular, it does not have the middle-end
-bugs usually found in compilers [Yang et al. 2011]. It is now used in
-real-time safety-critical industry [Bedin França et al. 2012; Kästner et
-al. 2018]. It produces assembly code for several processors including
-RISC-V (32 bit and 64 bit).
+The CompCert certified compiler -- developed by [[[http://compcert.inria.fr/][Xavier Leroy et al.
+2006-2018]]] at Inria -- is the first optimizing C compiler with a
+formal proof of correctness. In particular, it does not have the
+middle-end bugs usually found in compilers [[[http://doi.acm.org/10.1145/1993498.1993532][Yang et al. 2011]]]. It is
+now used in real-time safety-critical industry [[[http://hal.inria.fr/hal-00653367][Bedin França et
+al. 2012]]; [[http://hal.inria.fr/hal-01643290][Kästner et al. 2018]]]. It produces assembly code for several
+processors including RISC-V (32 bit and 64 bit).
 
 This talk will present two backends of CompCert developed at the Verimag
 Laboratory of Grenoble. The first one -- jointly developed with Cyril
