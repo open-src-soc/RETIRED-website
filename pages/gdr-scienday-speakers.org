@@ -7,7 +7,7 @@
    :CUSTOM_ID: tba
    :END:
 
-By *Denis Dutoit*, ([[https://www.leti-cea.com][CEA LETI]])
+By *Denis Dutoit*, [[https://www.leti-cea.com][CEA LETI]]
 
 TBA
 
@@ -18,7 +18,7 @@ TBA
    :CUSTOM_ID: what-does-the-space-industry-expect-from-risc-v
    :END:
 
-By *Antoine Certain* (Airbus Defence & Space)
+By *Antoine Certain*, Airbus Defence & Space
 
 The space industry has some particularities which makes the usage of
 COTS components quite difficult. But, with the emergence of new space
@@ -39,7 +39,7 @@ FR./
    :CUSTOM_ID: development-of-a-rv64gc-ip-core-for-the-grlib-ip-library
    :END:
 
-By *Jan Andersson*,  ([[https://www.gaisler.com][Cobham Gaisler]])
+By *Jan Andersson*, [[https://www.gaisler.com][Cobham Gaisler]]
 
 Cobham Gaisler is a world leader for space computing solutions where
 the company provides radiation tolerant system-on-chip devices based
@@ -109,7 +109,7 @@ Fujitsu, etc./
    :CUSTOM_ID: achieving-determinism-and-performance-on-the-risc-v-flexpret-processor
    :END:
 
-By *Eric Jenn*, ([[http://www.irt-saintexupery.com/][IRT Saint-Exupéry]])
+By *Eric Jenn*, [[http://www.irt-saintexupery.com/][IRT Saint-Exupéry]]
 
 Performance improvement usually comes at the cost of temporal
 determinism. Trading better average performance for a loss of
@@ -143,7 +143,7 @@ ESPASS, P, etc./
    :CUSTOM_ID: tba-2
    :END:
 
-By *[[http://www.informatik.uni-bremen.de/~grosse/][Daniel Große]]*, ([[https://www.uni-bremen.de][University of Bremen]], [[https://www.dfki.de/en/web/][DFKI GmbH]])
+By *[[http://www.informatik.uni-bremen.de/~grosse/][Daniel Große]]*, [[https://www.uni-bremen.de][University of Bremen]] and [[https://www.dfki.de/en/web/][DFKI GmbH]]
 
 
 We propose an open source RISC-V based Virtual Prototype (VP) under
@@ -176,7 +176,7 @@ CODES+ISSS. He received best paper awards at FDL 2007, DVCon Europe
    :END:
 
 By
-*TBA*, ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales Research & Technology]])
+*TBA*, [[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales Research & Technology]]
 
 TBA
 
