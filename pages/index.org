@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 #+title: RISC-V Week: Overview
 
-* The RISC-V Week
+* Your RISC-V Week
 
 The /RISC-V Week/ brings together two events from October 1st to 3rd,
 2019, in Paris:
