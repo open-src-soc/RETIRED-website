@@ -7,11 +7,11 @@
    :CUSTOM_ID: tba
    :END:
 
-By [[][Denis Dutoit]]([[https://www.leti-cea.com][CEA LETI]])
+By *Denis Dutoit*, ([[https://www.leti-cea.com][CEA LETI]])
 
 TBA
 
-*TBA
+/TBA/
 
 ** What does the space industry expect from RISC-V?
    :PROPERTIES:
@@ -104,8 +104,7 @@ of security solutions used in bank cards, SIM cards, e-passport and is
 the root of trust in many devices including Blackberry, Intel,
 Fujitsu, etc./
 
-** Achieving determinism and performance on the RISC-V FlexPRET
-Processor
+** Achieving determinism and performance on the RISC-V FlexPRET Processor
    :PROPERTIES:
    :CUSTOM_ID: achieving-determinism-and-performance-on-the-risc-v-flexpret-processor
    :END:
@@ -144,7 +143,7 @@ ESPASS, P, etc./
    :CUSTOM_ID: tba-2
    :END:
 
-By [[http://www.informatik.uni-bremen.de/~grosse/][Daniel Große]], ([[https://www.uni-bremen.de][University of Bremen]], [[https://www.dfki.de/en/web/][DFKI GmbH]])
+By *[[http://www.informatik.uni-bremen.de/~grosse/][Daniel Große]]*, ([[https://www.uni-bremen.de][University of Bremen]], [[https://www.dfki.de/en/web/][DFKI GmbH]])
 
 
 We propose an open source RISC-V based Virtual Prototype (VP) under
@@ -177,8 +176,8 @@ CODES+ISSS. He received best paper awards at FDL 2007, DVCon Europe
    :END:
 
 By
-[[][TBA]]([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales Research & Technology]])
+*TBA*, ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales Research & Technology]])
 
 TBA
 
-*TBA
+/TBA/
