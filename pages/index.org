@@ -1,6 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Deuxièmes rencontres RISC-V
+#+title: RISC-V Week: Overview
 
 * The RISC-V Week
 

@@ -1,6 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Sponsors
+#+title: RISC-V Week: Sponsors
 
 The two days event /2nd RISC-V Meetings/ («\nbsp{}Deuxièmes Rencontres
 RISC-V\nbsp{}»), organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]] at [[https://espace-van-gogh.com][Espace Van Gogh]],

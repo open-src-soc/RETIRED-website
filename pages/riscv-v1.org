@@ -1,6 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Premières rencontres RISC-V
+#+title: RISC-V Week: Previous event
 
 * Premières Rencontres RISC-V -- /First RISC-V Meetings/
 

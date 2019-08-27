@@ -1,3 +1,7 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: RISC-V Week: Speakers
+
 #+INCLUDE: "pages/2nd-meetings-speakers.org"
 #+INCLUDE: "pages/gdr-scienday-speakers.org"
 
