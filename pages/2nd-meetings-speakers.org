@@ -668,7 +668,7 @@ we have modified the RISC-V backend of CompCert in order to include
 these CFI protections. We are formally proving the functional
 correctness of this backend.
 
-/Sylvain Boulmé is Maître de conférences (assistant professor) at
+/Sylvain Boulmé is Maître de conférences (associate professor) at
 ENSIMAG (Engineering school in Information Technology). His research
 applies the Coq proof assistant and the OCaml typechecker the
 verification of software in toolchains (in particular static analyzers
