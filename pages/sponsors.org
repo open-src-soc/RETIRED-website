@@ -31,16 +31,3 @@ is looking for sponsors:
 
 If you are interested in sponsoring of the /2nd RISC-V Meetings/,
 please send a mail to [[mailto:organisation@open-src-soc.org?subject=Sponsoring%202nd%20Rencontres%20RISC-V][organisation@open-src-soc.org]].
-
-#+BEGIN_EXPORT html
-<p align="center">
-<a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
-</p>
-#+END_EXPORT
-
-# pour insérer du html :
-# 1. générer d'abord du html approximatif à partif du .org,
-# 2. ouvrir le source html produit
-# 3. copier dans un BEGIN_EXPORT html
