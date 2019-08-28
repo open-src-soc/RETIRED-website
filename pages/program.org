@@ -6,7 +6,7 @@
 
 The program below details the three days of the two events:
 
-- The /2nd RISC-V Meetings/ at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
+- The /2nd RISC-V Meetings/ at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
   - [[#mardi][Tuesday 1st October]], from 8h45 to 17h30 -- reception from 8h00.
   - [[#mercredi][Wednesday 2nd October]], from 8h30 to 16h30.
 
