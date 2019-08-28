@@ -12,8 +12,8 @@ The /RISC-V Week/ brings together two events from 1st to 3rd October
   - Tuesday 1st October, from 8:45 to 17:30 -- registration from 8:00.
   - Wednesday 2nd October, from 8:30 to 16:30.
 
-- The « /Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
-  embedded systems/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
+- The « /[[#scientific-day][Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
+  embedded systems]]/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday 3rd October, from 8:00 until 16:15.
 
@@ -93,7 +93,7 @@ The Organisation Committee can be reached at:
 
 ** /Journée scientifique IRT St-Exupéry & GDR SOC2:/ « /RISC-V for critical embedded systems/ »
 :PROPERTIES:
-:CUSTOM_ID: gdr-soc2
+:CUSTOM_ID: scientific-day
 :END:
 
 [[http://www.irt-saintexupery.com][IRT Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]] pursue their cooperation with the
