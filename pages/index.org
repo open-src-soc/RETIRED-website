@@ -1,23 +1,23 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Deuxièmes rencontres RISC-V
+#+title: RISC-V Week: Overview
 
-* The RISC-V Week
+* Your RISC-V Week
 
-The /RISC-V Week/ brings together two events from October 1st to 3rd,
-2019, in Paris:
+The /RISC-V Week/ brings together two events from 1st to 3rd October
+2019 in Paris:
 
 - The [[#mardi][/2nd RISC-V Meetings/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will
   take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la rapée]]:
-  - Tuesday 1st October, from 8h45 to 17h30 -- reception from 8h00.
-  - Wednesday 2nd October, from 8h30 to 16h30.
+  - Tuesday 1st October, from 8:45 to 17:30 -- registration from 8:00.
+  - Wednesday 2nd October, from 8:30 to 16:30.
 
 - The « /Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
   embedded systems/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
-  - Thursday 3rd October, from 8h00 until 16h15.
+  - Thursday 3rd October, from 8:00 until 16:15.
 
-** /Deuxièmes Rencontres RISC-V/  -- 2nd RISC-V Meetings
+** /2nd RISC-V Meetings/
 :PROPERTIES:
 :CUSTOM_ID: rencontres
 :END:
@@ -33,11 +33,11 @@ several communities. In particular:
  - More generally, it allows hardware, software and system communities
    to experiment together.
 
-After the first « /Rencontres RISC-V/ » on « /Les opportunités
-académiques/ » (academic opportunities) held in Grenoble in October
-2018, the second edition will take place in Paris on 1st and 2nd
-October 2019. Open to the academic and industrial worlds, they will
-address several important topics:
+After the first « /1st RISC-V Meetings/ » on « /academic
+opportunities/ » held in Grenoble in October 2018, the second edition
+will take place in Paris on 1st and 2nd October 2019. Open to the
+academic and industrial worlds, they will address several important
+topics:
 
  1. The impacts of the arrival of open-source in the design of systems
     on a chip (SoC), embedded systems or cyber-physics (CPS).
@@ -53,11 +53,6 @@ the program is made of multiple sessions where a small number of short
 contributions is followed by a time for collective discussion. The
 program also includes a number of tutorials on key RISC-V issues and
 solutions, and high-level keynotes.
-
-Theses « /2è Rencontres RISC-V/ » are associated the « Journée RISC-V
-» organised by the [[http://www.gdr-soc.cnrs.fr][GdR SOC2]], or /Groupement de recherche SOC2 (System
-On Chip, Systèmes embarqués et Objets Connectés)/, from the [[http://www.cnrs.fr][CNRS]]
-(/Centre national de la recherche scientifique/).
 
 *** Program Committee
 
@@ -106,10 +101,9 @@ organization of their 3rd sicentific day gathering industry and
 academia on /critical embedded systems/.
 
 This year, the scientific day is organized in Paris, in partnership
-with the /“Deuxièmes Rencontres RISC-V”/ and as part of the
-“Semaine RISC-V”. It will focus on the opportunities offered by RISC-V
-and open hardware solutions for the field of critical embedded
-systems.
+with the /2nd RISC-V Meetings/ and as part of the /RISC-V Week/. It
+will focus on the opportunities offered by RISC-V and open hardware
+solutions for the field of critical embedded systems.
 
 The day will include extensive presentations by guest speakers from
 academia and industry on the following topics:
@@ -125,19 +119,6 @@ St-Exupéry]], Continental), Sébastien Faucou ([[https://www.ls2n.fr/][LS2N]], 
 
 *** Contact
 
-The Organisation Committee from the /Journée scientifique [[http://www.irt-saintexupery.com][IRT
+The Organisation Committee from the /Scientific Day of [[http://www.irt-saintexupery.com][IRT
 Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]/ can be reached at
 [[mailto:contact-3oct@open-src-soc.org][=contact-3oct@open-src-soc.org=]].
-
-#+BEGIN_EXPORT html
-<p align="center">
-<a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
-</p>
-#+END_EXPORT
-
-# pour insérer du html :
-# 1. générer d'abord du html approximatif à partif du .org,
-# 2. ouvrir le source html produit
-# 3. copier dans un BEGIN_EXPORT html

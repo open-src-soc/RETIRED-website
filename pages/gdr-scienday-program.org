@@ -1,4 +1,4 @@
-** Jeudi 3 octobre, /Journée scientifique IRT SE & GDR SOC2:/ « /RISC-V for critical embedded systems/ »
+** Jeudi 3 octobre, /Scientific Day IRT SE & GDR SOC2:/ « /RISC-V for critical embedded systems/ »
     :PROPERTIES:
     :CUSTOM_ID: jeudi
     :END:

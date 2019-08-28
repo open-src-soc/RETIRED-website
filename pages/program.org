@@ -1,6 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Programme
+#+title: RISC-V Week: Program
 
 * The Program of the RISC-V Week
 

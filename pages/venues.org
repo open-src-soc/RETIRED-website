@@ -1,6 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: Localisation des rencontres
+#+title: RISC-V Week: Venues
 
 * Venues
 
