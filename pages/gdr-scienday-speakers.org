@@ -131,14 +131,19 @@ HiFive1 board from SiFive.
 
 /Daniel Große is a Senior Researcher at the University of Bremen and the German Research Center for Artificial Intelligence (DFKI) Bremen, Germany. His research interests include verification, virtual prototyping, debugging and synthesis. He has published more than 120 papers in peer-reviewed journals and conferences and served in program committees of numerous conferences, such as DAC, ICCAD, DATE and CODES+ISSS. He received best paper awards at FDL 2007, DVCon Europe 2018, and ICCAD 2018./
 
-** TBA
+** Formal Verification of RISC-V Implementation Designs
    :PROPERTIES:
-   :CUSTOM_ID: tba-3
+   :CUSTOM_ID: formal-verification-of-riscv-implementation-designs
    :END:
 
 By
-*TBA*, [[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales Research & Technology]]
+*Romain Soulat*, [[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales Research & Technology]]
 
-TBA
+Formal verification of hardware designs is a classical application of model
+checking in industry. RISC-V cores can be formally verified for functional
+correctness and framework already exist to automatically perform that kind of
+verification. When designs includes safety or security mechanisms, special
+additional verification requirements can be added to formally verify that those
+mechanisms performs correctly against threats or feared events.
 
 /TBA/
