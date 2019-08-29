@@ -4,18 +4,18 @@
 
 * Your RISC-V Week
 
-The /RISC-V Week/ brings together two events from 1st to 3rd October
+The /RISC-V Week/ merges two events, from October 1st to 3rd
 2019 in Paris:
 
-- The [[#rencontres][/2nd RISC-V Meetings/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will
+- The [[#rencontres][/2nd RISC-V Meetings/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and the [[http://www.cea.fr][CEA]], will
   take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
-  - Tuesday 1st October, from 8:45 to 17:30 -- registration from 8:00.
-  - Wednesday 2nd October, from 8:30 to 16:30.
+  - Tuesday October 1st, from 8:45 to 17:30 -- registration from 8:00.
+  - Wednesday October 2nd, from 8:30 to 16:30.
 
 - The « /[[#scientific-day][Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
   embedded systems]]/ » organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
-  - Thursday 3rd October, from 8:00 until 16:15.
+  - Thursday October 3rd, from 8:00 to 16:15.
 
 ** /2nd RISC-V Meetings/
 :PROPERTIES:
@@ -23,7 +23,7 @@ The /RISC-V Week/ brings together two events from 1st to 3rd October
 :END:
 
 The RISC-V architecture, which comes from academia, is challenging
-several communities. In particular:
+several communities.
 
  - It opens the architecture and hardware design communities to the
    dynamics of open source;
@@ -35,28 +35,28 @@ several communities. In particular:
 
 After the first « /1st RISC-V Meetings/ » on « /academic
 opportunities/ » held in Grenoble in October 2018, the second edition
-will take place in Paris on 1st and 2nd October 2019. Open to the
-academic and industrial worlds, they will address several important
+will take place in Paris on October 1st and 2nd 2019. They are open to the
+academic and industrial worlds and they will address several important
 topics:
 
- 1. The impacts of the arrival of open-source in the design of systems
+ 1. The impact of the arrival of open-source on the design of systems
     on a chip (SoC), embedded systems or cyber-physics (CPS).
- 2. Legal and strategic intellectual property (IP) issues, that ranges
-    from public management of hardware open source code, down to
+ 2. Legal and strategic intellectual property (IP) issues, ranging
+    from public management of hardware open source code, to
     sovereignty issues.
- 3. The identification of points of collaboration between the
+ 3. Identifying collaboration points between the
     hardware, software, and systems communities.
  4. Facilitating collaboration between academic research and industry.
 
-In order to allow as much time as possible for exchanges the core of
-the program is made of multiple sessions where a small number of short
-contributions is followed by a time for collective discussion. The
+To allow as much time as possible for exchanges the core of
+the program is made up of multiple sessions, with a small number of short
+contributions followed by a time for group discussion. The
 program also includes a number of tutorials on key RISC-V issues and
 solutions, and high-level keynotes.
 
 *** Program Committee
 
-The Program Committee is composed of the following persons:
+The Program Committee is comprises:
 
 - Thierry Collette, [[https://www.thalesgroup.com/fr/global/innovation/recherche-technologie][Thales R&T]]
 - [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], [[http://www.cea.fr][CEA]], chair
@@ -75,7 +75,7 @@ The Program Committee is composed of the following persons:
 
 *** Organisation Committee
 
-The Organisation Committee is composed of the following persons:
+The Organisation Committee comprises:
 - Jean-Philippe Blanc, [[http://www.irtnanoelec.fr][IRT Nanoelec]]
 - Damien Couroussé, [[http://www.cea.fr][CEA]]
 - Laurent-Frédéric Ducreux, [[http://www.irtnanoelec.fr][IRT Nanoelec]], co-chair
@@ -87,7 +87,7 @@ The Organisation Committee is composed of the following persons:
 
 *** Contact
 
-The Organisation Committee can be reached at:
+The Organising Committee can be reached at:
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 
@@ -96,14 +96,14 @@ The Organisation Committee can be reached at:
 :CUSTOM_ID: scientific-day
 :END:
 
-[[http://www.irt-saintexupery.com][IRT Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]] pursue their cooperation with the
-organization of their 3rd sicentific day gathering industry and
+[[http://www.irt-saintexupery.com][IRT Saint-Exupéry]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]] continue their cooperation with the
+organisation of their 3rd scientific day gathering industry and
 academia on /critical embedded systems/.
 
-This year, the scientific day is organized in Paris, in partnership
+This year, the scientific day will be held in Paris, in partnership
 with the /2nd RISC-V Meetings/ and as part of the /RISC-V Week/. It
 will focus on the opportunities offered by RISC-V and open hardware
-solutions for the field of critical embedded systems.
+solutions for critical embedded systems.
 
 The day will include extensive presentations by guest speakers from
 academia and industry on the following topics:
@@ -112,9 +112,9 @@ academia and industry on the following topics:
 - Hardware design
 - Design tools for critical systems
 
-*** Comité d'organisation
+*** Organising Commitee
 
-The Organisation Committee is composed of: Philippe Cuenot ([[http://www.irt-saintexupery.com][IRT
+The Organising Committee comprises: Philippe Cuenot ([[http://www.irt-saintexupery.com][IRT
 St-Exupéry]], Continental), Sébastien Faucou ([[https://www.ls2n.fr/][LS2N]], [[https://www.univ-nantes.fr][Université de Nantes]]), Maxime Pelcat ([[https://www.ietr.fr/][IETR]], [[https://www.insa-rennes.fr/][INSA de Rennes]]).
 
 *** Contact

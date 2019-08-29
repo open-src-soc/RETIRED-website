@@ -4,23 +4,23 @@
 
 * Venues
 
-The “Semaine RISC-V” is split on two venues, both located in Paris
+The /RISC-V Week/ is split between two venues, both located in Paris
 downtown:
 
 - The venue for the /2nd RISC-V Meetings/ on October 1st & 2nd,
   organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will be [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai
-  de la Rapée]], Paris XIIè. It can easily be reached by public
-  transport at station « /Quai de la Rapée/ » on line n°5, or at
-  station « /Gare de Lyon/ » on RER A, RER D, metro n°1 & 14, bus
+  de la Rapée]], Paris XIIe. It can easily be reached by public
+  transport at the « /Quai de la Rapée/ » station on line n°5, or at
+  the « /Gare de Lyon/ » station on RER A, RER D, metro n°1 & 14, bus
   n°24, 29, 57, 61, 63, 72, 77, 87 & 91.
 
 - The « /Journée scientifique [[http://www.irt-saintexupery.com][IRT SE]] & [[http://www.gdr-soc.cnrs.fr][GDR SOC2]]: RISC-V for critical
   embedded systems/ » day, on 3rd October, organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]]
-  and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will take place in Sorbonne Université, Campus Pierre
-  et Marie Curie, 4 place Jussieu, Paris Vè. Tower 26, Corridor 25–26,
+  and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will take place at the Sorbonne Université, Campus Pierre
+  et Marie Curie, 4 place Jussieu, Paris Ve. Tower 26, Corridor 25–26,
   Room 105.
 
-Both are close to public transport.
+Both are easily reached by public transportation.
 
 #+BEGIN_EXPORT html
 <p align="center">

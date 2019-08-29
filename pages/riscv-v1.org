@@ -5,12 +5,12 @@
 * Premières Rencontres RISC-V -- /First RISC-V Meetings/
 
 The first /“RISC-V Meetings”/ on the impact and opportunities of
-RISC-V were dedicated to /“Accademic RISC-V opportunities.”/
+RISC-V were dedicated to /“Accademic RISC-V opportunities”/.
 
-They took place on Wednesday October 17th, in CEA's premises, at
+They took place on Wednesday October 17th, on CEA premises at
 Minatec Grenoble, France.
 
-The program of this first edition is available [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][online]]. A [[https://www.youtube.com/watch?v=s4K4PiVAUhQ][vidéo]] summary
+The program of this first edition is available [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][online]]. A [[https://www.youtube.com/watch?v=s4K4PiVAUhQ][video]] summary
 was presented at [[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]].
 
 #+BEGIN_EXPORT html
