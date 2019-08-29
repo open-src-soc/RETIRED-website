@@ -4,8 +4,8 @@
 
 * Premières Rencontres RISC-V -- /First RISC-V Meetings/
 
-The first /“RISC-V Meetings”/ on the impact and opportunities of
-RISC-V were dedicated to /“Accademic RISC-V opportunities”/.
+The first /RISC-V Meetings/ on the impact and opportunities of
+RISC-V were dedicated to /Accademic RISC-V opportunities/.
 
 They took place on Wednesday October 17th, on CEA premises at
 Minatec Grenoble, France.
