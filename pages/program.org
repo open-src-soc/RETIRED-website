@@ -12,7 +12,7 @@ The program below details the three days of the two events:
 
 - The /[[#jeudi][Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
   embedded systems]]/ at the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
-  - Thursday October 3rd, from 8:00 to 16:15.
+  - Thursday October 3rd, from 9:00 to 17:15.
 
 #+INCLUDE: "pages/2nd-meetings-program.org"
 #+INCLUDE: "pages/gdr-scienday-program.org"
