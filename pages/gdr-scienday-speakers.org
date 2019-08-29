@@ -2,7 +2,7 @@
   :PROPERTIES:
   :CUSTOM_ID: scientific-day
   :END:
-** First step towards a made-in-Europe high-performance microprocessor
+** European Processor Initiative: First step towards a made-in-Europe high-performance microprocessor
    :PROPERTIES:
    :CUSTOM_ID: first-step-towards-a-made-in-europe-high-performance-microprocessor
    :END:
