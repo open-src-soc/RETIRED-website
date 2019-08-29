@@ -3,8 +3,6 @@
     :CUSTOM_ID: jeudi
     :END:
 
-Summary of talks and biography of speakers are available [[./gdr-scienday-speakers.html][on this page]].
-
 Location: [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]], Paris.
 |-------+-------------------------------------------------+-----------------------------------------------------------------------------------------------------|
 | Time  | Speaker                                         | Title                                                                                               |
