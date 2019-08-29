@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 #+title: RISC-V Week: 2nd Meeting
 
-* The Program of the /2nd RISC-V Meetings/
+* The Program of the /Scientific Day: RISC-V for critical embedded systems/
 
 The /[[#jeudi][Scientific Day of IRT SE & GDR SOC2: RISC-V for critical embedded
   systems]]/ will be at [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
