@@ -91,7 +91,7 @@ The Organising Committee can be reached at:
 [[mailto:organisation@open-src-soc.org][~organisation@open-src-soc.org~]].
 
 
-** /Journée scientifique IRT St-Exupéry & GDR SOC2:/ /RISC-V for critical embedded systems/
+** /Scientific Day IRT St-Exupéry & GDR SOC2:/ /RISC-V for critical embedded systems/
 :PROPERTIES:
 :CUSTOM_ID: scientific-day
 :END:
