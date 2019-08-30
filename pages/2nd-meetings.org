@@ -9,7 +9,4 @@ The [[#mardi][/2nd RISC-V Meetings/]] will be held at [[https://espace-van-gogh.
   - Wednesday October 2nd, from 8:30 to 16:30.
 
 #+INCLUDE: "pages/2nd-meetings-program.org"
-
-#+BEGIN_COMMENT
 #+INCLUDE: "pages/2nd-meetings-speakers.org"
-#+END_COMMENT

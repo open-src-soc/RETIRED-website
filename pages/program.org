@@ -17,3 +17,6 @@ The program below details the three days of the two events:
 #+INCLUDE: "pages/2nd-meetings-program.org"
 #+INCLUDE: "pages/gdr-scienday-program.org"
 
+#+INCLUDE: "pages/2nd-meetings-speakers.org"
+#+INCLUDE: "pages/gdr-scienday-speakers.org"
+
