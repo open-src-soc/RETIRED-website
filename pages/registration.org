@@ -6,8 +6,4 @@
 
 The number of seats for the two venues is limited so please register quickly!
 
-The registration link will soon be accessible.
-
-#+BEGIN_COMMENT
-The registration link is accessible here.
-#+END_COMMENT
+The [[https://workshopriscv.inviteo.fr/][registration link is accessible here]].
