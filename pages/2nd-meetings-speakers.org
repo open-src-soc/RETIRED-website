@@ -43,9 +43,31 @@ By *[[https://fr.linkedin.com/in/romaindolbeau][Romain Dolbeau]]*
 ([[https://www.european-processor-initiative.eu/][EPI]],
 [[https://atos.net][ATOS]]).
 
-Summary TBA.
+The European Processor Initiative (EPI) is a project currently
+implemented under the first stage of the Framework Partnership
+Agreement signed by the Consortium with the European Commission (FPA:
+800928), whose aim is to design and implement a roadmap for a new
+family of low-power European processors for extreme scale computing,
+high-performance Big-Data and a range of emerging applications.
 
-/Short bio. TBA./
+In this talk, I will describe the currently anticipated architecture
+of the EPI design and how to leverage this architecture in the
+software, using open standards. In particular, the EPI project is
+developing IP for a set of RISC-V-based accelerators designed to
+connect directly to the processor network-on-chip. I'll also talk on
+how EPI plan to integrate those IP in a silicon device, and how other
+accelerators IP designers could leverage EPI to create new
+high-performance multi-chip processing devices.
+
+/Romain Dolbeau is a Distinguished Expert at Atos-Bull. After studying
+computer architecture at Université Paris XI, Université Rennes 1 and
+ENS Cachan, Romain co-founded and joined CAPS entreprise, a pioneer
+company in compilation that introduced directive-based programming for
+heterogeneous computing with the HMPP technology. Romain joined Bull
+in 2014 as an HPC expert, helping customers leverage both CPU and
+accelerators to get the best performance out of their
+supercomputers. Since late 2018, Romain is working as the lead
+software architect for the EPI project./
 
 * 2nd RISC-V Meetings' Tutorials
   :PROPERTIES:
