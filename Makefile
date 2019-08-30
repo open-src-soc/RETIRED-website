@@ -17,9 +17,9 @@ pull:
 
 push: check-upstream rebuild
 	git submodule update --remote --merge
+	cd site && git checkout master
 	rsync -avr --delete --exclude='.git'  _site/ site/
 	cd site \
-		&& git checkout master \
 		&& git add . \
 		&& git commit -m 'site update' \
 		&& git push origin master
