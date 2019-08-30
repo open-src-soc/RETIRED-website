@@ -8,7 +8,7 @@ Other sponsoring slots are still available:
 
  - A single Gold Sponsor: :: For 2,500 € ex-VAT you will get the
       following benefits: three passes to the two-days /2nd
-      RISC-V Meetings/, two [[https://fr.wikipedia.org/wiki/Kakemono#Publicit%25C3%25A9][kakemonos]] (provided by the sponsor) set up
+      RISC-V Meeting/, two [[https://fr.wikipedia.org/wiki/Kakemono#Publicit%25C3%25A9][kakemonos]] (provided by the sponsor) set up
       at the entrance of the venue, your logo displayed on the program
       distributed to the audience and on this web site, and the
       possibilitiy to add flyers and a couple of goodies (all provided
@@ -17,17 +17,17 @@ Other sponsoring slots are still available:
 
  - Three Silver Sponsors: :: For 1,500 € ex-VAT you will get the
       following benefits: two passes to the two-days /2nd
-      RISC-V Meetings/, your logo displayed on the program distributed
+      RISC-V Meeting/, your logo displayed on the program distributed
       to the audience and on this web site, and the possibility to add
       flyers and a couple goodies (all provided by the sponsor) to the
       welcome pack provided to the audience during registration.
 
  - Four Bronze Sponsors: :: For 1,000 € ex-VAT you will be get the
       following benefits: one pass to the two-days /2nd
-      RISC-V Meetings/, your logo displayed on the program distributed
+      RISC-V Meeting/, your logo displayed on the program distributed
       to the audience and on this web site, and the possibility to add
       a flyer (provided by the sponsor) to the welcome pack provided
       to the audience during registration.
 
-If you are interested in sponsoring the /2nd RISC-V Meetings/,
+If you are interested in sponsoring the /2nd RISC-V Meeting/,
 please send an e-mail to [[mailto:organisation@open-src-soc.org?subject=Sponsoring%202nd%20Rencontres%20RISC-V][organisation@open-src-soc.org]].

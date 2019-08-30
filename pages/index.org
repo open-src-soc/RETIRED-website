@@ -7,7 +7,7 @@
 The /RISC-V Week/ merges two events, from October 1st to 3rd
 2019 in Paris:
 
-- The [[#rencontres][/2nd RISC-V Meetings/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and the [[http://www.cea.fr][CEA]], will
+- The [[#rencontres][/2nd RISC-V Meeting/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and the [[http://www.cea.fr][CEA]], will
   take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
   - Tuesday October 1st, from 8:45 to 17:30 -- registration from 8:00.
   - Wednesday October 2nd, from 8:30 to 16:30.
@@ -17,7 +17,7 @@ The /RISC-V Week/ merges two events, from October 1st to 3rd
   take place on the [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]]:
   - Thursday October 3rd, from 9:00 to 17:15.
 
-** /2nd RISC-V Meetings/
+** /2nd RISC-V Meeting/
 :PROPERTIES:
 :CUSTOM_ID: rencontres
 :END:
@@ -33,7 +33,7 @@ several communities.
  - More generally, it allows hardware, software and system communities
    to experiment together.
 
-After the first /1st RISC-V Meetings/ on /academic
+After the first /1st RISC-V Meeting/ on /academic
 opportunities/ held in Grenoble in October 2018, the second edition
 will take place in Paris on October 1st and 2nd 2019. They are open to the
 academic and industrial worlds and they will address several important
@@ -101,7 +101,7 @@ organisation of their 3rd scientific day gathering industry and
 academia on /critical embedded systems/.
 
 This year, the scientific day will be held in Paris, in partnership
-with the /2nd RISC-V Meetings/ and as part of the /RISC-V Week/. It
+with the /2nd RISC-V Meeting/ and as part of the /RISC-V Week/. It
 will focus on the opportunities offered by RISC-V and open hardware
 solutions for critical embedded systems.
 

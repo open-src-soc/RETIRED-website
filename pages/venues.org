@@ -7,7 +7,7 @@
 The /RISC-V Week/ is split between two venues, both located in Paris
 downtown:
 
-- The venue for the /2nd RISC-V Meetings/ on October 1st & 2nd,
+- The venue for the /2nd RISC-V Meeting/ on October 1st & 2nd,
   organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], will be [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai
   de la Rapée]], Paris XIIe. It can easily be reached by public
   transport at the « /Quai de la Rapée/ » station on line n°5, or at

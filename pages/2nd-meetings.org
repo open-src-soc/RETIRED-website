@@ -2,9 +2,9 @@
 #+OPTIONS: toc:nil
 #+title: RISC-V Week: 2nd Meeting
 
-* The Program of the /2nd RISC-V Meetings/
+* The Program of the /2nd RISC-V Meeting/
 
-The [[#mardi][/2nd RISC-V Meetings/]] will be held at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
+The [[#mardi][/2nd RISC-V Meeting/]] will be held at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
   - Tuesday October 1st, from 8:45 to 17:30 -- registration from 8:00.
   - Wednesday October 2nd, from 8:30 to 16:30.
 
