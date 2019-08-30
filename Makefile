@@ -21,10 +21,10 @@ push: check-upstream rebuild
 	rsync -avr --delete --exclude='.git'  _site/ site/
 	cd site \
 		&& git add . \
-		&& git commit -m 'site update' \
+		&& git commit -m 'Automatic commit in submodule site/ by dev. repo. Makefile.' \
 		&& git push origin master
 	git add site
-	git commit -m 'site update'
+	git commit -m 'Automatic commit of submodule site/ update.'
 	git push --recurse-submodules=check origin master
 .PHONY: push
 
