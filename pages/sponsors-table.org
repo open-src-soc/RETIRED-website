@@ -1,0 +1,10 @@
+The two days event /2nd RISC-V Meetings/, organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]]
+and [[http://www.cea.fr][CEA]] on October 1st & 2nd is sponsored by:
+
+#+BEGIN_EXPORT html
+<p style="text-align: center">
+  <a href="https://www.adacore.com">
+    <img src="media/AdaCore-logo.png" alt="AdaCore logo" style="width: 25%;"/>
+  </a>
+</p>
+#+END_EXPORT

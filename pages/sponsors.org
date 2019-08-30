@@ -2,16 +2,8 @@
 #+OPTIONS: toc:nil
 #+title: RISC-V Week: Sponsors
 
-The two days event /2nd RISC-V Meetings/, organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]]
-and [[http://www.cea.fr][CEA]] at [[https://espace-van-gogh.com][Espace Van Gogh]] (Paris) is sponsored by:
+#+INCLUDE: "pages/sponsors-table.org"
 
-#+BEGIN_EXPORT html
-<p style="text-align: center">
-  <a href="https://www.adacore.com">
-    <img src="media/AdaCore-logo.png" alt="AdaCore logo" style="width: 25%;"/>
-  </a>
-</p>
-#+END_EXPORT
 Other sponsoring slots are still available:
 
  - A single Gold Sponsor: :: For 2,500 € ex-VAT you will get the

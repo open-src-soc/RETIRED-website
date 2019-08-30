@@ -10,3 +10,10 @@ The [[#mardi][/2nd RISC-V Meetings/]] will be held at [[https://espace-van-gogh.
 
 #+INCLUDE: "pages/2nd-meetings-program.org"
 #+INCLUDE: "pages/2nd-meetings-speakers.org"
+
+#+BEGIN_EXPORT html
+<p></p>
+<hr>
+#+END_EXPORT
+
+#+INCLUDE: "pages/sponsors-table.org"
