@@ -12,16 +12,3 @@ Minatec Grenoble, France.
 
 The program of this first edition is available [[https://hal-cea.archives-ouvertes.fr/cea-01892399v2/document][online]]. A [[https://www.youtube.com/watch?v=s4K4PiVAUhQ][video]] summary
 was presented at [[https://www.hipeac.net/csw/2018/heraklion][HiPEAC CSW 2018]].
-
-#+BEGIN_EXPORT html
-<p align="center">
-<a href="http://www.cea-tech.fr"><img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.irtnanoelec.fr/fr/"><img src="./media/IRT-nanoelec.png" alt="Logo IRT Nanoelec" title="IRT" data-align="center" height="100"/></a>
-</p>
-#+END_EXPORT
-
-# pour insérer du html :
-# 1. générer d'abord du html approximatif à partif du .org,
-# 2. ouvrir le source html produit
-# 3. copier dans un BEGIN_EXPORT html
