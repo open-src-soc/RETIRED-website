@@ -695,3 +695,34 @@ ENSIMAG (Engineering school in Information Technology). His research
 applies the Coq proof assistant and the OCaml typechecker the
 verification of software in toolchains (in particular static analyzers
 and compilers)./
+
+** Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs
+
+By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][One Spin Solutions]])
+
+RISC-V processor IPs are increasingly being integrated into
+system-on-chip designs for a variety of applications. However, there
+is still a lack of dedicated functional verification solutions
+supporting high-integrity, trusted integrated circuits. This
+presentation examines an efficient, novel, formal-based RISC-V
+processor verification methodology. The RISC-V ISA is formalized in a
+set of Operational SystemVerilog assertions. Each assertion is
+formally verified against the processor’s RTL model. Crucially, the
+set of assertions is mathematically proven to be complete and free
+from gaps, thus ensuring that all possible RTL behaviors have been
+examined. This systematic verification process detects both hardware
+Trojans and genuine functional errors present in the RTL code. The
+solution is demonstrated on an open-source RISC-V implementation using
+a commercially available formal tool, and is arguably a significant
+improvement to previously published RISC-V ISA verification
+approaches, advancing hardware assurance and trust of RISC-V designs.
+
+/Sergio Marchese is technical marketing manager at OneSpin
+Solutions. He has 20 years of experience in electronic chip design,
+and deployment of advanced hardware development solutions across
+Europe, North America, and Asia. His expertise covers IC design,
+functional verification, safety standards, including ISO 26262 and
+DO-254, and detection of hardware Trojans and security
+vulnerabilities. He is passionate about enabling the next generation
+of high-integrity chips that underpin the Internet of Things, 5G,
+artificial intelligence, and autonomous vehicles./
