@@ -9,8 +9,8 @@ The /RISC-V Week/ merges two events, from October 1st to 3rd
 
 - The [[#rencontres][/2nd RISC-V Meeting/]], organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and the [[http://www.cea.fr][CEA]], will
   take place at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
-  - Tuesday October 1st, from 8:45 to 17:30 -- registration from 8:00.
-  - Wednesday October 2nd, from 8:30 to 16:30.
+  - Tuesday October 1st, from 10:00 to 18:00 -- registration from 9:00.
+  - Wednesday October 2nd, from 9:00 to 18:00.
 
 - The /[[#scientific-day][Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
   embedded systems]]/ organised by [[http://www.irt-saintexupery.com][IRT St-Exupéry]] and [[http://www.gdr-soc.cnrs.fr][GDR SOC2]], will
