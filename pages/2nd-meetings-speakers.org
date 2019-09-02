@@ -76,7 +76,7 @@ software architect for the EPI project./
 
 ** Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V
    :PROPERTIES:
-   :CUSTOM_ID: teaching-basic-computer-architecture-assembly-language-programming-and-operating-system-design-using-risc-v
+   :CUSTOM_ID: T-PETROT
    :END:
 
 By Liliana Andrare, Mounir Benabdendi, Olivier Muller, Frédéric
@@ -104,6 +104,9 @@ circuit design and computer architecture. He still teaches UNIX, bases
 of OS design and knows no other editor than vim./
 
 ** RISC-V design using Free Open Source Software
+  :PROPERTIES:
+  :CUSTOM_ID: T-CHAPUT
+  :END:
 
 By *[[https://www.lip6.fr/actualite/personnes-fiche.php?ident=P109][Jean-Paul Chaput]]*, Roselyne Chotin, Marie-Minerve Louerat, Adrian
 Satin ([[https://www.lip6.fr][LIP6]]).
