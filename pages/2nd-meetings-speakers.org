@@ -735,7 +735,7 @@ artificial intelligence, and autonomous vehicles./
   :CUSTOM_ID: P-DURAND
   :END:
 
-By Yves Durand ([[http://www.leti-cea.fr][CEA LETI]]).
+By *Yves Durand* ([[http://www.leti-cea.fr][CEA LETI]]).
 
 Scientific computation applications are almost exclusively based on
 single or double precision floating point formats of the IEEE-754
