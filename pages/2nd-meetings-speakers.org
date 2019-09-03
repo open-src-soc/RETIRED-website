@@ -763,3 +763,38 @@ objects ». He then joined the Laboratoire d'Electronique et de
 Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
 been coordinating the IST FP6 4More project. His current focus is
 numerical modelling of computing systems./
+
+** Verification of SimNML instruction set description using co-simulation
+  :PROPERTIES:
+  :CUSTOM_ID: P-CASSE
+  :END:
+
+By *Hugues Cassé*, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]).
+
+The TRACES team at IRIT has developed a description of the RISC-V
+instruction set in SimNML, which is an Architecture Description
+Language (ADL). GLISS automatically convert this description into a
+library supporting, among others, a runnable Instruction Set
+Simulator.
+
+This presentation exposes the validation of our RISC-V description by
+parallely running and checking the generated simulator with a
+different source of execution implementing the RISC-V (different
+simulator or real microprocessor).  This work contributes to the
+confidence we can have into static analysis tools working on program
+binary representation.
+
+In such tools, the instruction set support is a boring and error-prone
+task whose validity is hard to assert. On the opposite, the SimNML
+description provides a golden model that is easier to write and that
+can be tested to detect errors. Once a sufficient level of confidence
+is obtained about the description, it can be processed automatically
+to derive properties useful for static analyses work.
+
+/Hugues Cassé is professor-assistant in the University of Toulouse. He
+performs research on WCET focused on the static analysis of memories
+and caches and on the value analysis of binary code. He is the
+designer and the main developer of the academic WCET tool O TAWA . He
+has been involved in several ANR projects (MascotTe, MORE, W-SEPT),
+European projects (MERASA, parMERASA), and other projects (SOCKET –
+FUI, CAPACITES – DGE -- CAPACITES)./
