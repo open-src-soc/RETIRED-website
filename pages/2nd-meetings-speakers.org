@@ -769,7 +769,7 @@ numerical modelling of computing systems./
   :CUSTOM_ID: P-CASSE
   :END:
 
-By *Hugues Cassé*, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]).
+By *Hugues Cassé*, Emmanuel Caussé, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]).
 
 The TRACES team at IRIT has developed a description of the RISC-V
 instruction set in SimNML, which is an Architecture Description
