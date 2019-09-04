@@ -15,9 +15,10 @@ pull:
 	git pull --recurse-submodules
 .PHONY: pull
 
-push: check-upstream rebuild
+deploy: check-deploy-branch check-upstream rebuild
 	git submodule update --remote --merge
-	cd site && git checkout master
+	# cleanup everything in site/, and force a reset on origin/master
+	cd site && git stash && git fetch && git checkout master && git reset --hard origin/master
 	rsync -avr --delete --exclude='.git'  _site/ site/
 	cd site \
 		&& git add . \
@@ -27,6 +28,11 @@ push: check-upstream rebuild
 	git commit -m 'Automatic commit of submodule site/ update.'
 	git push --recurse-submodules=check origin master
 .PHONY: push
+
+# Only the branch monitored by 'check-branch.sh' can be used for site deploys.
+check-deploy-branch:
+	./bin/check-branch.sh
+.PHONY: check-deploy-branch
 
 check-upstream:
 	# First, check that we are either up to date, or ahead of the
