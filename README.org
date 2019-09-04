@@ -2,16 +2,17 @@
 
 + =stack=.  Follow install instructions at https://docs.haskellstack.org/en/stable/README/#how-to-install.
 
-* build tools
+* build tools [developer, integrator]
 
 #+BEGIN_EXAMPLE
 $ TMPDIR=DIR_WITH_LOTS_OF_SPACE_AVAILABLE stack setup
 $ make stack_build
 #+END_EXAMPLE
 
-You can skip =make stack_build=.  =make all= builds everything.
+You can skip =make stack_build=.  =make all= builds everything,
+including the build tools.
 
-* build the website
+* build the website [developer, integrator]
 
 #+BEGIN_EXAMPLE
 $ make
@@ -19,10 +20,27 @@ $ make
 
 The website files are build in the directory =_site=.
 
-It's also possible to have the website automatically rebuilt each time
-a file is modified.  Open your browser to =http://localhost:8000=,
+It's also possible to have the website automatically built each time
+a source file is modified.  Open your browser to =http://localhost:8000=,
 and then run:
 
 #+BEGIN_EXAMPLE
 $ make watch
 #+END_EXAMPLE
+
+To rebuild everything in =_site=:
+#+begin_example
+$ make rebuild
+#+end_example
+
+* deploy [integrator]
+
+Rebuild everything, push the website contents in directory =site=, and
+=git push= to =site='s remote.  The directory =site= is a git
+submodule.  If the website is hosted on =github.io= (or similar
+services) =git push=ing its contents will update the contents of the
+website.
+
+#+begin_example
+$ make deploy
+#+end_example
