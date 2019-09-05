@@ -36,7 +36,7 @@ ACM fellow (2016)./
 
 ** European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
    :PROPERTIES:
-   :CUSTOM_ID: european-processor-initiative-challenges-opportunities-for-risc-v-accelerators-in-an-hpc-platform
+   :CUSTOM_ID: K-DOLBEAU
    :END:
 
 By *[[https://fr.linkedin.com/in/romaindolbeau][Romain Dolbeau]]*
@@ -164,7 +164,7 @@ of OS design and knows no other editor than vim./
 
 ** Open source GPUs: How can RISC-V play a role?
    :PROPERTIES:
-   :CUSTOM_ID: open-source-gpus-how-can-risc-v-play-a-role
+   :CUSTOM_ID: P-TAHERINEJAD
    :END:
 
 By *[[https://www.ict.tuwien.ac.at/staff/taherinejad][Nima
@@ -192,7 +192,7 @@ architectures and resource management in multi-processor SoCs./
 
 ** Alternative languages for safe and secure RISC-V programming
    :PROPERTIES:
-   :CUSTOM_ID: alternative-languages-for-safe-and-secure-risc-v-programming
+   :CUSTOM_ID: P-CHOUTEAU
    :END:
 
 By *[[https://twitter.com/deschips][Fabien Chouteau]]*
@@ -219,7 +219,7 @@ projects include electronics, music and woodworking./
 
 ** RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security
    :PROPERTIES:
-   :CUSTOM_ID: risc-v-isa-secure-ics-trojan-horse-to-conquer-security
+   :CUSTOM_ID: P-GUILLEY
    :END:
 
 By Rafail Psiakis &
@@ -248,7 +248,7 @@ Trojan injection, etc.) making it our Trojan horse to conquer security.
 
 ** A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing
    :PROPERTIES:
-   :CUSTOM_ID: a-risc-v-isa-extension-for-ultra-low-power-iot-wireless-signal-processing
+   :CUSTOM_ID: P-BERNIER
    :END:
 
 By Hela Belhadj Amor, *Carolynn Bernier* ([[http://www.leti-cea.fr][CEA
@@ -275,7 +275,7 @@ systems./
 
 ** An Out-of-Order RISCV Core Developed with HLS
    :PROPERTIES:
-   :CUSTOM_ID: an-out-of-order-riscv-core-developed-with-hls
+   :CUSTOM_ID: P-GOOSSENS
    :END:
 
 By *[[https://perso.univ-perp.fr/bernard.goossens/][Bernard Goossens]]*
@@ -304,7 +304,7 @@ of very distant ILP./
 
 ** Nanvix: An Operating System for Lightweight Manycores
    :PROPERTIES:
-   :CUSTOM_ID: nanvix-an-operating-system-for-lightweight-manycores
+   :CUSTOM_ID: P-PENNA
    :END:
 
 By *[[http://www.sites.google.com/view/ppenna][Pedro Henrique Penna]]*
@@ -345,7 +345,7 @@ designer of Nanvix./
 
 ** Fast and Accurate Vulnerability Analysis of a RISC-V Processor
    :PROPERTIES:
-   :CUSTOM_ID: fast-and-accurate-vulnerability-analysis-of-a-risc-v-processor
+   :CUSTOM_ID: P-SENTIEYS
    :END:
 
 By Joseph Paturel, Simon Rokicki, Davide Pala,
@@ -381,7 +381,7 @@ networks./
 
 ** Challenges to Adoption of Open-Source RISC-V Processors
    :PROPERTIES:
-   :CUSTOM_ID: challenges-to-adoption-of-open-source-risc-v-processors
+   :CUSTOM_ID: P-PRIKRYL
    :END:
 
 By *Zdeněk Přikryl* & Chris Jones ([[http://www.codasip.com][Codasip
@@ -409,7 +409,7 @@ engineer at Red Hat./
 
 ** Formal Proof of RISC-V Cores
    :PROPERTIES:
-   :CUSTOM_ID: P-COLLETTE-proof
+   :CUSTOM_ID: P-SOULAT
    :END:
 
 By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and *Romain
@@ -419,7 +419,7 @@ Soulat* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technol
 
 ** R&D challenges for Safe and Secure RISC-V based computer
    :PROPERTIES:
-   :CUSTOM_ID: P-COLLETTE-challenges
+   :CUSTOM_ID: P-COLLETTE
    :END:
 
 By Arnaud Samama, Emmanuel Gureghian, Fabrice Lemonnier, Eric
@@ -449,7 +449,7 @@ Arcure in 2009, Kronosafe in 2011, and WinMs in 2012./
 
 ** Development of a RV64GC IP core for the GRLIB IP Library
    :PROPERTIES:
-   :CUSTOM_ID: development-of-a-rv64gc-ip-core-for-the-grlib-ip-library
+   :CUSTOM_ID: P-ANDERSSON
    :END:
 
 By *Jan Andersson* ([[https://www.gaisler.com/][Cobham Gaisler]]).
@@ -474,7 +474,7 @@ software development efforts./
 
 ** Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
    :PROPERTIES:
-   :CUSTOM_ID: open-source-processor-ip-for-high-volume-production-socs-core-v-family-of-risc-v-cores
+   :CUSTOM_ID: P-OCONNOR
    :END:
 
 By *Rick O'Connor* ([[https://openhwgroup.org][OpenHW Group]]).
@@ -537,7 +537,7 @@ at Algonquin College./
 
 ** Ecological transition in ICT: A role for open hardware ?
    :PROPERTIES:
-   :CUSTOM_ID: ecological-transition-in-ict-a-role-for-open-hardware
+   :CUSTOM_ID: P-BOL
    :END:
 
 By *[[https://perso.uclouvain.be/david.bol][David Bol]]*
@@ -587,7 +587,7 @@ connecting to nature with his family./
 
 ** Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
    :PROPERTIES:
-   :CUSTOM_ID: ara-design-and-implementation-of-a-1ghz-64-bit-risc-v-vector-processor-in-22-nm-fd-soi
+   :CUSTOM_ID: P-CAVALCANTE
    :END:
 
 *[[mailto:matheusd@iis.ee.ethz.ch][Matheus Cavalcante]]*,
@@ -620,7 +620,7 @@ interconnection networks./
 
 ** Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
    :PROPERTIES:
-   :CUSTOM_ID: coarse-grained-power-modelling-and-estimation-using-the-hardware-performance-monitors-hpm-of-the-risc-v-rocket-core
+   :CUSTOM_ID: P-LEGUAY
    :END:
 
 By [[mailto:caaliph.andriamisaina@cea.fr][Caaliph Andriamisaina]]
@@ -652,7 +652,7 @@ modelling applied to embedded systems and multicore architectures./
 
 ** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
-   :CUSTOM_ID: open-source-processor-ip-in-the-scrx-family-of-the-risc-v-compatible-cores-by-syntacore
+   :CUSTOM_ID: P-BEREZINA
    :END:
 
 By *[[https://www.linkedin.com/in/kate-berezina][Ekaterina Berezina]]*,
@@ -691,7 +691,7 @@ classes there./
 
 ** Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
    :PROPERTIES:
-   :CUSTOM_ID: extending-the-compcert-certified-compiler-with-instruction-scheduling-and-control-flow-integrity
+   :CUSTOM_ID: P-BOULME
    :END:
 
 By *[[http://www-verimag.imag.fr/~boulme][Sylvain Boulmé]]*
@@ -729,6 +729,9 @@ verification of software in toolchains (in particular static analyzers
 and compilers)./
 
 ** Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs
+   :PROPERTIES:
+   :CUSTOM_ID: P-MARCHESE
+   :END:
 
 By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][One Spin Solutions]])
 
