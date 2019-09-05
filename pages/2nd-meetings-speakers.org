@@ -264,60 +264,35 @@ Engineering focused on digital design and embedded systems. Working at
 Cobham Gaisler as Director of Engineering, overseeing hardware and
 software development efforts./
 
-** Open source GPUs: How can RISC-V play a role?
+** R&D challenges for Safe and Secure RISC-V based computer
    :PROPERTIES:
-   :CUSTOM_ID: P-TAHERINEJAD
+   :CUSTOM_ID: P-COLLETTE
    :END:
 
-By *[[https://www.ict.tuwien.ac.at/staff/taherinejad][Nima
-Taherinejad]]* ([[https://www.ict.tuwien.ac.at][TU Wien]]).
+By Arnaud Samama, Emmanuel Gureghian, Fabrice Lemonnier, Eric
+Lenormand and *Thierry Collette* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
 
-In this talk, first, I briefly review existing open source GPUs and
-their status. Given its merit and the work we have done in group on the
-award-winning Nyuzi GPGPU, I will pay a closer attention to that work.
-Next, I will discuss some of the challenges they face as well as the
-importance of investing more into research and development of such
-architectures and potential direction of such research and development.
-At the end, I position RISC-V with respect to the open source GPUs and
-present some ideas on how RISC-V and its community can play a role in a
-potentially joint future.
+Thales is involved in the open hardware initiative and joint the
+RISC-V foundation last year. In order to deliver safe and secure
+embedded computing solutions, the availability of Open Source RISC-V
+cores & IPs is a key opportunity. In order to support and emphases
+this initiative, an european industrial ecosystem must be gathered and
+set up. Key R&D challenges must be therefore addressed. In this
+presentation, we will present the research subjects which are
+mandatory to address in order to accelerate.
 
-/Nima Taherinejad is a PhD graduate of the University of British
-Columbia (UBC), Vancouver, Canada. He is currently at the
-[[https://www.ict.tuwien.ac.at][TU Wien]] (formerly known also as Vienna
-University of Technology), Vienna, Austria, where he leads the
-system-on-chip (SoC) educational MSc module and works on self-awareness
-in resource-constrained cyber-physical systems, embedded systems,
-memristor-based circuit and systems, health-care, and robotics. In the
-field of computer architecture his activities revolve mainly around GPU
-architectures and resource management in multi-processor SoCs./
-
-** Alternative languages for safe and secure RISC-V programming
-   :PROPERTIES:
-   :CUSTOM_ID: P-CHOUTEAU
-   :END:
-
-By *[[https://twitter.com/deschips][Fabien Chouteau]]*
-([[https://www.adacore.com][Ada Core]]).
-
-In this talk I want to open a window into the wonderful world of
-"alternative" programming languages for RISC-V. What can you get by
-looking beyond C/C++.
-
-So I will start with a quick introduction to the Ada and SPARK
-languages, the benefits, the hurdles. I will also present an overview of
-the applications and domains where they shine, when failure is not an
-option.
-
-At the end of the talk, I will give my view of the RISC-V architecture
-and community from the perspective of an alternative languages
-developer. I will cover the good points, the risks, and provide some
-ideas on how the RISC-V can keep the door open.
-
-/Fabien joined AdaCore in 2010 after his master's degree in computer
-science at the EPITA (Paris). He is involved in real-time, embedded and
-hardware simulation technology. Maker/DIYer in his spare time, his
-projects include electronics, music and woodworking./
+/In January 2019, Thierry Collette became the director of the digital
+research group at Thales Research France. Previously, Thierry Collette
+was the head of a division in charge of technological development for
+embedded systems and integrated components at CEA Leti & List for
+eight years. He was the CTO of the European Processor Initiative (EPI)
+in 2018. Before that, he was the deputy director in charge of programs
+and strategy at CEA List. From 2004 to 2009, he managed the
+architectures and design unit at CEA. He obtained an electrical
+engineering degree in 1988 and a Ph.D in microelectronics at the
+University of Grenoble in 1992. He contributed to the creation of five
+CEA startups: ActiCM in 2000 (bought by CRAFORM), Kalray in 2008,
+Arcure in 2009, Kronosafe in 2011, and WinMs in 2012./
 
 ** RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security
    :PROPERTIES:
@@ -347,6 +322,61 @@ uses the open-source RISC-V ISA in order to evaluate and test new
 attacks. In Secure-IC, RISC-V allows us to penetrate into the
 architecture itself and test new attacks (e.g. sidechannel attacks,
 Trojan injection, etc.) making it our Trojan horse to conquer security.
+
+** Alternative languages for safe and secure RISC-V programming
+   :PROPERTIES:
+   :CUSTOM_ID: P-CHOUTEAU
+   :END:
+
+By *[[https://twitter.com/deschips][Fabien Chouteau]]*
+([[https://www.adacore.com][Ada Core]]).
+
+In this talk I want to open a window into the wonderful world of
+"alternative" programming languages for RISC-V. What can you get by
+looking beyond C/C++.
+
+So I will start with a quick introduction to the Ada and SPARK
+languages, the benefits, the hurdles. I will also present an overview of
+the applications and domains where they shine, when failure is not an
+option.
+
+At the end of the talk, I will give my view of the RISC-V architecture
+and community from the perspective of an alternative languages
+developer. I will cover the good points, the risks, and provide some
+ideas on how the RISC-V can keep the door open.
+
+/Fabien joined AdaCore in 2010 after his master's degree in computer
+science at the EPITA (Paris). He is involved in real-time, embedded and
+hardware simulation technology. Maker/DIYer in his spare time, his
+projects include electronics, music and woodworking./
+
+** Open source GPUs: How can RISC-V play a role?
+   :PROPERTIES:
+   :CUSTOM_ID: P-TAHERINEJAD
+   :END:
+
+By *[[https://www.ict.tuwien.ac.at/staff/taherinejad][Nima
+Taherinejad]]* ([[https://www.ict.tuwien.ac.at][TU Wien]]).
+
+In this talk, first, I briefly review existing open source GPUs and
+their status. Given its merit and the work we have done in group on the
+award-winning Nyuzi GPGPU, I will pay a closer attention to that work.
+Next, I will discuss some of the challenges they face as well as the
+importance of investing more into research and development of such
+architectures and potential direction of such research and development.
+At the end, I position RISC-V with respect to the open source GPUs and
+present some ideas on how RISC-V and its community can play a role in a
+potentially joint future.
+
+/Nima Taherinejad is a PhD graduate of the University of British
+Columbia (UBC), Vancouver, Canada. He is currently at the
+[[https://www.ict.tuwien.ac.at][TU Wien]] (formerly known also as Vienna
+University of Technology), Vienna, Austria, where he leads the
+system-on-chip (SoC) educational MSc module and works on self-awareness
+in resource-constrained cyber-physical systems, embedded systems,
+memristor-based circuit and systems, health-care, and robotics. In the
+field of computer architecture his activities revolve mainly around GPU
+architectures and resource management in multi-processor SoCs./
 
 ** An Out-of-Order RISCV Core Developed with HLS
    :PROPERTIES:
@@ -491,36 +521,6 @@ By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and *Romain
 Soulat* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
 
 /Abstract and bio. TBA./
-
-** R&D challenges for Safe and Secure RISC-V based computer
-   :PROPERTIES:
-   :CUSTOM_ID: P-COLLETTE
-   :END:
-
-By Arnaud Samama, Emmanuel Gureghian, Fabrice Lemonnier, Eric
-Lenormand and *Thierry Collette* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
-
-Thales is involved in the open hardware initiative and joint the
-RISC-V foundation last year. In order to deliver safe and secure
-embedded computing solutions, the availability of Open Source RISC-V
-cores & IPs is a key opportunity. In order to support and emphases
-this initiative, an european industrial ecosystem must be gathered and
-set up. Key R&D challenges must be therefore addressed. In this
-presentation, we will present the research subjects which are
-mandatory to address in order to accelerate.
-
-/In January 2019, Thierry Collette became the director of the digital
-research group at Thales Research France. Previously, Thierry Collette
-was the head of a division in charge of technological development for
-embedded systems and integrated components at CEA Leti & List for
-eight years. He was the CTO of the European Processor Initiative (EPI)
-in 2018. Before that, he was the deputy director in charge of programs
-and strategy at CEA List. From 2004 to 2009, he managed the
-architectures and design unit at CEA. He obtained an electrical
-engineering degree in 1988 and a Ph.D in microelectronics at the
-University of Grenoble in 1992. He contributed to the creation of five
-CEA startups: ActiCM in 2000 (bought by CRAFORM), Kalray in 2008,
-Arcure in 2009, Kronosafe in 2011, and WinMs in 2012./
 
 ** Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
    :PROPERTIES:

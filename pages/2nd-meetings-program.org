@@ -31,14 +31,16 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 14h30 | [[#P-ANDERSSON][Jan Andersson]]    | [[#P-ANDERSSON][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
 | 14h45 | /All/            | Discussion with David Bol, Carolynn Bernier & Jan Andersson                                                   |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
+| 15h00 | ---              | /Break/                                                                                                       |
+|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+| *15h15* |                  | *Session on Safe and Secure Computing with RISC-V*                  |
+|---------+------------------+---------------------------------------------------------------------|
+| 15h15   | [[#P-COLLETTE][Thierry Collette]] | [[#P-COLLETTE][R&D challenges for Safe and Secure RISC-V based computer]]            |
+| 15h30   | [[#P-GUILLEY][Sylvain Guilley]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
+| 15h45   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]]        |
+| 16h00   | /All/            | Discussion with Thierry Collette, Sylvain Guilley & Fabien Chouteau |
+|---------+------------------+---------------------------------------------------------------------|
 #+BEGIN_COMMENT
-| 15h00 | ---     | /Break/             |
-|-------+---------+---------------------|
-| 15h15 | TBA     | Presentation 24     |
-| 15h30 | TBA     | Presentation 25     |
-| 15h45 | TBA     | Presentation 26     |
-| 16h00 | ---     | Discussion 24+25+26 |
-|-------+---------+---------------------|
 | 16h15 | ---     | /Break/             |
 |-------+---------+---------------------|
 | 16h30 | TBA     | Presentation 27     |
