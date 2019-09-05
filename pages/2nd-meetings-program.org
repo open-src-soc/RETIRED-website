@@ -7,7 +7,6 @@ The [[#keynotes][list of speakers]] is available below. The detailed program wil
 published soon.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]], Paris.
-#+BEGIN_COMMENT
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | Time  | Speaker          | Title                                                                                                         |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
@@ -20,16 +19,19 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 11h30 | [[#T-PETROT][Frédéric Pétrot]]  | [[#T-PETROT][Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V]] |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 12h30 | ---              | /Lunch/                                                                                                       |
-|-------+---------+---------------------|
-| 13h00 | TBA     | Keynote 20          |
-|-------+---------+---------------------|
-| 13h45 | ---     | /Break/             |
-|-------+---------+---------------------|
-| 14h00 | TBA     | Presentation 21     |
-| 14h15 | TBA     | Presentation 22     |
-| 14h30 | TBA     | Presentation 23     |
-| 14h45 | ---     | Discussion 21+22+23 |
-|-------+---------+---------------------|
+|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+| 13h00 | TBA              | Keynote 20                                                                                                    |
+|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+| 13h45 | ---              | /Break/                                                                                                       |
+|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+|       |                  | *Session on Open HW Opportunities*                                                                            |
+|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+| 14h00 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
+| 14h15 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processingy]]                                    |
+| 14h30 | [[#P-ANDERSSON][Jan Andersson]]    | [[#P-ANDERSSON][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
+| 14h45 | /All/            | Discussion with David Bol, Carolynn Bernier & Jan Andersson                                                   |
+|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+#+BEGIN_COMMENT
 | 15h00 | ---     | /Break/             |
 |-------+---------+---------------------|
 | 15h15 | TBA     | Presentation 24     |
