@@ -27,7 +27,6 @@ deploy: check-deploy-branch check-upstream rebuild
 	git add site
 	git commit -m 'Automatic commit of submodule site/ update.'
 	git push --recurse-submodules=check origin master
-.PHONY: push
 
 # Only the branch monitored by 'check-branch.sh' can be used for site deploys.
 check-deploy-branch:
