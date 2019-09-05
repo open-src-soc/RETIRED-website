@@ -412,8 +412,8 @@ engineer at Red Hat./
    :CUSTOM_ID: P-COLLETTE-proof
    :END:
 
-By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, Romain Soulat
-([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]). Speaker: *Thierry Collette* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
+By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and *Romain
+Soulat* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
 
 /Abstract and bio. TBA./
 
