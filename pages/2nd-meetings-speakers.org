@@ -412,9 +412,8 @@ engineer at Red Hat./
    :CUSTOM_ID: formal-proof-of-risc-v-cores
    :END:
 
-By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, *Romain Soulat*
-([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales
-R&T]]).
+By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, Romain Soulat
+([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]). Speaker: *Thierry Collette* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
 
 /Abstract and bio. TBA./
 
