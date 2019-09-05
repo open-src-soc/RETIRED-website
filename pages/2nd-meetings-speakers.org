@@ -350,6 +350,108 @@ science at the EPITA (Paris). He is involved in real-time, embedded and
 hardware simulation technology. Maker/DIYer in his spare time, his
 projects include electronics, music and woodworking./
 
+** Verification of SimNML instruction set description using co-simulation
+  :PROPERTIES:
+  :CUSTOM_ID: P-CASSE
+  :END:
+
+By *Hugues Cassé*, Emmanuel Caussé, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]).
+
+The TRACES team at IRIT has developed a description of the RISC-V
+instruction set in SimNML, which is an Architecture Description
+Language (ADL). GLISS automatically convert this description into a
+library supporting, among others, a runnable Instruction Set
+Simulator.
+
+This presentation exposes the validation of our RISC-V description by
+parallely running and checking the generated simulator with a
+different source of execution implementing the RISC-V (different
+simulator or real microprocessor).  This work contributes to the
+confidence we can have into static analysis tools working on program
+binary representation.
+
+In such tools, the instruction set support is a boring and error-prone
+task whose validity is hard to assert. On the opposite, the SimNML
+description provides a golden model that is easier to write and that
+can be tested to detect errors. Once a sufficient level of confidence
+is obtained about the description, it can be processed automatically
+to derive properties useful for static analyses work.
+
+/Hugues Cassé is professor-assistant in the University of Toulouse. He
+performs research on WCET focused on the static analysis of memories
+and caches and on the value analysis of binary code. He is the
+designer and the main developer of the academic WCET tool O TAWA . He
+has been involved in several ANR projects (MascotTe, MORE, W-SEPT),
+European projects (MERASA, parMERASA), and other projects (SOCKET –
+FUI, CAPACITES – DGE -- CAPACITES)./
+** Fast and Accurate Vulnerability Analysis of a RISC-V Processor
+   :PROPERTIES:
+   :CUSTOM_ID: P-SENTIEYS
+   :END:
+
+By Joseph Paturel, Simon Rokicki, Davide Pala,
+*[[http://people.rennes.inria.fr/Olivier.Sentieys/][Olivier Sentieys]]*
+([[https://www.inria.fr][INRIA]]).
+
+As the RISC-V ISA gains traction in the safety-critical embedded system
+domain, the development of hardened cores becomes crucial. During this
+presentation, we present a vulnerability analysis framework that allows
+for a fast and accurate estimation of processor errors due to transient
+faults. The proposed set of tools is based on the 32-bit RISC-V core
+Comet supporting the M extension. The generated hardware's reaction to
+particle hits is characterized at the gate-level using logic transient
+pulse width based on physical transistor models. The Comet core being
+designed at the C level with high-level synthesis tools, a fast, cycle-
+and bit-accurate simulator can be derived from the core specifications.
+The previously extracted error patterns are hence re-injected in the
+core during the execution of applications and the system response is
+evaluated. This enables the estimation of various vulnerability related
+metrics and can swiftly drive the core-hardening design process. Results
+show that the combinational logic needed to implement the M extension
+plays a non-negligible role in the overall core vulnerability and that
+multiple-bit upset patterns need to be considered.
+
+/Olivier Sentieys is a Professor at the University of Rennes holding an
+INRIA Research Chair on Energy-Efficient Computing Systems. He is
+leading the [[https://team.inria.fr/cairn/][Cairn]] team common to Inria
+and IRISA Laboratory. He is also the head of the “Computer Architecture”
+department of IRISA. His research interests include system-level design,
+energy-efficiency, reconfigurable systems, hardware acceleration,
+approximate computing, fault tolerance, and energy harvesting sensor
+networks./
+
+** Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
+   :PROPERTIES:
+   :CUSTOM_ID: P-LEGUAY
+   :END:
+
+By [[mailto:caaliph.andriamisaina@cea.fr][Caaliph Andriamisaina]]
+([[http://www-list.cea.fr][CEA LIST]]),
+*[[file:pierre-guillaume.leguay@cea.fr][Pierre-Guillaume Le Guay]]*,
+([[http://www-list.cea.fr][CEA LIST]]).
+
+Power consumption monitoring of a processor is important for power
+management to reduce power usage. Performance counters have been widely
+used as proxies to estimate processor power online. This work focus on
+the dynamic power modelling at register-transfer level (RTL) of the
+RISC-V Rocket core, developed at the University of California, Berkeley.
+By creating our power model at RTL level, we aim at providing a
+coarse-grained estimation of power consumption, intended at the early
+stage of development and for software developers.
+
+The proposed power modelling methodology is based on the Hardware
+Performance Monitors (HPM) defined in the RISC-V ISA and implemented in
+the rocket-chip. These HPM monitor different events that take place
+during instructions execution and reveal several amount of information
+about power consumption. These events can be the number of cycles, the
+number of instructions retired, caches misses, etc.
+
+/Pierre-Guillaume Le Guay is a research engineer at CEA List, computing
+and design environment laboratory. He received the MSc degree in
+electrical engineering from Université Paris-Sud, Orsay, in 2017. His
+current research topics focus on the power consumption estimation and
+modelling applied to embedded systems and multicore architectures./
+
 ** Open source GPUs: How can RISC-V play a role?
    :PROPERTIES:
    :CUSTOM_ID: P-TAHERINEJAD
@@ -447,42 +549,6 @@ University of Munich (TUM, Germany) in this subject. Pedro earned his
 Master Degree in Computer Science from Universidade Federal de Santa
 Catarina ([[http://ufsc.br][UFSC]], Brazil) in 2017, and he is the main
 designer of Nanvix./
-
-** Fast and Accurate Vulnerability Analysis of a RISC-V Processor
-   :PROPERTIES:
-   :CUSTOM_ID: P-SENTIEYS
-   :END:
-
-By Joseph Paturel, Simon Rokicki, Davide Pala,
-*[[http://people.rennes.inria.fr/Olivier.Sentieys/][Olivier Sentieys]]*
-([[https://www.inria.fr][INRIA]]).
-
-As the RISC-V ISA gains traction in the safety-critical embedded system
-domain, the development of hardened cores becomes crucial. During this
-presentation, we present a vulnerability analysis framework that allows
-for a fast and accurate estimation of processor errors due to transient
-faults. The proposed set of tools is based on the 32-bit RISC-V core
-Comet supporting the M extension. The generated hardware's reaction to
-particle hits is characterized at the gate-level using logic transient
-pulse width based on physical transistor models. The Comet core being
-designed at the C level with high-level synthesis tools, a fast, cycle-
-and bit-accurate simulator can be derived from the core specifications.
-The previously extracted error patterns are hence re-injected in the
-core during the execution of applications and the system response is
-evaluated. This enables the estimation of various vulnerability related
-metrics and can swiftly drive the core-hardening design process. Results
-show that the combinational logic needed to implement the M extension
-plays a non-negligible role in the overall core vulnerability and that
-multiple-bit upset patterns need to be considered.
-
-/Olivier Sentieys is a Professor at the University of Rennes holding an
-INRIA Research Chair on Energy-Efficient Computing Systems. He is
-leading the [[https://team.inria.fr/cairn/][Cairn]] team common to Inria
-and IRISA Laboratory. He is also the head of the “Computer Architecture”
-department of IRISA. His research interests include system-level design,
-energy-efficiency, reconfigurable systems, hardware acceleration,
-approximate computing, fault tolerance, and energy harvesting sensor
-networks./
 
 ** Challenges to Adoption of Open-Source RISC-V Processors
    :PROPERTIES:
@@ -617,38 +683,6 @@ is currently pursuing his Ph.D. degree with the Digital Circuits and
 Systems group of Luca Benini at ETH Zurich. His research interests
 encompass high-performance computing (namely vector processing) and
 interconnection networks./
-
-** Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
-   :PROPERTIES:
-   :CUSTOM_ID: P-LEGUAY
-   :END:
-
-By [[mailto:caaliph.andriamisaina@cea.fr][Caaliph Andriamisaina]]
-([[http://www-list.cea.fr][CEA LIST]]),
-*[[file:pierre-guillaume.leguay@cea.fr][Pierre-Guillaume Le Guay]]*,
-([[http://www-list.cea.fr][CEA LIST]]).
-
-Power consumption monitoring of a processor is important for power
-management to reduce power usage. Performance counters have been widely
-used as proxies to estimate processor power online. This work focus on
-the dynamic power modelling at register-transfer level (RTL) of the
-RISC-V Rocket core, developed at the University of California, Berkeley.
-By creating our power model at RTL level, we aim at providing a
-coarse-grained estimation of power consumption, intended at the early
-stage of development and for software developers.
-
-The proposed power modelling methodology is based on the Hardware
-Performance Monitors (HPM) defined in the RISC-V ISA and implemented in
-the rocket-chip. These HPM monitor different events that take place
-during instructions execution and reveal several amount of information
-about power consumption. These events can be the number of cycles, the
-number of instructions retired, caches misses, etc.
-
-/Pierre-Guillaume Le Guay is a research engineer at CEA List, computing
-and design environment laboratory. He received the MSc degree in
-electrical engineering from Université Paris-Sud, Orsay, in 2017. His
-current research topics focus on the power consumption estimation and
-modelling applied to embedded systems and multicore architectures./
 
 ** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
@@ -796,37 +830,3 @@ Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
 been coordinating the IST FP6 4More project. His current focus is
 numerical modelling of computing systems./
 
-** Verification of SimNML instruction set description using co-simulation
-  :PROPERTIES:
-  :CUSTOM_ID: P-CASSE
-  :END:
-
-By *Hugues Cassé*, Emmanuel Caussé, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]).
-
-The TRACES team at IRIT has developed a description of the RISC-V
-instruction set in SimNML, which is an Architecture Description
-Language (ADL). GLISS automatically convert this description into a
-library supporting, among others, a runnable Instruction Set
-Simulator.
-
-This presentation exposes the validation of our RISC-V description by
-parallely running and checking the generated simulator with a
-different source of execution implementing the RISC-V (different
-simulator or real microprocessor).  This work contributes to the
-confidence we can have into static analysis tools working on program
-binary representation.
-
-In such tools, the instruction set support is a boring and error-prone
-task whose validity is hard to assert. On the opposite, the SimNML
-description provides a golden model that is easier to write and that
-can be tested to detect errors. Once a sufficient level of confidence
-is obtained about the description, it can be processed automatically
-to derive properties useful for static analyses work.
-
-/Hugues Cassé is professor-assistant in the University of Toulouse. He
-performs research on WCET focused on the static analysis of memories
-and caches and on the value analysis of binary code. He is the
-designer and the main developer of the academic WCET tool O TAWA . He
-has been involved in several ANR projects (MascotTe, MORE, W-SEPT),
-European projects (MERASA, parMERASA), and other projects (SOCKET –
-FUI, CAPACITES – DGE -- CAPACITES)./
