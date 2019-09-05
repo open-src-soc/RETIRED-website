@@ -409,7 +409,7 @@ engineer at Red Hat./
 
 ** Formal Proof of RISC-V Cores
    :PROPERTIES:
-   :CUSTOM_ID: formal-proof-of-risc-v-cores
+   :CUSTOM_ID: P-COLLETTE-proof
    :END:
 
 By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, Romain Soulat
