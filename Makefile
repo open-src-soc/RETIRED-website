@@ -41,3 +41,8 @@ check-upstream:
 	# that we are up to date or ahead of upstream?
 	LANG=C git status --untracked-files=no | grep -q -e 'ahead' -e 'up to date' || echo "\n\nERROR.\nPlease integrate upstream changes first."
 .PHONY: check-upstream
+
+push-both-branches:
+	git push origin master
+	git push origin deploy
+.PHONY: push-both-branches
