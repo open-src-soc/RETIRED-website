@@ -3,8 +3,8 @@
      :CUSTOM_ID: mardi
      :END:
 
-The [[#keynotes][list of speakers]] is available below. The detailed program will be
-published soon.
+Here is the detailed program. The [[#keynotes][list of speakers]] is further down
+this page.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]], Paris.
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,6 @@ The [[#keynotes][list of speakers]] is available below. The detailed program wil
 published soon.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]], Paris.
-#+BEGIN_COMMENT
 |-------+---------+---------------------|
 | Time  | Speaker | Title               |
 |-------+---------+---------------------|
@@ -69,11 +68,14 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |-------+---------+---------------------|
 | 09h15 | ---     | /Break/             |
 |-------+---------+---------------------|
-| 09h30 | TBA     | Presentation 31     |
-| 09h45 | TBA     | Presentation 32     |
-| 10h00 | TBA     | Presentation 33     |
-| 10h15 | ---     | Discussion 31+32+33 |
-|-------+---------+---------------------|
+| *10h00* |                    | *Session on Towards High Performance*                                                    |
+|---------+--------------------+------------------------------------------------------------------------------------------|
+| 10h00   | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
+| 10h15   | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISCV Core Developed with HLS]]                                            |
+| 10h30   | [[#P-TAHERINNEJAD][Nima TaheriNejad]]   | [[#P-TAHERINNEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
+| 11h45   | /All/              | Discussion with Matheus Cavalcante, Bernard Goossens & Nima TaheriNejad                  |
+|---------+--------------------+------------------------------------------------------------------------------------------|
+#+BEGIN_COMMENT
 | 10h30 | ---     | /Break/             |
 |-------+---------+---------------------|
 | 10h45 | TBA     | Presentation 34     |

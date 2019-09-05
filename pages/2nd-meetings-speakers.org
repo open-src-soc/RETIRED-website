@@ -452,33 +452,38 @@ electrical engineering from Université Paris-Sud, Orsay, in 2017. His
 current research topics focus on the power consumption estimation and
 modelling applied to embedded systems and multicore architectures./
 
-** Open source GPUs: How can RISC-V play a role?
+** Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
    :PROPERTIES:
-   :CUSTOM_ID: P-TAHERINEJAD
+   :CUSTOM_ID: P-CAVALCANTE
    :END:
 
-By *[[https://www.ict.tuwien.ac.at/staff/taherinejad][Nima
-Taherinejad]]* ([[https://www.ict.tuwien.ac.at][TU Wien]]).
+*[[mailto:matheusd@iis.ee.ethz.ch][Matheus Cavalcante]]*,
+[[mailto:fschuiki@iis.ee.ethz.ch][Fabian Schuiki]],
+[[mailto:zarubaf@iis.ee.ethz.ch][Florian Zaruba]],
+[[mailto:mschaffner@iis.ee.ethz.ch][Michael Schaffner]]
+([[https://iis.ee.ethz.ch][ETH Zurich]]),
+[[mailto:lbenini@iis.ee.ethz.ch][Luca Benini]]
+([[https://iis.ee.ethz.ch][ETH Zurich]] &
+[[http://www.dei.unibo.it][Universitá di Bologna]]).
 
-In this talk, first, I briefly review existing open source GPUs and
-their status. Given its merit and the work we have done in group on the
-award-winning Nyuzi GPGPU, I will pay a closer attention to that work.
-Next, I will discuss some of the challenges they face as well as the
-importance of investing more into research and development of such
-architectures and potential direction of such research and development.
-At the end, I position RISC-V with respect to the open source GPUs and
-present some ideas on how RISC-V and its community can play a role in a
-potentially joint future.
+In this presentation, we will discuss about our design and
+implementation experience with Ara, a vector processor based on RISC-V's
+Vector Extension. Ara is implemented in GlobalFoundries 22FDX FD-SOI
+technology. Its latest instance runs at up to 1.2 GHz in nominal
+conditions, achieving a peak performance of up to 34 DP-GFLOPS and an
+energy efficiency of up to 67 DP-GFLOPS/W. We will discuss the
+performance and scalability of Ara, including its limitations under
+different work loads, and show that the vector processor achieves a high
+utilization of its functional units, up to 97%, when running a 256x256
+matrix multiplication on sixteen lanes. Ara will be released as part of
+the PULP platform using the same permissive Solderpad license.
 
-/Nima Taherinejad is a PhD graduate of the University of British
-Columbia (UBC), Vancouver, Canada. He is currently at the
-[[https://www.ict.tuwien.ac.at][TU Wien]] (formerly known also as Vienna
-University of Technology), Vienna, Austria, where he leads the
-system-on-chip (SoC) educational MSc module and works on self-awareness
-in resource-constrained cyber-physical systems, embedded systems,
-memristor-based circuit and systems, health-care, and robotics. In the
-field of computer architecture his activities revolve mainly around GPU
-architectures and resource management in multi-processor SoCs./
+/Matheus Cavalcante received the M.Sc. degree in Integrated Electronic
+Systems from the Grenoble Institute of Technology (Phelma) in 2018 and
+is currently pursuing his Ph.D. degree with the Digital Circuits and
+Systems group of Luca Benini at ETH Zurich. His research interests
+encompass high-performance computing (namely vector processing) and
+interconnection networks./
 
 ** An Out-of-Order RISCV Core Developed with HLS
    :PROPERTIES:
@@ -508,6 +513,34 @@ development.
 a member of the [[http://www.lirmm.fr/recherche/equipes/dali][Dali]]
 team at [[http://www.lirmm.fr][LIRMM]]. His research is on the capture
 of very distant ILP./
+
+** Open source GPUs: How can RISC-V play a role?
+   :PROPERTIES:
+   :CUSTOM_ID: P-TAHERINEJAD
+   :END:
+
+By *[[https://www.ict.tuwien.ac.at/staff/taherinejad][Nima
+Taherinejad]]* ([[https://www.ict.tuwien.ac.at][TU Wien]]).
+
+In this talk, first, I briefly review existing open source GPUs and
+their status. Given its merit and the work we have done in group on the
+award-winning Nyuzi GPGPU, I will pay a closer attention to that work.
+Next, I will discuss some of the challenges they face as well as the
+importance of investing more into research and development of such
+architectures and potential direction of such research and development.
+At the end, I position RISC-V with respect to the open source GPUs and
+present some ideas on how RISC-V and its community can play a role in a
+potentially joint future.
+
+/Nima Taherinejad is a PhD graduate of the University of British
+Columbia (UBC), Vancouver, Canada. He is currently at the
+[[https://www.ict.tuwien.ac.at][TU Wien]] (formerly known also as Vienna
+University of Technology), Vienna, Austria, where he leads the
+system-on-chip (SoC) educational MSc module and works on self-awareness
+in resource-constrained cyber-physical systems, embedded systems,
+memristor-based circuit and systems, health-care, and robotics. In the
+field of computer architecture his activities revolve mainly around GPU
+architectures and resource management in multi-processor SoCs./
 
 ** Nanvix: An Operating System for Lightweight Manycores
    :PROPERTIES:
@@ -650,39 +683,6 @@ Digital, Xilinx and many more./
 /Rick holds an Executive MBA degree from the University of Ottawa and is
 an honors graduate of the faculty of Electronics Engineering Technology
 at Algonquin College./
-
-** Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
-   :PROPERTIES:
-   :CUSTOM_ID: P-CAVALCANTE
-   :END:
-
-*[[mailto:matheusd@iis.ee.ethz.ch][Matheus Cavalcante]]*,
-[[mailto:fschuiki@iis.ee.ethz.ch][Fabian Schuiki]],
-[[mailto:zarubaf@iis.ee.ethz.ch][Florian Zaruba]],
-[[mailto:mschaffner@iis.ee.ethz.ch][Michael Schaffner]]
-([[https://iis.ee.ethz.ch][ETH Zurich]]),
-[[mailto:lbenini@iis.ee.ethz.ch][Luca Benini]]
-([[https://iis.ee.ethz.ch][ETH Zurich]] &
-[[http://www.dei.unibo.it][Universitá di Bologna]]).
-
-In this presentation, we will discuss about our design and
-implementation experience with Ara, a vector processor based on RISC-V's
-Vector Extension. Ara is implemented in GlobalFoundries 22FDX FD-SOI
-technology. Its latest instance runs at up to 1.2 GHz in nominal
-conditions, achieving a peak performance of up to 34 DP-GFLOPS and an
-energy efficiency of up to 67 DP-GFLOPS/W. We will discuss the
-performance and scalability of Ara, including its limitations under
-different work loads, and show that the vector processor achieves a high
-utilization of its functional units, up to 97%, when running a 256x256
-matrix multiplication on sixteen lanes. Ara will be released as part of
-the PULP platform using the same permissive Solderpad license.
-
-/Matheus Cavalcante received the M.Sc. degree in Integrated Electronic
-Systems from the Grenoble Institute of Technology (Phelma) in 2018 and
-is currently pursuing his Ph.D. degree with the Digital Circuits and
-Systems group of Luca Benini at ETH Zurich. His research interests
-encompass high-performance computing (namely vector processing) and
-interconnection networks./
 
 ** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
