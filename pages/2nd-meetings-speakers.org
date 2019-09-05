@@ -417,6 +417,36 @@ By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet, Romain Soulat
 
 /Abstract and bio. TBA./
 
+** R&D challenges for Safe and Secure RISC-V based computer
+   :PROPERTIES:
+   :CUSTOM_ID: P-COLLETTE-challenges
+   :END:
+
+By Arnaud Samama, Emmanuel Gureghian, Fabrice Lemonnier, Eric
+Lenormand and *Thierry Collette* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
+
+Thales is involved in the open hardware initiative and joint the
+RISC-V foundation last year. In order to deliver safe and secure
+embedded computing solutions, the availability of Open Source RISC-V
+cores & IPs is a key opportunity. In order to support and emphases
+this initiative, an european industrial ecosystem must be gathered and
+set up. Key R&D challenges must be therefore addressed. In this
+presentation, we will present the research subjects which are
+mandatory to address in order to accelerate.
+
+/In January 2019, Thierry Collette became the director of the digital
+research group at Thales Research France. Previously, Thierry Collette
+was the head of a division in charge of technological development for
+embedded systems and integrated components at CEA Leti & List for
+eight years. He was the CTO of the European Processor Initiative (EPI)
+in 2018. Before that, he was the deputy director in charge of programs
+and strategy at CEA List. From 2004 to 2009, he managed the
+architectures and design unit at CEA. He obtained an electrical
+engineering degree in 1988 and a Ph.D in microelectronics at the
+University of Grenoble in 1992. He contributed to the creation of five
+CEA startups: ActiCM in 2000 (bought by CRAFORM), Kalray in 2008,
+Arcure in 2009, Kronosafe in 2011, and WinMs in 2012./
+
 ** Development of a RV64GC IP core for the GRLIB IP Library
    :PROPERTIES:
    :CUSTOM_ID: development-of-a-rv64gc-ip-core-for-the-grlib-ip-library
