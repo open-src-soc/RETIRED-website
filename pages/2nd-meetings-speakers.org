@@ -583,6 +583,40 @@ Master Degree in Computer Science from Universidade Federal de Santa
 Catarina ([[http://ufsc.br][UFSC]], Brazil) in 2017, and he is the main
 designer of Nanvix./
 
+** Enhancing scientific computation using a variable precision FPU with a  RISC-V processor
+  :PROPERTIES:
+  :CUSTOM_ID: P-DURAND
+  :END:
+
+By *Yves Durand* ([[http://www.leti-cea.fr][CEA LETI]]).
+
+Scientific computation applications are almost exclusively based on
+single or double precision floating point formats of the IEEE-754
+standard. These formats, of respectively 32 or 64 bits, have a fixed
+structure, which means that they are unlikely to exactly match the
+needs of the application. At best, it will be overkill, meaning wasted
+time, memory and power in computing useless bits. At worst, it will be
+insufficient, meaning numerically wrong results with possible
+catastrophic consequences in a world where embedded computing systems
+interfere more and more with our lives.
+
+We exploit the extensibility of RISC-V for adding support for variable
+precision floating point operations, and for variable length floating
+point formats in close memory. In this talk, we discuss the impact of
+these extensions on the system architecture, at all levels of the
+computing stack. We propose examples based on linear algebra kernels,
+which demonstrate the improvements in numerical quality and confidence
+in the numerical results.
+
+/Yves DURAND received his engineering degree in 1983 and a PhD in
+computer science in 1988. He worked with ST Microelectronics as a
+research engineer, then moved to Hewlett Packard in 1993 and led R&D
+projects related to networking interfaces and « smart communicating
+objects ». He then joined the Laboratoire d'Electronique et de
+Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
+been coordinating the IST FP6 4More project. His current focus is
+numerical modelling of computing systems./
+
 ** Challenges to Adoption of Open-Source RISC-V Processors
    :PROPERTIES:
    :CUSTOM_ID: P-PRIKRYL
@@ -795,38 +829,4 @@ DO-254, and detection of hardware Trojans and security
 vulnerabilities. He is passionate about enabling the next generation
 of high-integrity chips that underpin the Internet of Things, 5G,
 artificial intelligence, and autonomous vehicles./
-
-** Enhancing scientific computation using a variable precision FPU with a  RISC-V processor
-  :PROPERTIES:
-  :CUSTOM_ID: P-DURAND
-  :END:
-
-By *Yves Durand* ([[http://www.leti-cea.fr][CEA LETI]]).
-
-Scientific computation applications are almost exclusively based on
-single or double precision floating point formats of the IEEE-754
-standard. These formats, of respectively 32 or 64 bits, have a fixed
-structure, which means that they are unlikely to exactly match the
-needs of the application. At best, it will be overkill, meaning wasted
-time, memory and power in computing useless bits. At worst, it will be
-insufficient, meaning numerically wrong results with possible
-catastrophic consequences in a world where embedded computing systems
-interfere more and more with our lives.
-
-We exploit the extensibility of RISC-V for adding support for variable
-precision floating point operations, and for variable length floating
-point formats in close memory. In this talk, we discuss the impact of
-these extensions on the system architecture, at all levels of the
-computing stack. We propose examples based on linear algebra kernels,
-which demonstrate the improvements in numerical quality and confidence
-in the numerical results.
-
-/Yves DURAND received his engineering degree in 1983 and a PhD in
-computer science in 1988. He worked with ST Microelectronics as a
-research engineer, then moved to Hewlett Packard in 1993 and led R&D
-projects related to networking interfaces and « smart communicating
-objects ». He then joined the Laboratoire d'Electronique et de
-Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
-been coordinating the IST FP6 4More project. His current focus is
-numerical modelling of computing systems./
 

@@ -77,14 +77,18 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 10h30   | [[#P-TAHERINNEJAD][Nima TaheriNejad]]   | [[#P-TAHERINNEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
 | 11h45   | /All/              | Discussion with Matheus Cavalcante, Bernard Goossens & Nima TaheriNejad                  |
 |---------+--------------------+------------------------------------------------------------------------------------------|
+| 11h00   | ---                  | /Break/                                                                                 |
+|---------+----------------------+-----------------------------------------------------------------------------------------|
+| *11h30* |                      | *Session on Improving the HW/SW Interface*                                              |
+|---------+----------------------+-----------------------------------------------------------------------------------------|
+| 11h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
+| 11h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
+| 12h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Challenges to Adoption of Open-Source RISC-V Processors]]                                 |
+| 12h15   | /All/                | Discussion with [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                    |
+|---------+----------------------+-----------------------------------------------------------------------------------------|
+| 12h30   | ---                  | /Lunch/                                                                                 |
+|---------+----------------------+-----------------------------------------------------------------------------------------|
 #+BEGIN_COMMENT
-| 10h30 | ---     | /Break/             |
-|-------+---------+---------------------|
-| 10h45 | TBA     | Presentation 34     |
-| 11h00 | TBA     | Presentation 35     |
-| 11h15 | TBA     | Presentation 36     |
-| 11h30 | ---     | Discussion 34+35+36 |
-|-------+---------+---------------------|
 | 11h45 | ---     | /Break/             |
 |-------+---------+---------------------|
 | 12h00 | TBA     | Presentation 37     |
