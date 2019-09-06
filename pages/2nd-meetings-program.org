@@ -112,6 +112,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 16h30   | [[#P-SOULAT][Romain Soulat]]  | [[#P-SOULAT][Formal Proof of RISC-V Cores]]                                                                     |
 | 16h45   | /All/          | Discussion with  [[#P-BOULME][Sylvain Boulmé]] , [[#P-MARCHES][Sergio Marches]] and [[#P-SOULAT][Romain Soulat]]                               |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
-| 17h00   | /All/          | *Wrap Up, Comments & Perspectives*                                                               |
-| 17h30   | ---            | /Closure/                                                                                        |
-|---------+----------------+--------------------------------------------------------------------------------------------------|
+| 17h00   | [[./gdr-scienday.html][Sébastien Faucou]] | [[./gdr-scienday.html][Scientific Day: RISC-V for critical embedded systems in Campus de Jussieu on Thursday October 3rd]] |
+| 17h15   | /All/            | *Wrap Up, Comments & Perspectives*                                                                |
+| 17h30   | ---              | /Closure/                                                                                         |
+|---------+------------------+---------------------------------------------------------------------------------------------------|
