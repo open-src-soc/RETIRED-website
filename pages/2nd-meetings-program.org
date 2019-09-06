@@ -33,7 +33,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 14h00 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
 | 14h15 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processingy]]                                    |
 | 14h30 | [[#P-ANDERSSON][Jan Andersson]]    | [[#P-ANDERSSON][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
-| 14h45 | /All/            | Discussion with David Bol, Carolynn Bernier & Jan Andersson                                                   |
+| 14h45 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ANDERSSON][Jan Andersson]]                                                   |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 15h00 | ---              | /Break/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 15h15   | [[#P-COLLETTE][Thierry Collette]] | [[#P-COLLETTE][R&D challenges for Safe and Secure RISC-V based computer]]            |
 | 15h30   | [[#P-GUILLEY][Sylvain Guilley]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
 | 15h45   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]]        |
-| 16h00   | /All/            | Discussion with Thierry Collette, Sylvain Guilley & Fabien Chouteau |
+| 16h00   | /All/            | *Discussion with* [[#P-COLLETTE][Thierry Collette]], [[#P-GUILLEY][Sylvain Guilley]] & [[#P-CHOUTEAU][Fabien Chouteau]] |
 |---------+------------------+---------------------------------------------------------------------|
 | 16h15   | ---                      | /Break/                                                                                                               |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 16h30   | [[#P-CASSE][Hugues Cassé]]             | [[#P-CASSE][Verification of SimNML instruction set description using co-simulation]]                                                |
 | 16h45   | [[#P-SENTIEYS][Olivier Sentieys]]         | [[#P-SENTIEYS][Fast and Accurate Vulnerability Analysis of a RISC-V Processor]]                                                        |
 | 17h00   | [[#P-LEGUAY][Pierre-Guillaume Le Guay]] | [[#P-LEGUAY][Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core]] |
-| 17h15   | /All/                    | Discussion with Huges Cassé, Olivier Sentieys & Pierre-Guillaume Le Guay                                              |
+| 17h15   | /All/                    | *Discussion with* [[#P-CASSE][Huges Cassé]], [[#P-SENTIEYS][Olivier Sentieys]] & [[#P-LEGUAY][Pierre-Guillaume Le Guay]]                                              |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
 | 17h30   | ---                      | /Closure/                                                                                                             |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
@@ -74,13 +74,13 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+--------------------+------------------------------------------------------------------------------------------|
 | 09h00   | [[#K-SEZNEC][André Seznec]]       | [[#K-SEZNEC][It's the Instruction Fetch Front-End, Stupid!]]                                            |
 |---------+--------------------+------------------------------------------------------------------------------------------|
-| *10h00* |                    | *Session on Towards High Performance*                                                    |
-|---------+--------------------+------------------------------------------------------------------------------------------|
-| 10h00   | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
-| 10h15   | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISCV Core Developed with HLS]]                                            |
-| 10h30   | [[#P-TAHERINNEJAD][Nima TaheriNejad]]   | [[#P-TAHERINNEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
-| 11h45   | /All/              | Discussion with Matheus Cavalcante, Bernard Goossens & Nima TaheriNejad                  |
-|---------+--------------------+------------------------------------------------------------------------------------------|
+| *10h00* |                    | *Session: Towards High Performance*                                                    |
+|-------+--------------------+------------------------------------------------------------------------------------------|
+| 10h00 | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
+| 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISCV Core Developed with HLS]]                                            |
+| 10h30 | [[#P-TAHERINNEJAD][Nima TaheriNejad]]   | [[#P-TAHERINNEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
+| 11h45 | /All/              | *Discussion with* [[#P-CAVALCANTE][Matheus Cavalcante]],  [[#P-GOOSSENS][Bernard Goossens]] & [[#P-TAHERINNEJAD][Nima TaheriNejad]]               |
+|---------+----------------------+-----------------------------------------------------------------------------------------|
 | 11h00   | ---                  | /Break/                                                                                 |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | *11h30* |                      | *Session on Improving the HW/SW Interface*                                              |
@@ -88,7 +88,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 11h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
 | 11h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
 | 12h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Challenges to Adoption of Open-Source RISC-V Processors]]                                 |
-| 12h15   | /All/                | Discussion with [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                    |
+| 12h15   | /All/                | *Discussion with* [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                  |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 12h30   | ---                  | /Lunch/                                                                                 |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
@@ -101,16 +101,16 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 14h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] |
 | 14h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
 | 15h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]]                                                        |
-| 15h15   | /All/              | Discussion with [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                       |
+| 15h15   | /All/              | *Discussion with* [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                     |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
-| 15h30   | ---            | /Break/                                                                                          |
+| 15h30   | ---              | /Break/                                                                                           |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
 | *16h00* | ---            | *Session on Formal Verification*                                                                 |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
 | 16h00   | [[#P-BOULME][Sylvain Boulmé]] | [[#P-BOULME][Extending the CompCert certified compiler with instruction scheduling and control-flow integrity]] |
 | 16h15   | [[#P-MARCHES][Sergio Marches]] | [[#P-MARCHES][Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs]]                         |
 | 16h30   | [[#P-SOULAT][Romain Soulat]]  | [[#P-SOULAT][Formal Proof of RISC-V Cores]]                                                                     |
-| 16h45   | /All/          | Discussion with  [[#P-BOULME][Sylvain Boulmé]] , [[#P-MARCHES][Sergio Marches]] and [[#P-SOULAT][Romain Soulat]]                               |
+| 16h45   | /All/          | *Discussion with* [[#P-BOULME][Sylvain Boulmé]], [[#P-MARCHES][Sergio Marches]] and [[#P-SOULAT][Romain Soulat]]                              |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
 | 17h00   | [[./gdr-scienday.html][Sébastien Faucou]] | [[./gdr-scienday.html][Scientific Day: RISC-V for critical embedded systems in Campus de Jussieu on Thursday October 3rd]] |
 | 17h15   | /All/            | *Wrap Up, Comments & Perspectives*                                                                |
