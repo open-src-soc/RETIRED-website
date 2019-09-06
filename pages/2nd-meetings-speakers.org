@@ -1,74 +1,3 @@
-* 2nd RISC-V Meeting Keynotes
-  :PROPERTIES:
-  :CUSTOM_ID: keynotes
-  :END:
-
-** It's the Instruction Fetch Front-End, Stupid!
-   :PROPERTIES:
-   :CUSTOM_ID: K-SEZNEC
-   :END:
-
-By *[[https://team.inria.fr/pacap/members/andre-seznec][André Seznec]]*
-([[https://www.inria.fr][INRIA]]).
-
-Achieving high single-thread performance remains a major challenge even
-in the multicore era. To achieve ultimate single-thread performance, a
-uniprocessor needs a very efficient memory hierarchy, an aggressive
-out-of-order execution core and a highly efficient instruction fetch
-front-end engine.
-
-In this talk, I will focus on the challenges for the design of the
-instruction fetch frond-end in a very wide-issue processor.
-
-/André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in
-Rennes. His main research activity has ported on the architecture of
-microprocessors, including caches, pipeline, branch predictors,
-speculative execution, multithreading and multicores. His research has
-influenced the design of many high-end industrial microprocessors,
-particularly the caches and the branch predictors./
-
-/André Seznec is member of the hall of fame of the 3 major conferences
-in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM IEEE Micro.
-He received the first Intel Research Impact Medal in 2012 for his «
-exemplary work on high-performance computer micro-architecture, branch
-prediction and cache architecture. » He is a IEEE fellow (2013) and an
-ACM fellow (2016)./
-
-** European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
-   :PROPERTIES:
-   :CUSTOM_ID: K-DOLBEAU
-   :END:
-
-By *[[https://fr.linkedin.com/in/romaindolbeau][Romain Dolbeau]]*
-([[https://www.european-processor-initiative.eu/][EPI]],
-[[https://atos.net][ATOS]]).
-
-The European Processor Initiative (EPI) is a project currently
-implemented under the first stage of the Framework Partnership
-Agreement signed by the Consortium with the European Commission (FPA:
-800928), whose aim is to design and implement a roadmap for a new
-family of low-power European processors for extreme scale computing,
-high-performance Big-Data and a range of emerging applications.
-
-In this talk, I will describe the currently anticipated architecture
-of the EPI design and how to leverage this architecture in the
-software, using open standards. In particular, the EPI project is
-developing IP for a set of RISC-V-based accelerators designed to
-connect directly to the processor network-on-chip. I'll also talk on
-how EPI plan to integrate those IP in a silicon device, and how other
-accelerators IP designers could leverage EPI to create new
-high-performance multi-chip processing devices.
-
-/Romain Dolbeau is a Distinguished Expert at Atos-Bull. After studying
-computer architecture at Université Paris XI, Université Rennes 1 and
-ENS Cachan, Romain co-founded and joined CAPS entreprise, a pioneer
-company in compilation that introduced directive-based programming for
-heterogeneous computing with the HMPP technology. Romain joined Bull
-in 2014 as an HPC expert, helping customers leverage both CPU and
-accelerators to get the best performance out of their
-supercomputers. Since late 2018, Romain is working as the lead
-software architect for the EPI project./
-
 * 2nd RISC-V Meeting Tutorials
   :PROPERTIES:
   :CUSTOM_ID: tutorials
@@ -156,6 +85,77 @@ ancestor of the SoCLib SystemC library. He moved to Grenoble INP ENSIMAG
 in 2004, taking the responsibility of all classes related to logic
 circuit design and computer architecture. He still teaches UNIX, bases
 of OS design and knows no other editor than vim./
+
+* 2nd RISC-V Meeting Keynotes
+  :PROPERTIES:
+  :CUSTOM_ID: keynotes
+  :END:
+
+** It's the Instruction Fetch Front-End, Stupid!
+   :PROPERTIES:
+   :CUSTOM_ID: K-SEZNEC
+   :END:
+
+By *[[https://team.inria.fr/pacap/members/andre-seznec][André Seznec]]*
+([[https://www.inria.fr][INRIA]]).
+
+Achieving high single-thread performance remains a major challenge even
+in the multicore era. To achieve ultimate single-thread performance, a
+uniprocessor needs a very efficient memory hierarchy, an aggressive
+out-of-order execution core and a highly efficient instruction fetch
+front-end engine.
+
+In this talk, I will focus on the challenges for the design of the
+instruction fetch frond-end in a very wide-issue processor.
+
+/André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in
+Rennes. His main research activity has ported on the architecture of
+microprocessors, including caches, pipeline, branch predictors,
+speculative execution, multithreading and multicores. His research has
+influenced the design of many high-end industrial microprocessors,
+particularly the caches and the branch predictors./
+
+/André Seznec is member of the hall of fame of the 3 major conferences
+in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM IEEE Micro.
+He received the first Intel Research Impact Medal in 2012 for his «
+exemplary work on high-performance computer micro-architecture, branch
+prediction and cache architecture. » He is a IEEE fellow (2013) and an
+ACM fellow (2016)./
+
+** European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
+   :PROPERTIES:
+   :CUSTOM_ID: K-DOLBEAU
+   :END:
+
+By *[[https://fr.linkedin.com/in/romaindolbeau][Romain Dolbeau]]*
+([[https://www.european-processor-initiative.eu/][EPI]],
+[[https://atos.net][ATOS]]).
+
+The European Processor Initiative (EPI) is a project currently
+implemented under the first stage of the Framework Partnership
+Agreement signed by the Consortium with the European Commission (FPA:
+800928), whose aim is to design and implement a roadmap for a new
+family of low-power European processors for extreme scale computing,
+high-performance Big-Data and a range of emerging applications.
+
+In this talk, I will describe the currently anticipated architecture
+of the EPI design and how to leverage this architecture in the
+software, using open standards. In particular, the EPI project is
+developing IP for a set of RISC-V-based accelerators designed to
+connect directly to the processor network-on-chip. I'll also talk on
+how EPI plan to integrate those IP in a silicon device, and how other
+accelerators IP designers could leverage EPI to create new
+high-performance multi-chip processing devices.
+
+/Romain Dolbeau is a Distinguished Expert at Atos-Bull. After studying
+computer architecture at Université Paris XI, Université Rennes 1 and
+ENS Cachan, Romain co-founded and joined CAPS entreprise, a pioneer
+company in compilation that introduced directive-based programming for
+heterogeneous computing with the HMPP technology. Romain joined Bull
+in 2014 as an HPC expert, helping customers leverage both CPU and
+accelerators to get the best performance out of their
+supercomputers. Since late 2018, Romain is working as the lead
+software architect for the EPI project./
 
 * 2nd RISC-V Meeting Presentations
   :PROPERTIES:
