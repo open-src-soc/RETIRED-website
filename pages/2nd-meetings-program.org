@@ -99,21 +99,15 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | 15h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]]                                                        |
 | 15h15   | /All/              | Discussion with [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                       |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
-| 15h30   | ---                | /Break/                                                                                 |
-#+BEGIN_COMMENT
-|-------+---------+---------------------|
-| 14h00 | TBA     | Keynote 40          |
-|-------+---------+---------------------|
-| 14h45 | ---     | /Break/             |
-|-------+---------+---------------------|
-| 15h00 | TBA     | Presentation 41     |
-| 15h15 | TBA     | Presentation 42     |
-| 15h30 | TBA     | Presentation 43     |
-| 15h45 | ---     | Discussion 41+42+43 |
-|-------+---------+---------------------|
-| 16h00 | ---     | /Break/             |
-|-------+---------+---------------------|
-| 16h15 | TBA     | Wrap-up 44          |
-| 16h30 | ---     | /Closure/           |
-|-------+---------+---------------------|
-#+END_COMMENT
+| 15h30   | ---            | /Break/                                                                                          |
+|---------+----------------+--------------------------------------------------------------------------------------------------|
+| *16h00* | ---            | *Session on Formal Verification*                                                                 |
+|---------+----------------+--------------------------------------------------------------------------------------------------|
+| 16h00   | [[#P-BOULME][Sylvain Boulmé]] | [[#P-BOULME][Extending the CompCert certified compiler with instruction scheduling and control-flow integrity]] |
+| 16h15   | [[#P-MARCHES][Sergio Marches]] | [[#P-MARCHES][Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs]]                         |
+| 16h30   | [[#P-SOULAT][Romain Soulat]]  | [[#P-SOULAT][Formal Proof of RISC-V Cores]]                                                                     |
+| 16h45   | /All/          | Discussion with  [[#P-BOULME][Sylvain Boulmé]] , [[#P-MARCHES][Sergio Marches]] and [[#P-SOULAT][Romain Soulat]]                               |
+|---------+----------------+--------------------------------------------------------------------------------------------------|
+| 17h00   | /All/          | *Wrap Up, Comments & Perspectives*                                                               |
+| 17h30   | ---            | /Closure/                                                                                        |
+|---------+----------------+--------------------------------------------------------------------------------------------------|
