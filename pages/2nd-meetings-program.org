@@ -88,15 +88,19 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 12h30   | ---                  | /Lunch/                                                                                 |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
+| *13h30* |                    | *Keynote*                                                                               |
+|---------+--------------------+-----------------------------------------------------------------------------------------|
+| 13h30   | TBA                | TBA                                                                                     |
+|---------+--------------------+-----------------------------------------------------------------------------------------|
+| *14h30* |                    | *Session: Open Source Cores is an Actual Business*                                      |
+|---------+--------------------+-----------------------------------------------------------------------------------------|
+| 14h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] |
+| 14h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
+| 15h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]]                                                        |
+| 15h15   | /All/              | Discussion with [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                       |
+|---------+--------------------+-----------------------------------------------------------------------------------------|
+| 15h30   | ---                | /Break/                                                                                 |
 #+BEGIN_COMMENT
-| 11h45 | ---     | /Break/             |
-|-------+---------+---------------------|
-| 12h00 | TBA     | Presentation 37     |
-| 12h15 | TBA     | Presentation 38     |
-| 12h30 | TBA     | Presentation 39     |
-| 12h45 | ---     | Discussion 37+38+39 |
-|-------+---------+---------------------|
-| 13h00 | ---     | /Lunch/             |
 |-------+---------+---------------------|
 | 14h00 | TBA     | Keynote 40          |
 |-------+---------+---------------------|

@@ -645,15 +645,44 @@ along with embedded systems design, HLS, and simulation. Previously he
 was a Researcher at the Technical University of Brno and a software
 engineer at Red Hat./
 
-** Formal Proof of RISC-V Cores
+** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
-   :CUSTOM_ID: P-SOULAT
+   :CUSTOM_ID: P-BEREZINA
    :END:
 
-By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and *Romain
-Soulat* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
+By *[[https://www.linkedin.com/in/kate-berezina][Ekaterina Berezina]]*,
+Dmitry Gusev, Alexander Redkin ([[https://syntacore.com][Syntacore]]).
 
-/Abstract and bio. TBA./
+We describe family of the state-of-the-art RISC-V compatible processor
+IP developed by Syntacore with a specific focus on the open-source part
+of the product line.
+
+As of 2019, SCRx family of RISC-V compatible cores includes eight
+industry-grade cores with comprehensive features, targeted at different
+applications: from compact microcontroller-class SCR1 core to the
+high-performance 64bit Linux-capable multicore SCR7. The SCRx cores
+deliver competitive performance at low power already in baseline
+configurations. On the top, Syntacore provides one-stop
+workload-specific customization service to enable customer designs
+differentiation via significant performance and efficiency boost.
+Industry-standard interfacing options support enables seamless
+integration with existing designs.
+
+We detail IP features, benchmarks, and collateral availability, with a
+specific focus on the open-source SCR1 core. Initially introduced in
+2017, SCR1 is one of the first fully open and free to use industry-grade
+RISC-V compatible cores, which, since its introduction, found extensive
+use both in the industry and in academia.
+[[https://github.com/syntacore/scr1][=https://github.com/syntacore/scr1=]].
+
+/Ekaterina Berezina is a Senior HW Engineer at Syntacore, where she
+contributes to the SCRx core family development and maintenance.
+Ekaterina has more than 6 years of experience in CPU IP development
+including architecture and microarchitecture definition, RTL design,
+testing and verification, area/timing/power optimization for ASIC and
+FPGA. She received her Master's degree in Computer Science at
+Saint-Petersburg ITMO University and teaches Computer Architecture
+classes there./
 
 ** Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
    :PROPERTIES:
@@ -718,44 +747,45 @@ Digital, Xilinx and many more./
 an honors graduate of the faculty of Electronics Engineering Technology
 at Algonquin College./
 
-** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
+** Silicon at the speed of software
    :PROPERTIES:
-   :CUSTOM_ID: P-BEREZINA
+   :CUSTOM_ID: P-LOISEL
    :END:
 
-By *[[https://www.linkedin.com/in/kate-berezina][Ekaterina Berezina]]*,
-Dmitry Gusev, Alexander Redkin ([[https://syntacore.com][Syntacore]]).
+By *Yann Loisel* ([[https://sifive.com][SiFive]]).
 
-We describe family of the state-of-the-art RISC-V compatible processor
-IP developed by Syntacore with a specific focus on the open-source part
-of the product line.
+For 30+ years, chips kept getting faster and cheaper. In the race to
+get to the next process node, there wasn't time or a need to
+customize. But the world has changed—compute has hit a limit and the
+cost of building chips keeps increasing exponentially.
+The next wave of innovation is now happening at the hardware-software
+interface, and companies need custom silicon solutions to stay
+ahead. SiFive is leading the charge.
 
-As of 2019, SCRx family of RISC-V compatible cores includes eight
-industry-grade cores with comprehensive features, targeted at different
-applications: from compact microcontroller-class SCR1 core to the
-high-performance 64bit Linux-capable multicore SCR7. The SCRx cores
-deliver competitive performance at low power already in baseline
-configurations. On the top, Syntacore provides one-stop
-workload-specific customization service to enable customer designs
-differentiation via significant performance and efficiency boost.
-Industry-standard interfacing options support enables seamless
-integration with existing designs.
+SiFive brings the power of open source and software automation to the
+semiconductor industry, making it possible to develop new hardware
+faster and more affordably than ever before. With our platform for
+rapidly designing, testing and building RISC V-based core IP and
+chips, we’re accelerating the pace of innovation for businesses large
+and small.  You don’t need to be an expert in silicon design to
+produce custom chips. SiFive’s platform makes it possible to design at
+the system level and create chips that meet your exact specifications
+without deep pockets or a high-volume guarantee.
 
-We detail IP features, benchmarks, and collateral availability, with a
-specific focus on the open-source SCR1 core. Initially introduced in
-2017, SCR1 is one of the first fully open and free to use industry-grade
-RISC-V compatible cores, which, since its introduction, found extensive
-use both in the industry and in academia.
-[[https://github.com/syntacore/scr1][=https://github.com/syntacore/scr1=]].
+The inventors of RISC V joined forces with silicon experts bringing a
+new approach to semiconductors together with decades of industry
+experience, hundreds of tapeouts and millions of chips shipped.
 
-/Ekaterina Berezina is a Senior HW Engineer at Syntacore, where she
-contributes to the SCRx core family development and maintenance.
-Ekaterina has more than 6 years of experience in CPU IP development
-including architecture and microarchitecture definition, RTL design,
-testing and verification, area/timing/power optimization for ASIC and
-FPGA. She received her Master's degree in Computer Science at
-Saint-Petersburg ITMO University and teaches Computer Architecture
-classes there./
+After receiving his degree in Cryptography, Yann started work at the
+French DoD, finally reaching the position of Cryptanalysis Team
+Manager. He then successively joined SCM Microsystems GmbH, managing
+the security of smart card readers and DVB payTV decoders, then Innova
+Card, a fabless company providing secure microcontrollers, acting as
+Chief Security Officer and joined Maxim Integrated as Security
+Architect, managing all security-related topics including physical
+protection, cryptography, applications security, and certifications.
+He’s now Security Architect at SiFive, in charge of defining the
+platform security at the system level for SiFive RISC-V chips.
 
 ** Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
    :PROPERTIES:
@@ -829,4 +859,14 @@ DO-254, and detection of hardware Trojans and security
 vulnerabilities. He is passionate about enabling the next generation
 of high-integrity chips that underpin the Internet of Things, 5G,
 artificial intelligence, and autonomous vehicles./
+
+** Formal Proof of RISC-V Cores
+   :PROPERTIES:
+   :CUSTOM_ID: P-SOULAT
+   :END:
+
+By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and *Romain
+Soulat* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
+
+/Abstract and bio. TBA./
 
