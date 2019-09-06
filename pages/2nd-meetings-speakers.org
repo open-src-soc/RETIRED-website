@@ -542,109 +542,6 @@ memristor-based circuit and systems, health-care, and robotics. In the
 field of computer architecture his activities revolve mainly around GPU
 architectures and resource management in multi-processor SoCs./
 
-** Nanvix: An Operating System for Lightweight Manycores
-   :PROPERTIES:
-   :CUSTOM_ID: P-PENNA
-   :END:
-
-By *[[http://www.sites.google.com/view/ppenna][Pedro Henrique Penna]]*
-([[https://www.pucminas.br][PUC Minas]],
-[[https://www.univ-grenoble-alpes.fr][UGA]]), Marcio Castro
-([[http://ufsc.br][UFSC]], Brésil), François Broquedis
-([[http://www.grenoble-inp.fr][INPG]]), Henrique Cota de Freitas
-([[https://www.pucminas.br][PUC Minas]], Brésil), Jean-François Méhaut
-([[https://www.univ-grenoble-alpes.fr][UGA]]).
-
-Lightweight manycores differ from other high core count architectures in
-two major architectural points: they feature a distributed memory memory
-architecture; and they have their cores grouped into clusters with small
-amounts of local memory available. Nanvix is general purpose operating
-system (OS) that we designed from scratch to address this next
-generation of processors. Our OS features a distributed structure, in
-which traditional OS functionalities are implemented as system servers;
-and it aims at a novel distributed paging system to overcome
-architectural challenges of lightweight manycores. So far, a great
-effort was made to make Nanvix portable and performant across multiple
-targets, including industrial processors, such as MPPA (Kalray), and
-academic lightweight manycores, like those based in OpenRISC (OpTiMSoC)
-and RISC-V (PULP). Nanvix delivers these features through a rich
-hardware abstraction layer (HAL), which we shall cover in this talk.
-Nanvix source tree:
-[[https://github.com/nanvix][=https://github.com/nanvix=]]
-
-/Pedro Henrique Penna is a PhD Candidate in Informatics at Université
-Grenoble Alpes ([[https://www.univ-grenoble-alpes.fr][UGA]], France) in
-a cotutelle regime with Pontifícia Universidade Católica de Minas Gerais
-([[https://www.pucminas.br][PUC Minas]], Brazil). In his thesis, Pedro
-is focused on the design of operating systems for lightweight manycore
-processors, and he works in collaboration with Kalray and Technical
-University of Munich (TUM, Germany) in this subject. Pedro earned his
-Master Degree in Computer Science from Universidade Federal de Santa
-Catarina ([[http://ufsc.br][UFSC]], Brazil) in 2017, and he is the main
-designer of Nanvix./
-
-** Enhancing scientific computation using a variable precision FPU with a  RISC-V processor
-  :PROPERTIES:
-  :CUSTOM_ID: P-DURAND
-  :END:
-
-By *Yves Durand* ([[http://www.leti-cea.fr][CEA LETI]]).
-
-Scientific computation applications are almost exclusively based on
-single or double precision floating point formats of the IEEE-754
-standard. These formats, of respectively 32 or 64 bits, have a fixed
-structure, which means that they are unlikely to exactly match the
-needs of the application. At best, it will be overkill, meaning wasted
-time, memory and power in computing useless bits. At worst, it will be
-insufficient, meaning numerically wrong results with possible
-catastrophic consequences in a world where embedded computing systems
-interfere more and more with our lives.
-
-We exploit the extensibility of RISC-V for adding support for variable
-precision floating point operations, and for variable length floating
-point formats in close memory. In this talk, we discuss the impact of
-these extensions on the system architecture, at all levels of the
-computing stack. We propose examples based on linear algebra kernels,
-which demonstrate the improvements in numerical quality and confidence
-in the numerical results.
-
-/Yves DURAND received his engineering degree in 1983 and a PhD in
-computer science in 1988. He worked with ST Microelectronics as a
-research engineer, then moved to Hewlett Packard in 1993 and led R&D
-projects related to networking interfaces and « smart communicating
-objects ». He then joined the Laboratoire d'Electronique et de
-Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
-been coordinating the IST FP6 4More project. His current focus is
-numerical modelling of computing systems./
-
-** Challenges to Adoption of Open-Source RISC-V Processors
-   :PROPERTIES:
-   :CUSTOM_ID: P-PRIKRYL
-   :END:
-
-By *Zdeněk Přikryl* & Chris Jones ([[http://www.codasip.com][Codasip
-GmbH]]).
-
-The RISC-V movement offers the greatest potential for innovation in SoC
-design in a decade as a global ecosystem of contributors has emerged.
-This movement offers unprecedented choice for both research and for
-commercial consumers of processor technology. However, going from open
-source RISC-V implementation to deployment in a real production design
-requires cooperation of commercial IP and tools suppliers. Codasip
-endeavours to bridge the gap between open source and proprietary ISAs by
-offering professional grade RISC-V implementations and development tools
-for end-users to modify and optimize the architecture. This presentation
-will discuss many of the challenges of commercial use of RISC-V and
-Codasip's approach to addressing them in a manner that benefits the
-entire RISC-V community.
-
-/Dr Zdeněk Přikryl is the co-founder and chief technology officer of
-[[http://www.codasip.com][Codasip GmbH]]. He has over 10 years of
-experience in processor design from small MCUs to complex DSPs/VLIWs,
-along with embedded systems design, HLS, and simulation. Previously he
-was a Researcher at the Technical University of Brno and a software
-engineer at Red Hat./
-
 ** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
    :CUSTOM_ID: P-BEREZINA
@@ -786,6 +683,109 @@ Architect, managing all security-related topics including physical
 protection, cryptography, applications security, and certifications.
 He’s now Security Architect at SiFive, in charge of defining the
 platform security at the system level for SiFive RISC-V chips.
+
+** Nanvix: An Operating System for Lightweight Manycores
+   :PROPERTIES:
+   :CUSTOM_ID: P-PENNA
+   :END:
+
+By *[[http://www.sites.google.com/view/ppenna][Pedro Henrique Penna]]*
+([[https://www.pucminas.br][PUC Minas]],
+[[https://www.univ-grenoble-alpes.fr][UGA]]), Marcio Castro
+([[http://ufsc.br][UFSC]], Brésil), François Broquedis
+([[http://www.grenoble-inp.fr][INPG]]), Henrique Cota de Freitas
+([[https://www.pucminas.br][PUC Minas]], Brésil), Jean-François Méhaut
+([[https://www.univ-grenoble-alpes.fr][UGA]]).
+
+Lightweight manycores differ from other high core count architectures in
+two major architectural points: they feature a distributed memory memory
+architecture; and they have their cores grouped into clusters with small
+amounts of local memory available. Nanvix is general purpose operating
+system (OS) that we designed from scratch to address this next
+generation of processors. Our OS features a distributed structure, in
+which traditional OS functionalities are implemented as system servers;
+and it aims at a novel distributed paging system to overcome
+architectural challenges of lightweight manycores. So far, a great
+effort was made to make Nanvix portable and performant across multiple
+targets, including industrial processors, such as MPPA (Kalray), and
+academic lightweight manycores, like those based in OpenRISC (OpTiMSoC)
+and RISC-V (PULP). Nanvix delivers these features through a rich
+hardware abstraction layer (HAL), which we shall cover in this talk.
+Nanvix source tree:
+[[https://github.com/nanvix][=https://github.com/nanvix=]]
+
+/Pedro Henrique Penna is a PhD Candidate in Informatics at Université
+Grenoble Alpes ([[https://www.univ-grenoble-alpes.fr][UGA]], France) in
+a cotutelle regime with Pontifícia Universidade Católica de Minas Gerais
+([[https://www.pucminas.br][PUC Minas]], Brazil). In his thesis, Pedro
+is focused on the design of operating systems for lightweight manycore
+processors, and he works in collaboration with Kalray and Technical
+University of Munich (TUM, Germany) in this subject. Pedro earned his
+Master Degree in Computer Science from Universidade Federal de Santa
+Catarina ([[http://ufsc.br][UFSC]], Brazil) in 2017, and he is the main
+designer of Nanvix./
+
+** Enhancing scientific computation using a variable precision FPU with a  RISC-V processor
+  :PROPERTIES:
+  :CUSTOM_ID: P-DURAND
+  :END:
+
+By *Yves Durand* ([[http://www.leti-cea.fr][CEA LETI]]).
+
+Scientific computation applications are almost exclusively based on
+single or double precision floating point formats of the IEEE-754
+standard. These formats, of respectively 32 or 64 bits, have a fixed
+structure, which means that they are unlikely to exactly match the
+needs of the application. At best, it will be overkill, meaning wasted
+time, memory and power in computing useless bits. At worst, it will be
+insufficient, meaning numerically wrong results with possible
+catastrophic consequences in a world where embedded computing systems
+interfere more and more with our lives.
+
+We exploit the extensibility of RISC-V for adding support for variable
+precision floating point operations, and for variable length floating
+point formats in close memory. In this talk, we discuss the impact of
+these extensions on the system architecture, at all levels of the
+computing stack. We propose examples based on linear algebra kernels,
+which demonstrate the improvements in numerical quality and confidence
+in the numerical results.
+
+/Yves DURAND received his engineering degree in 1983 and a PhD in
+computer science in 1988. He worked with ST Microelectronics as a
+research engineer, then moved to Hewlett Packard in 1993 and led R&D
+projects related to networking interfaces and « smart communicating
+objects ». He then joined the Laboratoire d'Electronique et de
+Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
+been coordinating the IST FP6 4More project. His current focus is
+numerical modelling of computing systems./
+
+** Challenges to Adoption of Open-Source RISC-V Processors
+   :PROPERTIES:
+   :CUSTOM_ID: P-PRIKRYL
+   :END:
+
+By *Zdeněk Přikryl* & Chris Jones ([[http://www.codasip.com][Codasip
+GmbH]]).
+
+The RISC-V movement offers the greatest potential for innovation in SoC
+design in a decade as a global ecosystem of contributors has emerged.
+This movement offers unprecedented choice for both research and for
+commercial consumers of processor technology. However, going from open
+source RISC-V implementation to deployment in a real production design
+requires cooperation of commercial IP and tools suppliers. Codasip
+endeavours to bridge the gap between open source and proprietary ISAs by
+offering professional grade RISC-V implementations and development tools
+for end-users to modify and optimize the architecture. This presentation
+will discuss many of the challenges of commercial use of RISC-V and
+Codasip's approach to addressing them in a manner that benefits the
+entire RISC-V community.
+
+/Dr Zdeněk Přikryl is the co-founder and chief technology officer of
+[[http://www.codasip.com][Codasip GmbH]]. He has over 10 years of
+experience in processor design from small MCUs to complex DSPs/VLIWs,
+along with embedded systems design, HLS, and simulation. Previously he
+was a Researcher at the Technical University of Brno and a software
+engineer at Red Hat./
 
 ** Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
    :PROPERTIES:
