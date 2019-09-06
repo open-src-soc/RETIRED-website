@@ -83,25 +83,23 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 11h00   | ---                  | /Break/                                                                                 |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
-| *11h30* |                      | *Session on Improving the HW/SW Interface*                                              |
-|---------+----------------------+-----------------------------------------------------------------------------------------|
-| 11h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
-| 11h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
-| 12h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Challenges to Adoption of Open-Source RISC-V Processors]]                                 |
-| 12h15   | /All/                | *Discussion with* [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                  |
+| *11h30* |                    | *Session: Open Source Cores is an Actual Business*                                      |
+|---------+--------------------+-----------------------------------------------------------------------------------------|
+| 11h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] |
+| 11h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
+| 12h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]]                                                        |
+| 12h15   | /All/              | *Discussion with* [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                     |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 12h30   | ---                  | /Lunch/                                                                                 |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | *13h30* |                    | *Keynote*                                                                               |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
-| 13h30   | TBA                | TBA                                                                                     |
-|---------+--------------------+-----------------------------------------------------------------------------------------|
-| *14h30* |                    | *Session: Open Source Cores is an Actual Business*                                      |
-|---------+--------------------+-----------------------------------------------------------------------------------------|
-| 14h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] |
-| 14h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
-| 15h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]]                                                        |
-| 15h15   | /All/              | *Discussion with* [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                     |
+| *14h30* |                      | *Session on Improving the HW/SW Interface*                                              |
+|---------+----------------------+-----------------------------------------------------------------------------------------|
+| 14h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
+| 14h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
+| 15h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Challenges to Adoption of Open-Source RISC-V Processors]]                                 |
+| 15h15   | /All/                | *Discussion with* [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                  |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
 | 15h30   | ---              | /Break/                                                                                           |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
