@@ -61,8 +61,8 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
     :CUSTOM_ID: mercredi
     :END:
 
-The [[#keynotes][list of speakers]] is available below. The detailed program will be
-published soon.
+Here is the detailed program. The [[#keynotes][list of speakers]] is further down
+this page.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]], Paris.
 |---------+--------------------+------------------------------------------------------------------------------------------|
