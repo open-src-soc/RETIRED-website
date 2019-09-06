@@ -828,7 +828,7 @@ and compilers)./
 
 ** Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs
    :PROPERTIES:
-   :CUSTOM_ID: P-MARCHESE
+   :CUSTOM_ID: P-MARCHES
    :END:
 
 By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][One Spin Solutions]])
