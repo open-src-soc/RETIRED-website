@@ -876,11 +876,11 @@ security mechanisms, special additional verification requirements can
 be added to formally verify that those mechanisms performs correctly
 against threats or feared events.
 
-Romain Soulat is working at Thales Research and Technology (TRT) on
+/Romain Soulat is working at Thales Research and Technology (TRT) on
 the application of formal methods. He obtained his PhD. from Ecole
 Normale Supérieure Paris-Saclay in 2014 on the subject of formal
 verification of timed automata and controllers. In 2014, he joined the
 Critical Embedded Systems Laboratory at TRT to work on the topic of
 formal verification. His current research focus on model checking at
 system or implementation levels, numerical accuracy analysis and
-formal verification of AI-based systems.
+formal verification of AI-based systems./
