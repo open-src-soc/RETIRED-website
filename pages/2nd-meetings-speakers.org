@@ -868,5 +868,19 @@ artificial intelligence, and autonomous vehicles./
 By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and *Romain
 Soulat* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]]).
 
-/Abstract and bio. TBA./
+Formal verification of hardware designs is a classical application of
+model checking in industry. RISC-V cores can be formally verified for
+functional correctness and framework already exist to automatically
+perform that kind of verification. When designs includes safety or
+security mechanisms, special additional verification requirements can
+be added to formally verify that those mechanisms performs correctly
+against threats or feared events.
 
+Romain Soulat is working at Thales Research and Technology (TRT) on
+the application of formal methods. He obtained his PhD. from Ecole
+Normale Supérieure Paris-Saclay in 2014 on the subject of formal
+verification of timed automata and controllers. In 2014, he joined the
+Critical Embedded Systems Laboratory at TRT to work on the topic of
+formal verification. His current research focus on model checking at
+system or implementation levels, numerical accuracy analysis and
+formal verification of AI-based systems.
