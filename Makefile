@@ -48,7 +48,7 @@ ifneq ($(GIT_BRANCH),master)
 	@echo "Target '$@' can be called only when in branch 'master', not in '$(GIT_BRANCH)'."
 	@false
 endif
-	@git diff-index --quiet HEAD || echo "Please commit or stash modified files to clean the work tree." && false
+	@git diff-index --quiet HEAD || ( echo "Please commit or stash modified files to clean the work tree." && false )
 	git checkout deploy
 	git merge --ff-only master
 	make deploy
