@@ -53,7 +53,7 @@ endif
 	git merge --ff-only master
 	make deploy
 	git checkout master
-	git merge --ff-only
+	git merge --ff-only deploy
 	git push origin deploy
 	git push origin master
 .PHONY: commit-merge-and-push-both-branches
