@@ -1,3 +1,4 @@
+GIT_BRANCH:=$(shell git branch | sed -n '/\* /s///p')
 build: stack_build
 	stack exec site -- $@
 rebuild: stack_build
@@ -42,7 +43,18 @@ check-upstream:
 	LANG=C git status --untracked-files=no | grep -q -e 'ahead' -e 'up to date' || echo "\n\nERROR.\nPlease integrate upstream changes first."
 .PHONY: check-upstream
 
-push-both-branches:
-	git push origin master
+commit-merge-and-push-both-branches:
+	git branch
+ifneq ($(GIT_BRANCH),master)
+	@echo "Target '$@' can be called only when in branch 'master', not in '$(GIT_BRANCH)'."
+	@false
+endif
+	@git diff-index --quiet HEAD || echo "Please commit or stash modified files to clean the work tree." && false
+	git checkout deploy
+	git merge --ff-only master
+	make deploy
+	git checkout master
+	git merge --ff-only
 	git push origin deploy
-.PHONY: push-both-branches
+	git push origin master
+.PHONY: commit-merge-and-push-both-branches
