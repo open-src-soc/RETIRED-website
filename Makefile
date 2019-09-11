@@ -44,7 +44,6 @@ check-upstream:
 .PHONY: check-upstream
 
 commit-merge-and-push-both-branches:
-	git branch
 ifneq ($(GIT_BRANCH),master)
 	@echo "Target '$@' can be called only when in branch 'master', not in '$(GIT_BRANCH)'."
 	@false
