@@ -831,7 +831,7 @@ and compilers)./
    :CUSTOM_ID: P-MARCHESE
    :END:
 
-By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][One Spin Solutions]])
+By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][OneSpin Solutions]])
 
 RISC-V processor IPs are increasingly being integrated into
 system-on-chip designs for a variety of applications. However, there
