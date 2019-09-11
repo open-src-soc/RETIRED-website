@@ -48,7 +48,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+------------------+---------------------------------------------------------------------|
 | 16h15   | ---                      | /Break/                                                                                                               |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
-| *16h30* |                          | *Session on Modeling & Simulation*                                                                                    |
+| *16h30* | *Chair: Frédéric Pétrot* | *Session on Modeling & Simulation*                                                                                    |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
 | 16h30   | [[#P-CASSE][Hugues Cassé]]             | [[#P-CASSE][Verification of SimNML instruction set description using co-simulation]]                                                |
 | 16h45   | [[#P-SENTIEYS][Olivier Sentieys]]         | [[#P-SENTIEYS][Fast and Accurate Vulnerability Analysis of a RISC-V Processor]]                                                        |
