@@ -107,7 +107,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+--------------------+-----------------------------------------------------------------------------------------|
 | 15h30   | ---              | /Break/                                                                                           |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
-| *16h00* |                | *Session on Formal Verification*                                                                 |
+| *16h00* | *Chair: Olivier Savry* | *Session on Formal Verification*                                                                 |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
 | 16h00   | [[#P-BOULME][Sylvain Boulmé]] | [[#P-BOULME][Extending the CompCert certified compiler with instruction scheduling and control-flow integrity]] |
 | 16h15   | [[#P-MARCHESE][Sergio Marchese]] | [[#P-MARCHESE][Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs]]                         |
