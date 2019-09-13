@@ -91,6 +91,15 @@ of OS design and knows no other editor than vim./
   :CUSTOM_ID: keynotes
   :END:
 
+** (TBA)
+   :PROPERTIES:
+   :CUSTOM_ID: K-TAVERNIER
+   :END:
+
+By *Bertrand Tavernier* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]], [[https://riscv.org][The RISC-V Foundation]]).
+
+(TBA)
+
 ** It's the Instruction Fetch Front-End, Stupid!
    :PROPERTIES:
    :CUSTOM_ID: K-SEZNEC
