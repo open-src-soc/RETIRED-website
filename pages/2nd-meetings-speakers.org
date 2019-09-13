@@ -313,7 +313,7 @@ of modern vulnerability exploits (e.g. Specter, Meltdow, ZombieLoad and
 so on) due to the simplicity of their architecture. For the rest of the
 vulnerability exploits, Secure-IC crypto-IPs have been implemented
 around the cores to ensure the authenticity and the confidentiality of
-the executed code. Due to the fact that RISCV ISA is open-source, new
+the executed code. Due to the fact that RISC-V ISA is open-source, new
 verification methods can be proposed and evaluated both at the
 architectural and the micro-architectural level. Secure-IC with its
 solution named Cyber Escort Unit, verifies the control flow of the code
@@ -485,7 +485,7 @@ Systems group of Luca Benini at ETH Zurich. His research interests
 encompass high-performance computing (namely vector processing) and
 interconnection networks./
 
-** An Out-of-Order RISCV Core Developed with HLS
+** An Out-of-Order RISC-V Core Developed with HLS
    :PROPERTIES:
    :CUSTOM_ID: P-GOOSSENS
    :END:

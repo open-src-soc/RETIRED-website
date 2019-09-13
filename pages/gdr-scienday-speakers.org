@@ -100,7 +100,7 @@ to dependability. We show how we combine a deterministic programming
 model with a deterministic hardware architecture and an “holistic”
 optimization process to achieve both performance and
 dependability. This work is applied on the MultiPRET processor, a
-"multicore" declination of the RiscV FlexPRET PREcision Timed
+"multicore" declination of the RISC-V FlexPRET PREcision Timed
 Architecture (PRET) proposed by the University of California at
 Berkeley.
 

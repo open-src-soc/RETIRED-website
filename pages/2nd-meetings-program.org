@@ -33,7 +33,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | *14h00* | *Chair: Thierry Collette* | *Session on Open HW Opportunities*                                                                            |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 14h00 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
-| 14h15 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processingy]]                                    |
+| 14h15 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing]]                                     |
 | 14h30 | [[#P-ANDERSSON][Jan Andersson]]    | [[#P-ANDERSSON][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
 | 14h45 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ANDERSSON][Jan Andersson]]                                                   |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 | *10h00* | *Chair: Kevin Martin* | *Session: Towards High Performance*                                                    |
 |-------+--------------------+------------------------------------------------------------------------------------------|
 | 10h00 | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
-| 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISCV Core Developed with HLS]]                                            |
+| 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISC-V Core Developed with HLS]]                                           |
 | 10h30 | [[#P-TAHERINEJAD][Nima TaheriNejad]]   | [[#P-TAHERINEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
 | 11h45 | /All/              | *Discussion with* [[#P-CAVALCANTE][Matheus Cavalcante]],  [[#P-GOOSSENS][Bernard Goossens]] & [[#P-TAHERINNEJAD][Nima TaheriNejad]]               |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
