@@ -45,17 +45,7 @@ The choice of symbolic technology is mainly made for three reasons :
    chip send back from the foundry is exactly what it should be (no
    hardware trojan).
 
-/Jean-Paul Chaput holds a Master Degree in MicroElectronics and
-Software Engineering.  He joined the LIP6 laboratory within SU
-(formerly UPMC) in 2000.  Currently he is a Research Engineer in the
-Analog and Mixed Signal Team at LIP6. His main focus is on physical
-level design software.  He is a key contributor in developing and
-maintaining the Alliance/Coriolis VLSI CAD projects for CMOS
-technologies.  In particular he contributed in developing the routers
-of both Alliance/Coriolis and the whole Coriolis toolchain
-infrastructure.  He his now a key contributor in extending
-Alliance/Coriolis to the Analog Mixed-Signal integration for
-nanometric CMOS technologies./
+/Jean-Paul Chaput holds a Master Degree in MicroElectronics and Software Engineering.  He joined the LIP6 laboratory within SU (formerly UPMC) in 2000.  Currently he is a Research Engineer in the Analog and Mixed Signal Team at LIP6. His main focus is on physical level design software.  He is a key contributor in developing and maintaining the Alliance/Coriolis VLSI CAD projects for CMOS technologies.  In particular he contributed in developing the routers of both Alliance/Coriolis and the whole Coriolis toolchain infrastructure.  He his now a key contributor in extending Alliance/Coriolis to the Analog Mixed-Signal integration for nanometric CMOS technologies./
 
 ** Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V
    :PROPERTIES:
@@ -75,16 +65,7 @@ we mapped them on the RISC-V architecture. We will also have demos at
 hand for those interested in the putative use of this material, as
 teachers or hobbyists.
 
-/Starting in 1994, Frédéric Pétrot was assistant professor at Université
-Pierre et Marie Curie in Paris, where he was primary teaching VLSI
-design, CAD algorithms for VLSI design, bases of operating systems, and
-practical use of parser generators (but also C, ADA, UNIX, ...). He was
-one of the main contributor of the open-source Alliance CAD system,
-still in use today. He also started working on ESL tools, building the
-ancestor of the SoCLib SystemC library. He moved to Grenoble INP ENSIMAG
-in 2004, taking the responsibility of all classes related to logic
-circuit design and computer architecture. He still teaches UNIX, bases
-of OS design and knows no other editor than vim./
+/Starting in 1994, Frédéric Pétrot was assistant professor at Universié Pierre et Marie Curie in Paris, where he was primary teaching VLSI design, CAD algorithms for VLSI design, bases of operating systems, and practical use of parser generators (but also C, ADA, UNIX, ...). He was one of the main contributor of the open-source Alliance CAD system, still in use today. He also started working on ESL tools, building the ancestor of the SoCLib SystemC library. He moved to Grenoble INP ENSIMAG in 2004, taking the responsibility of all classes related to logic circuit design and computer architecture. He still teaches UNIX, bases of OS design and knows no other editor than vim./
 
 * 2nd RISC-V Meeting Keynotes
   :PROPERTIES:
@@ -114,8 +95,7 @@ processors. Learn about the trends, opportunities, and examples --
 from smart watches to supercomputers -- as well as the global momentum
 of RISC-V!
 
-/Bertrand Tavernier is VP Software Research & Technologies of Thales
-R&T, a Platinum member of the RISC-V Foundation./
+/Bertrand Tavernier is VP Software Research & Technologies of Thales R&T, a Platinum member of the RISC-V Foundation./
 
 ** It's the Instruction Fetch Front-End, Stupid!
    :PROPERTIES:
@@ -134,19 +114,9 @@ front-end engine.
 In this talk, I will focus on the challenges for the design of the
 instruction fetch frond-end in a very wide-issue processor.
 
-/André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in
-Rennes. His main research activity has ported on the architecture of
-microprocessors, including caches, pipeline, branch predictors,
-speculative execution, multithreading and multicores. His research has
-influenced the design of many high-end industrial microprocessors,
-particularly the caches and the branch predictors./
+/André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in Rennes. His main research activity has ported on the architecture of microprocessors, including caches, pipeline, branch predictors, speculative execution, multithreading and multicores. His research has influenced the design of many high-end industrial microprocessors, particularly the caches and the branch predictors./
 
-/André Seznec is member of the hall of fame of the 3 major conferences
-in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM IEEE Micro.
-He received the first Intel Research Impact Medal in 2012 for his «
-exemplary work on high-performance computer micro-architecture, branch
-prediction and cache architecture. » He is a IEEE fellow (2013) and an
-ACM fellow (2016)./
+/André Seznec is member of the hall of fame of the 3 major conferences in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM IEEE Micro.  He received the first Intel Research Impact Medal in 2012 for his « exemplary work on high-performance computer micro-architecture, branch prediction and cache architecture. » He is a IEEE fellow (2013) and an ACM fellow (2016)./
 
 ** European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform
    :PROPERTIES:
@@ -173,15 +143,7 @@ how EPI plan to integrate those IP in a silicon device, and how other
 accelerators IP designers could leverage EPI to create new
 high-performance multi-chip processing devices.
 
-/Romain Dolbeau is a Distinguished Expert at Atos-Bull. After studying
-computer architecture at Université Paris XI, Université Rennes 1 and
-ENS Cachan, Romain co-founded and joined CAPS entreprise, a pioneer
-company in compilation that introduced directive-based programming for
-heterogeneous computing with the HMPP technology. Romain joined Bull
-in 2014 as an HPC expert, helping customers leverage both CPU and
-accelerators to get the best performance out of their
-supercomputers. Since late 2018, Romain is working as the lead
-software architect for the EPI project./
+/Romain Dolbeau is a Distinguished Expert at Atos-Bull. After studying computer architecture at Université Paris XI, Université Rennes 1 and ENS Cachan, Romain co-founded and joined CAPS entreprise, a pioneer company in compilation that introduced directive-based programming for heterogeneous computing with the HMPP technology. Romain joined Bull in 2014 as an HPC expert, helping customers leverage both CPU and accelerators to get the best performance out of their supercomputers. Since late 2018, Romain is working as the lead software architect for the EPI project./
 
 * 2nd RISC-V Meeting Presentations
   :PROPERTIES:
@@ -214,29 +176,7 @@ where exponential trends (Moore's law, Cooper's law, Koomey's law)
 define the R&D roadmaps. We will discuss the potential role of
 open(-source) hardware towards a more sustainable innovation Bio:
 
-/David Bol is an assistant professor at the
-[[https://uclouvain.be/en/research-institutes/icteam/ecs.html][Electronic
-Circuits and Systems (ECS)]] group, ICTEAM Institute of UC Louvain
-(UCL). He received the Ph.D degree in Engineering Science from UCLouvain
-in 2008 in the field of ultra-low power digital nanoelectronics. In
-2005, he was a visiting Ph.D student at the CNM, Sevilla, Spain, and in
-2009, a postdoctoral researcher at intoPIX, Louvain-la-Neuve, Belgium.
-In 2010, he was a visiting postdoctoral researcher at the UC Berkeley
-Lab for Manufacturing and Sustainability, Berkeley, CA. In 2015, he
-participated to the creation of e-peas semiconductors spin-off company,
-Louvain-la-Neuve, Belgium. He leads the Electronic Circuits and Systems
-(ECS) research group focused on ultra-low-power design of smart-sensor
-integrated circuits for the IoT and biomedical applications with a
-specific focus on environmental sustainability. His personal IC
-interests include computing, power management, sensing and wireless
-communications. Prof. Bol has authored more than 100 papers and
-conference contributions and holds three delivered patents. He
-(co-)received three Best Paper/Poster/Design Awards in IEEE conferences
-(ICCD 2008, SOI Conf. 2008, FTFC 2014). He serves as a reviewer for
-various IEEE journals/conferences and presented several keynotes in
-international conferences. On the private side, he pioneered the
-parental leave for male professors in his institute to spend time
-connecting to nature with his family./
+/David Bol is an assistant professor at the [[https://uclouvain.be/en/research-institutes/icteam/ecs.html][Electronic Circuits and Systems (ECS)]] group, ICTEAM Institute of UC Louvain (UCL). He received the Ph.D degree in Engineering Science from UCLouvain in 2008 in the field of ultra-low power digital nanoelectronics. In 2005, he was a visiting Ph.D student at the CNM, Sevilla, Spain, and in 2009, a postdoctoral researcher at intoPIX, Louvain-la-Neuve, Belgium.  In 2010, he was a visiting postdoctoral researcher at the UC Berkeley Lab for Manufacturing and Sustainability, Berkeley, CA. In 2015, he participated to the creation of e-peas semiconductors spin-off company, Louvain-la-Neuve, Belgium. He leads the Electronic Circuits and Systems (ECS) research group focused on ultra-low-power design of smart-sensor integrated circuits for the IoT and biomedical applications with a specific focus on environmental sustainability. His personal IC interests include computing, power management, sensing and wireless communications. Prof. Bol has authored more than 100 papers and conference contributions and holds three delivered patents. He (co-)received three Best Paper/Poster/Design Awards in IEEE conferences (ICCD 2008, SOI Conf. 2008, FTFC 2014). He serves as a reviewer for various IEEE journals/conferences and presented several keynotes in international conferences. On the private side, he pioneered the parental leave for male professors in his institute to spend time connecting to nature with his family./
 
 ** A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing
    :PROPERTIES:
@@ -258,12 +198,7 @@ LoRa preamble detection, 32-bit FFT and CORDIC algorithm. Results show
 an average energy efficiency improvement of more than 35% with up to 50%
 obtained for the LoRa preamble detection algorithm.
 
-/Carolynn Bernier is a wireless systems designer and architect
-specialized in IoT communications. She has been involved in RF and
-analog design activities at CEA, LETI since 2004, always with a focus on
-ultra-low power design methodologies. Her recent interests are in low
-complexity algorithms for machine learning applied to deeply embedded
-systems./
+/Carolynn Bernier is a wireless systems designer and architect specialized in IoT communications. She has been involved in RF and analog design activities at CEA, LETI since 2004, always with a focus on ultra-low power design methodologies. Her recent interests are in low complexity algorithms for machine learning applied to deeply embedded systems./
 
 ** Development of a RV64GC IP core for the GRLIB IP Library
    :PROPERTIES:
@@ -281,14 +216,7 @@ provided as part of GRLIB. The presentation will cover why we see RISC-V
 as a good fit for us after SPARC32 and what we see missing in the
 ecosystem features
 
-/Mr Jan Andersson's key competencies are in Management of projects
-developing complex digital systems, microprocessor architecture,
-fault-tolerance concepts, use of programmable logic, Field Programmable
-Gate Arrays for applications both in consumer electronics and harsh
-environments. Background: Master of Science degree in Computer
-Engineering focused on digital design and embedded systems. Working at
-Cobham Gaisler as Director of Engineering, overseeing hardware and
-software development efforts./
+/Mr Jan Andersson's key competencies are in Management of projects developing complex digital systems, microprocessor architecture, fault-tolerance concepts, use of programmable logic, Field Programmable Gate Arrays for applications both in consumer electronics and harsh environments. Background: Master of Science degree in Computer Engineering focused on digital design and embedded systems. Working at Cobham Gaisler as Director of Engineering, overseeing hardware and software development efforts./
 
 ** R&D challenges for Safe and Secure RISC-V based computer
    :PROPERTIES:
@@ -307,18 +235,7 @@ set up. Key R&D challenges must be therefore addressed. In this
 presentation, we will present the research subjects which are
 mandatory to address in order to accelerate.
 
-/In January 2019, Thierry Collette became the director of the digital
-research group at Thales Research France. Previously, Thierry Collette
-was the head of a division in charge of technological development for
-embedded systems and integrated components at CEA Leti & List for
-eight years. He was the CTO of the European Processor Initiative (EPI)
-in 2018. Before that, he was the deputy director in charge of programs
-and strategy at CEA List. From 2004 to 2009, he managed the
-architectures and design unit at CEA. He obtained an electrical
-engineering degree in 1988 and a Ph.D in microelectronics at the
-University of Grenoble in 1992. He contributed to the creation of five
-CEA startups: ActiCM in 2000 (bought by CRAFORM), Kalray in 2008,
-Arcure in 2009, Kronosafe in 2011, and WinMs in 2012./
+/In January 2019, Thierry Collette became the director of the digital research group at Thales Research France. Previously, Thierry Collette was the head of a division in charge of technological development for embedded systems and integrated components at CEA Leti & List for eight years. He was the CTO of the European Processor Initiative (EPI) in 2018. Before that, he was the deputy director in charge of programs and strategy at CEA List. From 2004 to 2009, he managed the architectures and design unit at CEA. He obtained an electrical engineering degree in 1988 and a Ph.D in microelectronics at the University of Grenoble in 1992. He contributed to the creation of five CEA startups: ActiCM in 2000 (bought by CRAFORM), Kalray in 2008, Arcure in 2009, Kronosafe in 2011, and WinMs in 2012./
 
 ** RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security
    :PROPERTIES:
@@ -371,10 +288,7 @@ and community from the perspective of an alternative languages
 developer. I will cover the good points, the risks, and provide some
 ideas on how the RISC-V can keep the door open.
 
-/Fabien joined AdaCore in 2010 after his master's degree in computer
-science at the EPITA (Paris). He is involved in real-time, embedded and
-hardware simulation technology. Maker/DIYer in his spare time, his
-projects include electronics, music and woodworking./
+/Fabien joined AdaCore in 2010 after his master's degree in computer science at the EPITA (Paris). He is involved in real-time, embedded and hardware simulation technology. Maker/DIYer in his spare time, his projects include electronics, music and woodworking./
 
 ** Verification of SimNML instruction set description using co-simulation
   :PROPERTIES:
@@ -403,13 +317,7 @@ can be tested to detect errors. Once a sufficient level of confidence
 is obtained about the description, it can be processed automatically
 to derive properties useful for static analyses work.
 
-/Hugues Cassé is professor-assistant in the University of Toulouse. He
-performs research on WCET focused on the static analysis of memories
-and caches and on the value analysis of binary code. He is the
-designer and the main developer of the academic WCET tool O TAWA . He
-has been involved in several ANR projects (MascotTe, MORE, W-SEPT),
-European projects (MERASA, parMERASA), and other projects (SOCKET –
-FUI, CAPACITES – DGE -- CAPACITES)./
+/Hugues Cassé is professor-assistant in the University of Toulouse. He performs research on WCET focused on the static analysis of memories and caches and on the value analysis of binary code. He is the designer and the main developer of the academic WCET tool O TAWA . He has been involved in several ANR projects (MascotTe, MORE, W-SEPT), European projects (MERASA, parMERASA), and other projects (SOCKET – FUI, CAPACITES – DGE -- CAPACITES)./
 ** Fast and Accurate Vulnerability Analysis of a RISC-V Processor
    :PROPERTIES:
    :CUSTOM_ID: P-SENTIEYS
@@ -437,14 +345,7 @@ show that the combinational logic needed to implement the M extension
 plays a non-negligible role in the overall core vulnerability and that
 multiple-bit upset patterns need to be considered.
 
-/Olivier Sentieys is a Professor at the University of Rennes holding an
-INRIA Research Chair on Energy-Efficient Computing Systems. He is
-leading the [[https://team.inria.fr/cairn/][Cairn]] team common to Inria
-and IRISA Laboratory. He is also the head of the “Computer Architecture”
-department of IRISA. His research interests include system-level design,
-energy-efficiency, reconfigurable systems, hardware acceleration,
-approximate computing, fault tolerance, and energy harvesting sensor
-networks./
+/Olivier Sentieys is a Professor at the University of Rennes holding an INRIA Research Chair on Energy-Efficient Computing Systems. He is leading the [[https://team.inria.fr/cairn/][Cairn]] team common to Inria and IRISA Laboratory. He is also the head of the “Computer Architecture” department of IRISA. His research interests include system-level design, energy-efficiency, reconfigurable systems, hardware acceleration, approximate computing, fault tolerance, and energy harvesting sensor networks./
 
 ** Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core
    :PROPERTIES:
@@ -472,11 +373,7 @@ during instructions execution and reveal several amount of information
 about power consumption. These events can be the number of cycles, the
 number of instructions retired, caches misses, etc.
 
-/Pierre-Guillaume Le Guay is a research engineer at CEA List, computing
-and design environment laboratory. He received the MSc degree in
-electrical engineering from Université Paris-Sud, Orsay, in 2017. His
-current research topics focus on the power consumption estimation and
-modelling applied to embedded systems and multicore architectures./
+/Pierre-Guillaume Le Guay is a research engineer at CEA List, computing and design environment laboratory. He received the MSc degree in electrical engineering from Université Paris-Sud, Orsay, in 2017. His current research topics focus on the power consumption estimation and modelling applied to embedded systems and multicore architectures./
 
 ** Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI
    :PROPERTIES:
@@ -504,12 +401,7 @@ utilization of its functional units, up to 97%, when running a 256x256
 matrix multiplication on sixteen lanes. Ara will be released as part of
 the PULP platform using the same permissive Solderpad license.
 
-/Matheus Cavalcante received the M.Sc. degree in Integrated Electronic
-Systems from the Grenoble Institute of Technology (Phelma) in 2018 and
-is currently pursuing his Ph.D. degree with the Digital Circuits and
-Systems group of Luca Benini at ETH Zurich. His research interests
-encompass high-performance computing (namely vector processing) and
-interconnection networks./
+/Matheus Cavalcante received the M.Sc. degree in Integrated Electronic Systems from the Grenoble Institute of Technology (Phelma) in 2018 and is currently pursuing his Ph.D. degree with the Digital Circuits and Systems group of Luca Benini at ETH Zurich. His research interests encompass high-performance computing (namely vector processing) and interconnection networks./
 
 ** An Out-of-Order RISC-V Core Developed with HLS
    :PROPERTIES:
@@ -534,11 +426,7 @@ educational projects. This RISC-V core is the core brick of the LBP
 processor, a 64-cores manycore parallelizing processor, under
 development.
 
-/Bernard Goossens is Professor Emeritus at the
-[[https://webdali.univ-perp.fr][University of Perpignan (UPVD)]]. He is
-a member of the [[http://www.lirmm.fr/recherche/equipes/dali][Dali]]
-team at [[http://www.lirmm.fr][LIRMM]]. His research is on the capture
-of very distant ILP./
+/Bernard Goossens is Professor Emeritus at the [[https://webdali.univ-perp.fr][University of Perpignan (UPVD)]]. He is a member of the [[http://www.lirmm.fr/recherche/equipes/dali][Dali]] team at [[http://www.lirmm.fr][LIRMM]]. His research is on the capture of very distant ILP./
 
 ** Open source GPUs: How can RISC-V play a role?
    :PROPERTIES:
@@ -558,15 +446,7 @@ At the end, I position RISC-V with respect to the open source GPUs and
 present some ideas on how RISC-V and its community can play a role in a
 potentially joint future.
 
-/Nima Taherinejad is a PhD graduate of the University of British
-Columbia (UBC), Vancouver, Canada. He is currently at the
-[[https://www.ict.tuwien.ac.at][TU Wien]] (formerly known also as Vienna
-University of Technology), Vienna, Austria, where he leads the
-system-on-chip (SoC) educational MSc module and works on self-awareness
-in resource-constrained cyber-physical systems, embedded systems,
-memristor-based circuit and systems, health-care, and robotics. In the
-field of computer architecture his activities revolve mainly around GPU
-architectures and resource management in multi-processor SoCs./
+/Nima Taherinejad is a PhD graduate of the University of British Columbia (UBC), Vancouver, Canada. He is currently at the [[https://www.ict.tuwien.ac.at][TU Wien]] (formerly known also as Vienna University of Technology), Vienna, Austria, where he leads the system-on-chip (SoC) educational MSc module and works on self-awareness in resource-constrained cyber-physical systems, embedded systems, memristor-based circuit and systems, health-care, and robotics. In the field of computer architecture his activities revolve mainly around GPU architectures and resource management in multi-processor SoCs./
 
 ** Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore
    :PROPERTIES:
@@ -598,14 +478,7 @@ RISC-V compatible cores, which, since its introduction, found extensive
 use both in the industry and in academia.
 [[https://github.com/syntacore/scr1][=https://github.com/syntacore/scr1=]].
 
-/Ekaterina Berezina is a Senior HW Engineer at Syntacore, where she
-contributes to the SCRx core family development and maintenance.
-Ekaterina has more than 6 years of experience in CPU IP development
-including architecture and microarchitecture definition, RTL design,
-testing and verification, area/timing/power optimization for ASIC and
-FPGA. She received her Master's degree in Computer Science at
-Saint-Petersburg ITMO University and teaches Computer Architecture
-classes there./
+/Ekaterina Berezina is a Senior HW Engineer at Syntacore, where she contributes to the SCRx core family development and maintenance.  Ekaterina has more than 6 years of experience in CPU IP development including architecture and microarchitecture definition, RTL design, testing and verification, area/timing/power optimization for ASIC and FPGA. She received her Master's degree in Computer Science at Saint-Petersburg ITMO University and teaches Computer Architecture classes there./
 
 ** Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores
    :PROPERTIES:
@@ -633,42 +506,13 @@ innovation and ensure effective manufacturability of production SoCs.
 The session will describe barriers to adoption of open-source IP and
 opportunities to overcome these barriers.
 
-/Rick O'Connor is Founder and serves as President & CEO of the OpenHW
-Group a not-for-profit, global organization driven by its members and
-individual contributors where hardware and software designers
-collaborate on open source cores, related IP, tools and software
-projects. The OpenHW Group Core-V Family is a series of RISC-V based
-open-source cores with associated processor subsystem IP, tools and
-software for electronic system designers./
+/Rick O'Connor is Founder and serves as President & CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects. The OpenHW Group Core-V Family is a series of RISC-V based open-source cores with associated processor subsystem IP, tools and software for electronic system designers./
 
-/Previously Rick was Executive Director of the RISC-V Foundation. RISC-V
-(pronounced “risk-five”) is a free and open ISA enabling a new era of
-processor innovation through open standard collaboration. Founded by
-Rick in 2015 with the support of over 40 Founding Members, the RISC-V
-Foundation currently comprises more than 235 members building an open,
-collaborative community of software and hardware innovators powering
-processor innovation. Born in academia and research, the RISC-V ISA
-delivers a new level of free, extensible software and hardware freedom
-on architecture, paving the way for the next 50 years of computing
-design and innovation./
+/Previously Rick was Executive Director of the RISC-V Foundation. RISC-V (pronounced “risk-five”) is a free and open ISA enabling a new era of processor innovation through open standard collaboration. Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 235 members building an open, collaborative community of software and hardware innovators powering processor innovation. Born in academia and research, the RISC-V ISA delivers a new level of free, extensible software and hardware freedom on architecture, paving the way for the next 50 years of computing design and innovation./
 
-/Throughout his career, Rick has continued to be at the leading-edge of
-technology and corporate strategy and has held executive positions in
-many industry standards bodies. Also, with many years of Executive level
-management experience in semiconductor and systems companies, Rick
-possesses a unique combination of business and technical skills and was
-responsible for the development of dozens of products accounting for
-over $750 million in revenue. With very strong interpersonal skills,
-Rick is a regular speaker at key industry forums and has built a very
-strong professional network of key executives at many of the largest
-global technology firms including: Altera (now part of Intel), AMD, ARM,
-Cadence, Dell, Ericsson, Facebook, Google, Huawei, HP, IBM, IDT, Intel,
-Microsoft, Nokia, NXP, RedHat, Synopsys, Texas Instruments, Western
-Digital, Xilinx and many more./
+/Throughout his career, Rick has continued to be at the leading-edge of technology and corporate strategy and has held executive positions in many industry standards bodies. Also, with many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over $750 million in revenue. With very strong interpersonal skills, Rick is a regular speaker at key industry forums and has built a very strong professional network of key executives at many of the largest global technology firms including: Altera (now part of Intel), AMD, ARM, Cadence, Dell, Ericsson, Facebook, Google, Huawei, HP, IBM, IDT, Intel, Microsoft, Nokia, NXP, RedHat, Synopsys, Texas Instruments, Western Digital, Xilinx and many more./
 
-/Rick holds an Executive MBA degree from the University of Ottawa and is
-an honors graduate of the faculty of Electronics Engineering Technology
-at Algonquin College./
+/Rick holds an Executive MBA degree from the University of Ottawa and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College./
 
 ** Silicon at the speed of software
    :PROPERTIES:
@@ -699,16 +543,7 @@ The inventors of RISC V joined forces with silicon experts bringing a
 new approach to semiconductors together with decades of industry
 experience, hundreds of tapeouts and millions of chips shipped.
 
-After receiving his degree in Cryptography, Yann started work at the
-French DoD, finally reaching the position of Cryptanalysis Team
-Manager. He then successively joined SCM Microsystems GmbH, managing
-the security of smart card readers and DVB payTV decoders, then Innova
-Card, a fabless company providing secure microcontrollers, acting as
-Chief Security Officer and joined Maxim Integrated as Security
-Architect, managing all security-related topics including physical
-protection, cryptography, applications security, and certifications.
-He’s now Security Architect at SiFive, in charge of defining the
-platform security at the system level for SiFive RISC-V chips.
+/After receiving his degree in Cryptography, Yann started work at the French DoD, finally reaching the position of Cryptanalysis Team Manager. He then successively joined SCM Microsystems GmbH, managing the security of smart card readers and DVB payTV decoders, then Innova Card, a fabless company providing secure microcontrollers, acting as Chief Security Officer and joined Maxim Integrated as Security Architect, managing all security-related topics including physical protection, cryptography, applications security, and certifications.  He’s now Security Architect at SiFive, in charge of defining the platform security at the system level for SiFive RISC-V chips./
 
 ** Nanvix: An Operating System for Lightweight Manycores
    :PROPERTIES:
@@ -740,16 +575,7 @@ hardware abstraction layer (HAL), which we shall cover in this talk.
 Nanvix source tree:
 [[https://github.com/nanvix][=https://github.com/nanvix=]]
 
-/Pedro Henrique Penna is a PhD Candidate in Informatics at Université
-Grenoble Alpes ([[https://www.univ-grenoble-alpes.fr][UGA]], France) in
-a cotutelle regime with Pontifícia Universidade Católica de Minas Gerais
-([[https://www.pucminas.br][PUC Minas]], Brazil). In his thesis, Pedro
-is focused on the design of operating systems for lightweight manycore
-processors, and he works in collaboration with Kalray and Technical
-University of Munich (TUM, Germany) in this subject. Pedro earned his
-Master Degree in Computer Science from Universidade Federal de Santa
-Catarina ([[http://ufsc.br][UFSC]], Brazil) in 2017, and he is the main
-designer of Nanvix./
+/Pedro Henrique Penna is a PhD Candidate in Informatics at Université Grenoble Alpes ([[https://www.univ-grenoble-alpes.fr][UGA]], France) in a cotutelle regime with Pontifícia Universidade Católica de Minas Gerais ([[https://www.pucminas.br][PUC Minas]], Brazil). In his thesis, Pedro is focused on the design of operating systems for lightweight manycore processors, and he works in collaboration with Kalray and Technical University of Munich (TUM, Germany) in this subject. Pedro earned his Master Degree in Computer Science from Universidade Federal de Santa Catarina ([[http://ufsc.br][UFSC]], Brazil) in 2017, and he is the main designer of Nanvix./
 
 ** Enhancing scientific computation using a variable precision FPU with a  RISC-V processor
   :PROPERTIES:
@@ -776,14 +602,7 @@ computing stack. We propose examples based on linear algebra kernels,
 which demonstrate the improvements in numerical quality and confidence
 in the numerical results.
 
-/Yves DURAND received his engineering degree in 1983 and a PhD in
-computer science in 1988. He worked with ST Microelectronics as a
-research engineer, then moved to Hewlett Packard in 1993 and led R&D
-projects related to networking interfaces and « smart communicating
-objects ». He then joined the Laboratoire d'Electronique et de
-Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has
-been coordinating the IST FP6 4More project. His current focus is
-numerical modelling of computing systems./
+/Yves DURAND received his engineering degree in 1983 and a PhD in computer science in 1988. He worked with ST Microelectronics as a research engineer, then moved to Hewlett Packard in 1993 and led R&D projects related to networking interfaces and « smart communicating objects ». He then joined the Laboratoire d'Electronique et de Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has been coordinating the IST FP6 4More project. His current focus is numerical modelling of computing systems./
 
 ** Challenges to Adoption of Open-Source RISC-V Processors
    :PROPERTIES:
@@ -806,12 +625,7 @@ will discuss many of the challenges of commercial use of RISC-V and
 Codasip's approach to addressing them in a manner that benefits the
 entire RISC-V community.
 
-/Dr Zdeněk Přikryl is the co-founder and chief technology officer of
-[[http://www.codasip.com][Codasip GmbH]]. He has over 10 years of
-experience in processor design from small MCUs to complex DSPs/VLIWs,
-along with embedded systems design, HLS, and simulation. Previously he
-was a Researcher at the Technical University of Brno and a software
-engineer at Red Hat./
+/Dr Zdeněk Přikryl is the co-founder and chief technology officer of [[http://www.codasip.com][Codasip GmbH]]. He has over 10 years of experience in processor design from small MCUs to complex DSPs/VLIWs, along with embedded systems design, HLS, and simulation. Previously he was a Researcher at the Technical University of Brno and a software engineer at Red Hat./
 
 ** Extending the CompCert certified compiler with instruction scheduling and control-flow integrity
    :PROPERTIES:
@@ -846,11 +660,7 @@ we have modified the RISC-V backend of CompCert in order to include
 these CFI protections. We are formally proving the functional
 correctness of this backend.
 
-/Sylvain Boulmé is Maître de conférences (associate professor) at
-ENSIMAG (Engineering school in Information Technology). His research
-applies the Coq proof assistant and the OCaml typechecker the
-verification of software in toolchains (in particular static analyzers
-and compilers)./
+/Sylvain Boulmé is Maître de conférences (associate professor) at ENSIMAG (Engineering school in Information Technology). His research applies the Coq proof assistant and the OCaml typechecker the verification of software in toolchains (in particular static analyzers and compilers)./
 
 ** Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs
    :PROPERTIES:
@@ -876,15 +686,7 @@ a commercially available formal tool, and is arguably a significant
 improvement to previously published RISC-V ISA verification
 approaches, advancing hardware assurance and trust of RISC-V designs.
 
-/Sergio Marchese is technical marketing manager at OneSpin
-Solutions. He has 20 years of experience in electronic chip design,
-and deployment of advanced hardware development solutions across
-Europe, North America, and Asia. His expertise covers IC design,
-functional verification, safety standards, including ISO 26262 and
-DO-254, and detection of hardware Trojans and security
-vulnerabilities. He is passionate about enabling the next generation
-of high-integrity chips that underpin the Internet of Things, 5G,
-artificial intelligence, and autonomous vehicles./
+/Sergio Marchese is technical marketing manager at OneSpin Solutions. He has 20 years of experience in electronic chip design, and deployment of advanced hardware development solutions across Europe, North America, and Asia. His expertise covers IC design, functional verification, safety standards, including ISO 26262 and DO-254, and detection of hardware Trojans and security vulnerabilities. He is passionate about enabling the next generation of high-integrity chips that underpin the Internet of Things, 5G, artificial intelligence, and autonomous vehicles./
 
 ** Formal Proof of RISC-V Cores
    :PROPERTIES:
@@ -902,11 +704,4 @@ security mechanisms, special additional verification requirements can
 be added to formally verify that those mechanisms performs correctly
 against threats or feared events.
 
-/Romain Soulat is working at Thales Research and Technology (TRT) on
-the application of formal methods. He obtained his PhD. from Ecole
-Normale Supérieure Paris-Saclay in 2014 on the subject of formal
-verification of timed automata and controllers. In 2014, he joined the
-Critical Embedded Systems Laboratory at TRT to work on the topic of
-formal verification. His current research focus on model checking at
-system or implementation levels, numerical accuracy analysis and
-formal verification of AI-based systems./
+/Romain Soulat is working at Thales Research and Technology (TRT) on the application of formal methods. He obtained his PhD. from Ecole Normale Supérieure Paris-Saclay in 2014 on the subject of formal verification of timed automata and controllers. In 2014, he joined the Critical Embedded Systems Laboratory at TRT to work on the topic of formal verification. His current research focus on model checking at system or implementation levels, numerical accuracy analysis and formal verification of AI-based systems./
