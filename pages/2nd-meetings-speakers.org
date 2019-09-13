@@ -91,14 +91,31 @@ of OS design and knows no other editor than vim./
   :CUSTOM_ID: keynotes
   :END:
 
-** (TBA)
+** The Momentum and Opportunity of Custom, Open Source Processing
    :PROPERTIES:
    :CUSTOM_ID: K-TAVERNIER
    :END:
 
 By *Bertrand Tavernier* ([[https://www.thalesgroup.com/en/global/innovation/research-and-technology][Thales R&T]], [[https://riscv.org][The RISC-V Foundation]]).
 
-(TBA)
+The growth of human and business interaction with technology continues
+to explode. At the literal heart of that technology sits a silicon
+core, combined with general and specific instructions and
+connections. The insane cost, risk, development time, necessary
+volumes, and limited computing demands kept the lucrative chip
+opportunity within reach of just a handful of companies -- focused
+mostly on general purpose processors. New computing needs in various
+power and performance dimensions have increased demand and competition
+for custom processors. This pressure is quietly and rapidly disrupting
+the processor industry. An Open source approach to processors now
+reduces risk and investment, with accelerated time to market, and
+opens the opportunity to thousands of possible custom
+processors. Learn about the trends, opportunities, and examples --
+from smart watches to supercomputers -- as well as the global momentum
+of RISC-V!
+
+/Bertrand Tavernier is VP Software Research & Technologies of Thales
+R&T, a Platinum member of the RISC-V Foundation./
 
 ** It's the Instruction Fetch Front-End, Stupid!
    :PROPERTIES:
