@@ -98,7 +98,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+----------------+------------------------------------------------------------------------------------------------------|
 | 13h30   | [[#K-DOLBEAU][Romain Dolbeau]] | [[#K-DOLBEAU][European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform]] |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
-| *14h30* |                      | *Session on Improving the HW/SW Interface*                                              |
+| *14h30* | *Chair: Arnaud Tisserand* | *Session on Improving the HW/SW Interface*                                              |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 14h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
 | 14h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
