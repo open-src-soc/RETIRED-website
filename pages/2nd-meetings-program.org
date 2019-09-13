@@ -30,7 +30,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 13h45 | ---              | /Break/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| *14h00* |                  | *Session on Open HW Opportunities*                                                                            |
+| *14h00* | *Chair: Thierry Collette* | *Session on Open HW Opportunities*                                                                            |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 14h00 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
 | 14h15 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processingy]]                                    |
