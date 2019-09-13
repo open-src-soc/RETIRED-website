@@ -76,7 +76,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |---------+--------------------+------------------------------------------------------------------------------------------|
 | 09h00   | [[#K-SEZNEC][André Seznec]]       | [[#K-SEZNEC][It's the Instruction Fetch Front-End, Stupid!]]                                            |
 |---------+--------------------+------------------------------------------------------------------------------------------|
-| *10h00* |                    | *Session: Towards High Performance*                                                    |
+| *10h00* | *Chair: Kevin Martin* | *Session: Towards High Performance*                                                    |
 |-------+--------------------+------------------------------------------------------------------------------------------|
 | 10h00 | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
 | 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISCV Core Developed with HLS]]                                            |
