@@ -24,38 +24,38 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 12h30 | ---              | /Lunch/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| *13h00* |                  | *Keynote on TBA*                                                                                                    |
+| *13h30* |                  | *Keynote on TBA*                                                                                                    |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| 13h00 | TBA              | Keynote TBA                                                                                                    |
+| 13h30 | TBA              | Keynote TBA                                                                                                    |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| 13h45 | ---              | /Break/                                                                                                       |
+| 14h15 | ---              | /Break/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| *14h00* | *Chair: Thierry Collette* | *Session on Open HW Opportunities*                                                                            |
+| *14h30* | *Chair: Thierry Collette* | *Session on Open HW Opportunities*                                                                            |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| 14h00 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
-| 14h15 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing]]                                     |
-| 14h30 | [[#P-ANDERSSON][Jan Andersson]]    | [[#P-ANDERSSON][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
-| 14h45 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ANDERSSON][Jan Andersson]]                                                   |
+| 14h30 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
+| 14h45 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing]]                                     |
+| 15h00 | [[#P-ANDERSSON][Jan Andersson]]    | [[#P-ANDERSSON][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
+| 15h15 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ANDERSSON][Jan Andersson]]                                                   |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| 15h00 | ---              | /Break/                                                                                                       |
+| 15h30 | ---              | /Break/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| *15h15* | *Chair: David Hely* | *Session on Safe and Secure Computing with RISC-V*                  |
+| *15h45* | *Chair: David Hely* | *Session on Safe and Secure Computing with RISC-V*                  |
 |---------+------------------+---------------------------------------------------------------------|
-| 15h15   | [[#P-COLLETTE][Thierry Collette]] | [[#P-COLLETTE][R&D challenges for Safe and Secure RISC-V based computer]]            |
-| 15h30   | [[#P-GUILLEY][Sylvain Guilley]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
-| 15h45   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]]        |
-| 16h00   | /All/            | *Discussion with* [[#P-COLLETTE][Thierry Collette]], [[#P-GUILLEY][Sylvain Guilley]] & [[#P-CHOUTEAU][Fabien Chouteau]] |
+| 15h45   | [[#P-COLLETTE][Thierry Collette]] | [[#P-COLLETTE][R&D challenges for Safe and Secure RISC-V based computer]]            |
+| 16h00   | [[#P-GUILLEY][Sylvain Guilley]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
+| 16h15   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]]        |
+| 16h30   | /All/            | *Discussion with* [[#P-COLLETTE][Thierry Collette]], [[#P-GUILLEY][Sylvain Guilley]] & [[#P-CHOUTEAU][Fabien Chouteau]] |
 |---------+------------------+---------------------------------------------------------------------|
-| 16h15   | ---                      | /Break/                                                                                                               |
+| 16h45   | ---                      | /Break/                                                                                                               |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
-| *16h30* | *Chair: Frédéric Pétrot* | *Session on Modeling & Simulation*                                                                                    |
+| *17h00* | *Chair: Frédéric Pétrot* | *Session on Modeling & Simulation*                                                                                    |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
-| 16h30   | [[#P-CASSE][Hugues Cassé]]             | [[#P-CASSE][Verification of SimNML instruction set description using co-simulation]]                                                |
-| 16h45   | [[#P-SENTIEYS][Olivier Sentieys]]         | [[#P-SENTIEYS][Fast and Accurate Vulnerability Analysis of a RISC-V Processor]]                                                        |
-| 17h00   | [[#P-LEGUAY][Pierre-Guillaume Le Guay]] | [[#P-LEGUAY][Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core]] |
-| 17h15   | /All/                    | *Discussion with* [[#P-CASSE][Huges Cassé]], [[#P-SENTIEYS][Olivier Sentieys]] & [[#P-LEGUAY][Pierre-Guillaume Le Guay]]                                              |
+| 17h00   | [[#P-CASSE][Hugues Cassé]]             | [[#P-CASSE][Verification of SimNML instruction set description using co-simulation]]                                                |
+| 17h15   | [[#P-SENTIEYS][Olivier Sentieys]]         | [[#P-SENTIEYS][Fast and Accurate Vulnerability Analysis of a RISC-V Processor]]                                                        |
+| 17h30   | [[#P-LEGUAY][Pierre-Guillaume Le Guay]] | [[#P-LEGUAY][Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core]] |
+| 17h45   | /All/                    | *Discussion with* [[#P-CASSE][Huges Cassé]], [[#P-SENTIEYS][Olivier Sentieys]] & [[#P-LEGUAY][Pierre-Guillaume Le Guay]]                                              |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
-| 17h30   | ---                      | /Closure/                                                                                                             |
+| 18h00   | ---                      | /Closure/                                                                                                             |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
 
 ** Wednesday October 2nd, Second Day of the /2nd RISC-V Meeting/
