@@ -47,6 +47,9 @@ $ make deploy
 
 * to merge, build the site, push and sync everything
 
-While in the branch =master=, a =make
-commit-merge-and-push-both-branches= should do all the proper merge
-and push in branch =deploy=, and merge back in =master=.
+While in the branch =master=, to merge all in branch =deploy=, commit
+=deploy=, merge back in =master= and push both branches:
+
+#+begin_example
+$ make commit-merge-and-push-both-branches
+#+end_example
