@@ -95,7 +95,7 @@ processors. Learn about the trends, opportunities, and examples --
 from smart watches to supercomputers -- as well as the global momentum
 of RISC-V!
 
-/Bertrand Tavernier is VP Software Research & Technologies of Thales R&T, a Platinum member of the RISC-V Foundation./
+/Bertrand Tavernier is VP Software Research & Technologies for Thales group. He manages global software R&T strategy and lead software architects network between the seven Thales Global Business Unit and the five Thales Research & Technology centers. Prior, he held several positions related to safety critical embedded software as Safran Electronics workbench chief engineer from 2011 to 2015./
 
 ** It's the Instruction Fetch Front-End, Stupid!
    :PROPERTIES:
