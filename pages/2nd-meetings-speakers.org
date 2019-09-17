@@ -17,18 +17,12 @@ method as formerly used by MOSIS). The toolchain is currently
 organised as follow :
 
 1. A design description in VHDL language.
-
 2. Simulation with GHDL.
-
 3. Logical synthesis with Yosys.  We use a frontend to convert VHDL
    into Verilog (from Alliance).
-
 4. Physical design (place & route) using Coriolis.
-
 5. DRC & LVS using Alliance.
-
 6. Timing analysis with Tas & Yagle.
-
 7. Symbolic to real translation (Alliance).
 
 Our first objective is to design a RISC-V for AMS 350nm node (c35b4).
@@ -37,10 +31,8 @@ The choice of symbolic technology is mainly made for three reasons :
 
 1. Node portability.  From one symbolic layout, you may target
    multiple technologies. Only step 7 needs to be done.
-
 2. Community. Symbolic layout do not contains any NDA related
    information.  As such it can freely be published and shared.
-
 3. Security.  With a published layout, everybody can check that the
    chip send back from the foundry is exactly what it should be (no
    hardware trojan).
