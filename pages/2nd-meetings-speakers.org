@@ -14,7 +14,7 @@ Satin ([[https://www.lip6.fr][LIP6]]).
 This tutorial aims to build a RISC-V processor using only free VLSI
 CAD tools with a symbolic technology approach (a refined Mead-Conway
 method as formerly used by MOSIS). The toolchain is currently
-organised as follow :
+organised as follow:
 
 1. A design description in VHDL language.
 2. Simulation with GHDL.
@@ -27,7 +27,7 @@ organised as follow :
 
 Our first objective is to design a RISC-V for AMS 350nm node (c35b4).
 
-The choice of symbolic technology is mainly made for three reasons :
+The choice of symbolic technology is mainly made for three reasons:
 
 1. Node portability.  From one symbolic layout, you may target
    multiple technologies. Only step 7 needs to be done.
