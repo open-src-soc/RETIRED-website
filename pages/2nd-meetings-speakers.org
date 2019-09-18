@@ -37,9 +37,6 @@ The choice of symbolic technology is mainly made for three reasons:
    chip send back from the foundry is exactly what it should be (no
    hardware trojan).
 
-# The list above seems to break the text formatting of the paragraph below.
-# Add this comment as a workaround to restore proper code formatting.
-
 /Jean-Paul Chaput holds a Master Degree in MicroElectronics and Software Engineering.  He joined the LIP6 laboratory within SU (formerly UPMC) in 2000.  Currently he is a Research Engineer in the Analog and Mixed Signal Team at LIP6. His main focus is on physical level design software.  He is a key contributor in developing and maintaining the Alliance & Coriolis VLSI CAD projects for CMOS technologies.  In particular he contributed in developing the routers of both Alliance  & Coriolis and the whole Coriolis toolchain infrastructure.  He his now a key contributor in extending Alliance & Coriolis to the Analog Mixed-Signal integration for nanometric CMOS technologies./
 
 ** Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V
