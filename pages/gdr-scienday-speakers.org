@@ -2,59 +2,11 @@
   :PROPERTIES:
   :CUSTOM_ID: scientific-day
   :END:
-** European Processor Initiative: First step towards a made-in-Europe high-performance microprocessor
-   :PROPERTIES:
-   :CUSTOM_ID: first-step-towards-a-made-in-europe-high-performance-microprocessor
-   :END:
-
-By *Denis Dutoit*, [[https://www.leti-cea.com][CEA LETI]]
-
-The European Processor Initiative (EPI) is a project funded by the European Commission, whose aim is to design and implement a roadmap for a new family of low-power European processors for extreme scale computing, high-performance
-Big-Data and a range of emerging applications. The project started in December 2018 and aims to deliver a high-performance, low-power processor, implementing ARM based general purpose processors and RISC-V based specific accelerators.
-The EPI processor will also meet high security and safety requirements. This will be achieved through intensive use of simulation, development of a complete software stack and tape-out in the most advanced semiconductor process node.
-
-After an introduction on High Performance Computing new challenges and associated technology/architecture evolution, the presentation will highlight the EPI position statement on generic computing, accelerator with RISC-V and design
-methodology. The presentation will end with EPI’s roadmap towards a wide range of applications from Exascale computing to embedded HPC.
-
-/Denis Dutoit, EPI global architecture leader, Architecture, IC Design and Embedded Software Division, Leti/
-
-/Denis Dutoit joined CEA-Leti in 2009, after working for STMicroelectronics and STEricsson. In CEA-Leti, he has been involved in System-on-a-Chip architecture for computing and 3D Integrated Circuit projects. After defining the Leti’s roadmap of technologies and solutions for advanced computing, Denis Dutoit is now involved in European Projects in High Performance Computing as coordinator, project leader and SoC architect./
-
-** What does the space industry expect from RISC-V?
-   :PROPERTIES:
-   :CUSTOM_ID: what-does-the-space-industry-expect-from-risc-v
-   :END:
-
-By *Antoine Certain*, Airbus Defence & Space
-
-The space industry has some particularities which makes the usage of
-COTS components quite difficult. But, with the emergence of new space
-designs based on COTS, the space industry open its doors to a bigger
-ecosystem. And the RISC V ecosystem could answer to the major
-requirements of spacecraft design. This presentation will present the
-main requirements such industry expect from a core IP.
-
-/Antoine CERTAIN is an experienced hardware and software architect on embedded data-handling applications on spacecraft. He has gained large scale of space knowledge thanks to several projects for ESA, CNES and internally to Airbus Defence and Space. He is now team leader of the R&D On board data processing team of Airbus Defence and Space in Toulouse, FR./
-
-** Development of a RV64GC IP core for the GRLIB IP Library
-   :PROPERTIES:
-   :CUSTOM_ID: development-of-a-rv64gc-ip-core-for-the-grlib-ip-library
-   :END:
-
-By *Jan Andersson*, [[https://www.gaisler.com][Cobham Gaisler]]
-
-Cobham Gaisler is a world leader for space computing solutions where
-the company provides radiation tolerant system-on-chip devices based
-around the LEON processors. The building blocks for these devices are
-also available as IP cores from the company in an IP library named
-GRLIB.  Cobham Gaisler is currently developing a RV64GC core that will
-be provided as part of GRLIB. The presentation will cover features of
-the IP core and how it fits with existing peripherals, with technical
-items we see missing in the specification.
-
-/Mr Jan Andersson is working at Cobham Gaisler as Director of Engineering, overseeing hardware and software development efforts. Its key competencies are in management of projects developing complex digital systems, microprocessor architecture, fault-tolerance concepts, use of programmable logic, Field Programmable Gate Arrays for applications both in consumer electronics and harsh environments. He holds a Master of Science degree in Computer Engineering focused on digital design and embedded systems./
 
 ** RISC-V in embedded applications
+   :PROPERTIES:
+   :CUSTOM_ID: T3-CHAPMAN
+   :END:
 
 By *[[https://www.linkedin.com/michael-chapman-at-cortus][Michael Chapman]]*, [[https://www.cortus.com][Cortus]]
 
@@ -82,10 +34,61 @@ CAN (Controller Area Network) and System C./
 /He designed a new generation 16 bit micro-controller for Siemens and modeled that controller in 'C'. The simulation environment he created escaped from Siemens and became the foundation of System C./
 
 /In 2003, he created the first Cortus processor which is at the heart of security solutions used in bank cards, SIM cards, e-passport and is the root of trust in many devices including Blackberry, Intel, Fujitsu, etc./
+** What does the space industry expect from RISC-V?
+   :PROPERTIES:
+   :CUSTOM_ID: T3-CERTAIN
+   :END:
+
+By *Antoine Certain*, Airbus Defence & Space
+
+The space industry has some particularities which makes the usage of
+COTS components quite difficult. But, with the emergence of new space
+designs based on COTS, the space industry open its doors to a bigger
+ecosystem. And the RISC V ecosystem could answer to the major
+requirements of spacecraft design. This presentation will present the
+main requirements such industry expect from a core IP.
+
+/Antoine CERTAIN is an experienced hardware and software architect on embedded data-handling applications on spacecraft. He has gained large scale of space knowledge thanks to several projects for ESA, CNES and internally to Airbus Defence and Space. He is now team leader of the R&D On board data processing team of Airbus Defence and Space in Toulouse, FR./
+
+** Development of a RV64GC IP core for the GRLIB IP Library
+   :PROPERTIES:
+   :CUSTOM_ID: T3-ANDERSSON
+   :END:
+
+By *Jan Andersson*, [[https://www.gaisler.com][Cobham Gaisler]]
+
+Cobham Gaisler is a world leader for space computing solutions where
+the company provides radiation tolerant system-on-chip devices based
+around the LEON processors. The building blocks for these devices are
+also available as IP cores from the company in an IP library named
+GRLIB.  Cobham Gaisler is currently developing a RV64GC core that will
+be provided as part of GRLIB. The presentation will cover features of
+the IP core and how it fits with existing peripherals, with technical
+items we see missing in the specification.
+
+/Mr Jan Andersson is working at Cobham Gaisler as Director of Engineering, overseeing hardware and software development efforts. Its key competencies are in management of projects developing complex digital systems, microprocessor architecture, fault-tolerance concepts, use of programmable logic, Field Programmable Gate Arrays for applications both in consumer electronics and harsh environments. He holds a Master of Science degree in Computer Engineering focused on digital design and embedded systems./
+
+** European Processor Initiative: First step towards a made-in-Europe high-performance microprocessor
+   :PROPERTIES:
+   :CUSTOM_ID: T3-DUTOIT
+   :END:
+
+By *Denis Dutoit*, [[https://www.leti-cea.com][CEA LETI]]
+
+The European Processor Initiative (EPI) is a project funded by the European Commission, whose aim is to design and implement a roadmap for a new family of low-power European processors for extreme scale computing, high-performance
+Big-Data and a range of emerging applications. The project started in December 2018 and aims to deliver a high-performance, low-power processor, implementing ARM based general purpose processors and RISC-V based specific accelerators.
+The EPI processor will also meet high security and safety requirements. This will be achieved through intensive use of simulation, development of a complete software stack and tape-out in the most advanced semiconductor process node.
+
+After an introduction on High Performance Computing new challenges and associated technology/architecture evolution, the presentation will highlight the EPI position statement on generic computing, accelerator with RISC-V and design
+methodology. The presentation will end with EPI’s roadmap towards a wide range of applications from Exascale computing to embedded HPC.
+
+/Denis Dutoit, EPI global architecture leader, Architecture, IC Design and Embedded Software Division, Leti/
+
+/Denis Dutoit joined CEA-Leti in 2009, after working for STMicroelectronics and STEricsson. In CEA-Leti, he has been involved in System-on-a-Chip architecture for computing and 3D Integrated Circuit projects. After defining the Leti’s roadmap of technologies and solutions for advanced computing, Denis Dutoit is now involved in European Projects in High Performance Computing as coordinator, project leader and SoC architect./
 
 ** Achieving determinism and performance on the RISC-V FlexPRET Processor
    :PROPERTIES:
-   :CUSTOM_ID: achieving-determinism-and-performance-on-the-risc-v-flexpret-processor
+   :CUSTOM_ID: T3-JENN
    :END:
 
 By *Eric Jenn*, [[http://www.irt-saintexupery.com/][IRT Saint-Exupéry]]
@@ -108,7 +111,7 @@ Berkeley.
 
 ** RISC-V based Virtual Prototype: An Open Source Platform for Modeling and Verification
    :PROPERTIES:
-   :CUSTOM_ID: tba-2
+   :CUSTOM_ID: T3-GROSSE
    :END:
 
 By *[[http://www.informatik.uni-bremen.de/~grosse/][Daniel Große]]*, [[https://www.uni-bremen.de][University of Bremen]] and [[https://www.dfki.de/en/web/][DFKI GmbH]]
@@ -133,7 +136,7 @@ HiFive1 board from SiFive.
 
 ** Formal Verification of RISC-V Implementation Designs
    :PROPERTIES:
-   :CUSTOM_ID: formal-verification-of-riscv-implementation-designs
+   :CUSTOM_ID: T3-SOULAT
    :END:
 
 By
