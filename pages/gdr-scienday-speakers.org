@@ -52,10 +52,10 @@ main requirements such industry expect from a core IP.
 
 ** Development of a RV64GC IP core for the GRLIB IP Library
    :PROPERTIES:
-   :CUSTOM_ID: T3-ANDERSSON
+   :CUSTOM_ID: T3-KLOCKARS
    :END:
 
-By *Jan Andersson*, [[https://www.gaisler.com][Cobham Gaisler]]
+By *Johan Klockars*, [[https://www.gaisler.com][Cobham Gaisler]]
 
 Cobham Gaisler is a world leader for space computing solutions where
 the company provides radiation tolerant system-on-chip devices based
@@ -66,7 +66,7 @@ be provided as part of GRLIB. The presentation will cover features of
 the IP core and how it fits with existing peripherals, with technical
 items we see missing in the specification.
 
-/Mr Jan Andersson is working at Cobham Gaisler as Director of Engineering, overseeing hardware and software development efforts. Its key competencies are in management of projects developing complex digital systems, microprocessor architecture, fault-tolerance concepts, use of programmable logic, Field Programmable Gate Arrays for applications both in consumer electronics and harsh environments. He holds a Master of Science degree in Computer Engineering focused on digital design and embedded systems./
+/Johan Klockars has a MSc in Computer Science & Engineering and is a Hardware Engineer at Cobham Gaisler, working on their new RISC-V CPU core. He has been doing embedded systems development for 20 years: image processing and communications protocols in FPGAs, real-time systems, WiFi networking, device drivers, etc./
 
 ** European Processor Initiative: First step towards a made-in-Europe high-performance microprocessor
    :PROPERTIES:
