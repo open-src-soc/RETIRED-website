@@ -3,16 +3,10 @@ and [[http://www.cea.fr][CEA]] on October 1st & 2nd is sponsored by:
 
 #+BEGIN_EXPORT html
 <p style="text-align: center">
-  <a href="https://www.adacore.com">
-    <img src="media/AdaCore-logo.png" alt="AdaCore logo" style="width: 25%;"/>
-  </a>
+  <a href="https://www.adacore.com" ><img src="media/AdaCore-logo.png" alt="AdaCore logo" style="width: 25%;"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.rambus.com">
-    <img src="media/Rambus.png" alt="Rambus logo" style="width: 25%;"/>
-  </a>
+  <a href="https://www.rambus.com"  ><img src="media/Rambus.png" alt="Rambus logo" style="width: 25%;"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hensoldt.net">
-    <img src="media/Hensoldt-logo.png" alt="Hensoldt logo" style="width: 25%;"/>
-  </a>
+  <a href="https://www.hensoldt.net"><img src="media/Hensoldt-logo.png" alt="Hensoldt logo" style="width: 25%;"/></a>
 </p>
 #+END_EXPORT
