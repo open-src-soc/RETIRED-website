@@ -194,10 +194,10 @@ obtained for the LoRa preamble detection algorithm.
 
 ** Development of a RV64GC IP core for the GRLIB IP Library
    :PROPERTIES:
-   :CUSTOM_ID: P-ANDERSSON
+   :CUSTOM_ID: P-ABERG
    :END:
 
-By *Jan Andersson* ([[https://www.gaisler.com/][Cobham Gaisler]]).
+By *Martin Åberg* ([[https://www.gaisler.com/][Cobham Gaisler]]).
 
 Cobham Gaisler is a world leader for space computing solutions where the
 company provides radiation tolerant system-on-chip devices based around
@@ -208,7 +208,8 @@ provided as part of GRLIB. The presentation will cover why we see RISC-V
 as a good fit for us after SPARC32 and what we see missing in the
 ecosystem features
 
-/Mr Jan Andersson's key competencies are in Management of projects developing complex digital systems, microprocessor architecture, fault-tolerance concepts, use of programmable logic, Field Programmable Gate Arrays for applications both in consumer electronics and harsh environments. Background: Master of Science degree in Computer Engineering focused on digital design and embedded systems. Working at Cobham Gaisler as Director of Engineering, overseeing hardware and software development efforts./
+/Martin Åberg is a Software Engineer at Cobham Gaisler. His expertise covers embedded software development, operating systems, device drivers, fault-tolerance concepts, flight software, processor verification. He has a Master of Science degree in Computer Engineering, and  focuses on real-time systems and computer networks./
+
 
 ** R&D challenges for Safe and Secure RISC-V based computer
    :PROPERTIES:
