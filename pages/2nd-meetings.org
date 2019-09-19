@@ -8,7 +8,7 @@ The [[#mardi][/2nd RISC-V Meeting/]] will be held at [[https://espace-van-gogh.c
   - Tuesday October 1st, from 10:00 to 18:00 -- registration from 9:00.
   - Wednesday October 2nd, from 9:00 to 18:00.
 
-This event is organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]] , and is sponsored by:
+This event is organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], and is sponsored by:
 #+INCLUDE: "pages/sponsors-table.org"
 #+INCLUDE: "pages/2nd-meetings-program.org"
 #+INCLUDE: "pages/2nd-meetings-speakers.org"
