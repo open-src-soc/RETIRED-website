@@ -1,4 +1,4 @@
 all: program.pdf
 
 program.pdf: program.org
-	pandoc -f org -t latex -o $@ $<
+	pandoc --from org --to latex --metadata-file metadata.yaml -o $@ $<
