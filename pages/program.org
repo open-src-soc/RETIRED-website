@@ -10,7 +10,7 @@ The program below details the three days of the two events:
   [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
   - Tuesday October 1st, from 10:00 to 18:00 -- registration from 9:00.
   - Wednesday October 2nd, from 9:00 to 18:00.
-  This event  is sponsored by:
+  This event is sponsored by:
 #+INCLUDE: "pages/sponsors-table.org"
 
 - The /[[#jeudi][Scientific Day of IRT SE & GDR SOC2: RISC-V for critical
