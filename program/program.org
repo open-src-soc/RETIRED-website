@@ -1,0 +1,9 @@
+# pandoc options for the LaTeX engine:
+# https://pandoc.org/MANUAL.html#variables-for-latex
+
+* Program schedule
+
+#+INCLUDE: "../pages/2nd-meetings-program.org"
+
+
+* einust$
