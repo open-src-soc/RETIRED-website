@@ -20,7 +20,7 @@
 # le truc vspace à la fin du SUBTITLE permet de supprimer le grand
 # espace après le sous-titre en tête de la première page
 
-******** TODOs
+* TODOs
 
 ** website contents
 
