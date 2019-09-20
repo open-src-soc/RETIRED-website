@@ -1,15 +1,17 @@
 #+STARTUP: content
-#+DESCRIPTION:
-#+KEYWORDS:
 #+LANGUAGE:  en
 #+OPTIONS: tex:t
+#+OPTIONS: toc:nil author:nil
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper, 10pt]
-#+LATEX_COMPILER: pdflatex
-#+AUTHOR:    Christian Fabre
-#+OPTIONS:   toc:nil author:nil
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[english]{babel}
 #+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
+#+LATEX_COMPILER: latexmk -pdf
 
+#+AUTHOR:    Christian Fabre
+#+DESCRIPTION:
+#+KEYWORDS:
 
 #+TITLE:   RISC-V Week
 #+SUBTITLE:   TODO   \vspace{-6ex}

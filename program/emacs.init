@@ -14,3 +14,6 @@
 (require 'ob)
 
 (setq org-confirm-babel-evaluate 'nil)
+
+(setq org-latex-default-packages-alist
+                 '(("hidelinks" "hyperref" nil)))
