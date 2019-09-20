@@ -1,24 +1,37 @@
-# pandoc options for the LaTeX engine:
-# https://pandoc.org/MANUAL.html#variables-for-latex
+#+STARTUP: content
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS: tex:t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 10pt]
+#+LATEX_COMPILER: pdflatex
+#+AUTHOR:    Christian Fabre
+#+OPTIONS:   toc:nil author:nil
+#+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
 
-* test
 
-#+attr_html: :border 1 :rules all :frame border :width 100%
-#+ATTR_LATEX: :width 80% :align rll
-|-------+---------+----------------|
-| Time  | Speaker | Title          |
-|-------+---------+----------------|
-| 09h00 | ---     | /Registration/ |
-| 10h00 | aha     | eiurst         |
+#+TITLE:   RISC-V Week
+#+SUBTITLE:   TODO   \vspace{-6ex}
+#+DATE: TODO -- Jeudi 23 mai 2019, Minatec, Grenoble
+
+# le truc vspace à la fin du SUBTITLE permet de supprimer le grand
+# espace après le sous-titre en tête de la première page
+
+* Program overview
+** Tuesday October 1st, First Day of the 2nd RISC-V Meeting
+
+#+ATTR_LATEX: :width \textwidth :align l|p{4cm}|p{11cm}
+#+INCLUDE: "../pages/program-tuesday-table.org"
 
 
-#+ATTR_LATEX: :width \textwidth :align l|p{3cm}|p{8cm}
-|-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| Time  | Speaker          | Title                                                                                                         |
-|-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| 09h00 | ---              | /Registration/                                                                                                |
-|---------+------------------------------------+--------------------------------------------------|
-| *09h45* | Christian Fabre & Sébastien Faucou | *Welcome Opening and Program of the RISC-V Week* |
-|---------+------------------------------------+--------------------------------------------------|
-| *10h00* | --- | *Tutorials* |
-|-------+------------------+---------------------------------------------------------------------------------------------------------------|
+* Speakers' bios & abstracts
+
+#+INCLUDE: "../pages/2nd-meetings-speakers.org"
+
+
+*** compile fixes
+**** Unable to resolve link: "P-ANDERSSON"
+     :PROPERTIES:
+     :CUSTOM_ID: P-ANDERSSON
+     :END:

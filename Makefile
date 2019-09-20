@@ -57,3 +57,6 @@ endif
 	git push origin deploy
 	git push origin master
 .PHONY: commit-merge-and-push-both-branches
+
+##################### program
+# le build doit être appelé depuis ce répertoire, parce que les chemis
