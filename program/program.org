@@ -35,42 +35,6 @@
     :PROPERTIES:
     :CUSTOM_ID: P-TAHERINNEJAD
     :END:
-*** Unable to resolve link: "T3-CHAPMAN"
-    :PROPERTIES:
-    :CUSTOM_ID: T3-CHAPMAN
-    :END:
-*** Unable to resolve link: "T3-CERTAIN"
-    :PROPERTIES:
-    :CUSTOM_ID: T3-CERTAIN
-    :END:
-
-
-
-*** Unable to resolve link: "T3-KLOCKARS"
-    :PROPERTIES:
-    :CUSTOM_ID: T3-KLOCKARS
-    :END:
-
-*** Unable to resolve link: "T3-DUTOIT"
-    :PROPERTIES:
-    :CUSTOM_ID: T3-DUTOIT
-    :END:
-
-
-*** Unable to resolve link: "T3-JENN"
-    :PROPERTIES:
-    :CUSTOM_ID: T3-JENN
-    :END:
-
-*** Unable to resolve link: "T3-GROSSE"
-    :PROPERTIES:
-    :CUSTOM_ID: T3-GROSSE
-    :END:
-
-*** Unable to resolve link: "T3-SOULAT" (moi aussi…)
-    :PROPERTIES:
-    :CUSTOM_ID: T3-SOULAT
-    :END:
 
 * Program overview
 
@@ -94,3 +58,4 @@
 * Speakers' bios & abstracts
 
 #+INCLUDE: "../pages/2nd-meetings-speakers.org"
+#+INCLUDE: "../pages/gdr-scienday-speakers.org"
