@@ -7,6 +7,8 @@ Here is the detailed program. The [[#keynotes][list of speakers]] is further dow
 this page.
 
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]], Paris.
+
+#+ATTR_LATEX: :align l|l|p{5cm}
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | Time  | Speaker          | Title                                                                                                         |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
