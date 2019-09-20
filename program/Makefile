@@ -6,4 +6,10 @@ all: program.pdf
 
 %.pdf: %.tex
 	@echo "[latexmk] $< -> $@"
-	latexmk -pdf -pdflatex="pdflatex" program.tex
+	latexmk -pdf -pdflatex="pdflatex" $(LATEXMKOPTS) program.tex
+
+
+view:
+	@rm -f program.pdf
+	make LATEXMKOPTS=-pvc program.pdf
+.PHONY: view
