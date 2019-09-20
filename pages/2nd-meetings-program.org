@@ -19,55 +19,7 @@ Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&ml
 Here is the detailed program. The [[#keynotes][list of speakers]] is further down
 this page.
 
+
 Location: [[Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]], Paris.
-|---------+--------------------+------------------------------------------------------------------------------------------|
-| Time    | Speaker            | Title                                                                                    |
-|---------+--------------------+------------------------------------------------------------------------------------------|
-| 08h30   | ---                | /Registration/                                                                           |
-|---------+--------------------+------------------------------------------------------------------------------------------|
-| *09h00* | ---                | *Keynote on Uniprocessor Performance*                                                                                |
-|---------+--------------------+------------------------------------------------------------------------------------------|
-| 09h00   | [[#K-SEZNEC][André Seznec]]       | [[#K-SEZNEC][It's the Instruction Fetch Front-End, Stupid!]]                                            |
-|---------+--------------------+------------------------------------------------------------------------------------------|
-| *10h00* | *Chair: Kevin Martin* | *Session: Towards High Performance*                                                    |
-|-------+--------------------+------------------------------------------------------------------------------------------|
-| 10h00 | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
-| 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISC-V Core Developed with HLS]]                                           |
-| 10h30 | [[#P-TAHERINEJAD][Nima TaheriNejad]]   | [[#P-TAHERINEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
-| 11h45 | /All/              | *Discussion with* [[#P-CAVALCANTE][Matheus Cavalcante]],  [[#P-GOOSSENS][Bernard Goossens]] & [[#P-TAHERINNEJAD][Nima TaheriNejad]]               |
-|---------+----------------------+-----------------------------------------------------------------------------------------|
-| 11h00   | ---                  | /Break/                                                                                 |
-|---------+----------------------+-----------------------------------------------------------------------------------------|
-| *11h30* |                    | *Session: Open Source Cores is an Actual Business*                                      |
-|---------+--------------------+-----------------------------------------------------------------------------------------|
-| 11h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] |
-| 11h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
-| 12h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]]                                                        |
-| 12h15   | /All/              | *Discussion with* [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                     |
-|---------+----------------------+-----------------------------------------------------------------------------------------|
-| 12h30   | ---                  | /Lunch/                                                                                 |
-|---------+----------------+------------------------------------------------------------------------------------------------------|
-| *13h30* | ---            | *Keynote on RISC-V in HPC*                                                                                            |
-|---------+----------------+------------------------------------------------------------------------------------------------------|
-| 13h30   | [[#K-DOLBEAU][Romain Dolbeau]] | [[#K-DOLBEAU][European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform]] |
-|---------+--------------------+-----------------------------------------------------------------------------------------|
-| *14h30* | *Chair: Arnaud Tisserand* | *Session on Improving the HW/SW Interface*                                              |
-|---------+----------------------+-----------------------------------------------------------------------------------------|
-| 14h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
-| 14h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
-| 15h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Challenges to Adoption of Open-Source RISC-V Processors]]                                 |
-| 15h15   | /All/                | *Discussion with* [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                  |
-|---------+--------------------+-----------------------------------------------------------------------------------------|
-| 15h30   | ---              | /Break/                                                                                           |
-|---------+----------------+--------------------------------------------------------------------------------------------------|
-| *16h00* | *Chair: Olivier Savry* | *Session on Formal Verification*                                                                 |
-|---------+----------------+--------------------------------------------------------------------------------------------------|
-| 16h00   | [[#P-BOULME][Sylvain Boulmé]] | [[#P-BOULME][Extending the CompCert certified compiler with instruction scheduling and control-flow integrity]] |
-| 16h15   | [[#P-MARCHESE][Sergio Marchese]] | [[#P-MARCHESE][Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs]]                         |
-| 16h30   | [[#P-SOULAT][Romain Soulat]]  | [[#P-SOULAT][Formal Proof of RISC-V Cores]]                                                                     |
-| 16h45   | /All/          | *Discussion with* [[#P-BOULME][Sylvain Boulmé]], [[#P-MARCHESE][Sergio Marchese]] and [[#P-SOULAT][Romain Soulat]]                              |
-|---------+----------------+--------------------------------------------------------------------------------------------------|
-| 17h00   | [[./gdr-scienday.html][Sébastien Faucou]] | [[./gdr-scienday.html][Scientific Day: RISC-V for critical embedded systems in Campus de Jussieu on Thursday October 3rd]] |
-| 17h15   | /All/            | *Wrap Up, Comments & Perspectives*                                                                |
-| 17h30   | ---              | /Closure/                                                                                         |
-|---------+------------------+---------------------------------------------------------------------------------------------------|
+
+#+INCLUDE: "./program-wednesday-table.org"
