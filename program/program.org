@@ -8,6 +8,7 @@
 #+LATEX_HEADER: \usepackage[english]{babel}
 #+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
 #+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage[all]{nowidow}
 #+LATEX_COMPILER: latexmk -pdf
 
 #+AUTHOR:    Christian Fabre
