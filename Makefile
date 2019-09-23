@@ -60,3 +60,6 @@ endif
 
 ##################### program
 # le build doit être appelé depuis ce répertoire, parce que les chemis
+program:
+	$(MAKE) -C program
+.PHONY: program
