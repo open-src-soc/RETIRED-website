@@ -32,11 +32,6 @@
   :TRIGGER:  chain-find-next(TODO,todo-only)
   :END:
 
-******** TODO fix build website
-    :PROPERTIES:
-         :TRIGGER:  chain-find-next(TODO,todo-only)
-         :END:
-
 ** fix website contents
 
 *** compile fixes

@@ -5,5 +5,4 @@
 
 Location: [[https://fr.wikipedia.org/wiki/Campus_de_Jussieu][Jussieu campus]], Paris.
 
-
-#+INCLUDE: "./program-thursday-table.org"
+#+INCLUDE: "./pages/program-thursday-table.org"

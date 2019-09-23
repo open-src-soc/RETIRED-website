@@ -1,12 +1,12 @@
-all: program.pdf
+all: ../program.pdf
 
 %.tex: %.org
 	@echo "[emacs] $< -> $@"
-	emacs -l emacs.init --batch $< --eval "(org-latex-export-to-latex)"
+	cd .. && emacs -l program/emacs.init --batch program/$< --eval "(org-latex-export-to-latex)"
 
-%.pdf: %.tex
+../%.pdf: %.tex
 	@echo "[latexmk] $< -> $@"
-	latexmk -pdf -pdflatex="pdflatex" $(LATEXMKOPTS) program.tex
+	cd .. && latexmk -pdf -pdflatex="pdflatex" $(LATEXMKOPTS) program/$<
 
 
 view:
