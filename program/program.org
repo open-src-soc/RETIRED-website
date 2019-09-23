@@ -15,18 +15,8 @@
 #+KEYWORDS:
 
 #+TITLE:   RISC-V Week
-#+SUBTITLE:   TODO   \vspace{-6ex}
-#+DATE: TODO -- Jeudi 23 mai 2019, Minatec, Grenoble
-
-# le truc vspace à la fin du SUBTITLE permet de supprimer le grand
-# espace après le sous-titre en tête de la première page
-
-* trucs à faire
-
-******** TODO sponsors
-    :PROPERTIES:
-  :TRIGGER:  chain-find-next(TODO,todo-only)
-  :END:
+#+SUBTITLE:   2nd RISC-V Meeting -- Scientific Day   \vspace{-6ex}
+#+DATE: October 1st to 3rd, Paris
 
 * Program overview
 
