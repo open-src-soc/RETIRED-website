@@ -7,3 +7,20 @@
   <a href="https://www.hensoldt.net"><img src="media/Hensoldt-logo.png" alt="Hensoldt logo" style="width: 25%;"/></a>
 </p>
 #+END_EXPORT
+
+
+#+begin_export latex
+\begin{center}
+\includegraphics[width=.3\linewidth]{media/AdaCore-logo.png}
+ ~
+%
+% \medskip
+%
+\includegraphics[width=.3\linewidth]{media/Rambus.png}
+~
+%
+% \medskip
+%
+\includegraphics[width=.3\linewidth]{media/Hensoldt-logo.png}
+\end{center}
+#+end_export

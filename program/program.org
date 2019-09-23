@@ -7,6 +7,7 @@
 #+LATEX_HEADER: \usepackage[T1]{fontenc}
 #+LATEX_HEADER: \usepackage[english]{babel}
 #+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
+#+LATEX_HEADER: \usepackage{graphicx}
 #+LATEX_COMPILER: latexmk -pdf
 
 #+AUTHOR:    Christian Fabre
@@ -21,11 +22,6 @@
 # espace après le sous-titre en tête de la première page
 
 * trucs à faire
-
-******** TODO organisateurs
-    :PROPERTIES:
-  :TRIGGER:  chain-find-next(TODO,todo-only)
-  :END:
 
 ******** TODO sponsors
     :PROPERTIES:
@@ -55,3 +51,9 @@
 
 #+INCLUDE: "../pages/2nd-meetings-speakers.org"
 #+INCLUDE: "../pages/gdr-scienday-speakers.org"
+
+* Sponsors
+
+This event is organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], and is sponsored by:
+
+#+INCLUDE: "../pages/sponsors-table.org"
