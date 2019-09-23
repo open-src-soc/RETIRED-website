@@ -20,9 +20,24 @@
 # le truc vspace à la fin du SUBTITLE permet de supprimer le grand
 # espace après le sous-titre en tête de la première page
 
-* TODOs
+* trucs à faire
 
-** website contents
+******** TODO organisateurs
+    :PROPERTIES:
+  :TRIGGER:  chain-find-next(TODO,todo-only)
+  :END:
+
+******** TODO sponsors
+    :PROPERTIES:
+  :TRIGGER:  chain-find-next(TODO,todo-only)
+  :END:
+
+******** TODO fix build website
+    :PROPERTIES:
+         :TRIGGER:  chain-find-next(TODO,todo-only)
+         :END:
+
+** fix website contents
 
 *** compile fixes
 
