@@ -1,0 +1,76 @@
+\documentclass{beamer}
+\usepackage[orientation=portrait, size=a0, scale=1.4]{beamerposter}
+
+\usepackage[frenchb]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{calc}
+\usepackage{graphicx}
+\usepackage{multicol}
+
+% FIXME(ThomasH, 23 Sep 2019): get rid of this, pandoc emits longtable, not necessary
+\usepackage{longtable}
+\usepackage{booktabs}
+
+% Tune the colorscheme
+\definecolor{rvblue}{HTML}{273272}
+\definecolor{rvorange}{HTML}{F7B217}
+
+\setbeamercolor{block title}{fg=rvblue,bg=white!60!rvorange}
+% IMPORTANT: uncomment to debug the layout
+% \setbeamercolor{block body}{bg=white!96!black}
+
+\newlength{\sepwidth}
+\newlength{\firstcolwidth}
+\newlength{\othercolwidth}
+
+\setlength{\sepwidth}{0.8cm}
+\setlength{\firstcolwidth}{0.49\paperwidth - \sepwidth}
+\setlength{\othercolwidth}{0.49\paperwidth - \sepwidth}
+
+\newcommand{\sepcolumn}[0]{\begin{column}{\sepwidth}\end{column}}
+
+% Command required for pandoc included file
+% More info at: https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+\begin{frame}[t]
+    \begin{center}
+    % FIXME(ThomasH, 23 Sep 2019): the banner needs a redesign
+    \includegraphics[height=15cm]{./images/banner.png}
+    \end{center}
+
+    \begin{columns}[t]
+    \sepcolumn
+    \begin{column}{\firstcolwidth}
+        \begin{block}{\centering Day 1 (Tuesday October 1st) }
+            \vspace{1cm}
+            {\tiny \input{day1.tex} }
+        \end{block}
+    \end{column}
+
+    \sepcolumn
+    \begin{column}{\othercolwidth}
+        \begin{block}{\centering Day 2 (Wednesday October 2nd) }
+            \vspace{1cm}
+            {\tiny \input{day2.tex} }
+        \end{block}
+    \end{column}
+    \end{columns}
+
+    % \vspace{2cm}
+    \begin{block}{\centering Program Description}
+    \begin{tiny}
+    \begin{multicols}{3}
+        \input{speakers_clean.tex}
+    \end{multicols}
+    \end{tiny}
+
+    \end{block}
+
+\end{frame}
+
+\end{document}
