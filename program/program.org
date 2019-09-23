@@ -16,7 +16,7 @@
 #+KEYWORDS:
 
 #+TITLE:   RISC-V Week
-#+SUBTITLE:   2nd RISC-V Meeting -- Scientific Day   \vspace{-6ex}
+#+SUBTITLE:   2nd RISC-V Meeting -- Scientific Day
 #+DATE: October 1st to 3rd, Paris
 
 * Program overview
