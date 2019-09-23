@@ -16,7 +16,7 @@ def main():
         sys.exit(1)
 
     for l in pathlib.Path(sys.argv[1]).open():
-        if l.startswith("\\emph"):
+        if l.startswith("\\emph") or l.startswith("/"):
             # Speaker bio...
             continue
         res = SECTION_RE.match(l)
@@ -29,7 +29,7 @@ def main():
         if res:
             # print("SUBSECTION MATCH", res.groups())
             title, rest = res.groups()
-            print("{\\color{blue}\\bfseries\centering " + title + "}" + rest)
+            print("\\vspace{0.3cm}{\\color{blue}\\bfseries " + title + "}" + rest)
             continue
         print(l.rstrip())
 
