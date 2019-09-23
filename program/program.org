@@ -40,8 +40,16 @@
 
 * Speakers' bios & abstracts
 
+#+begin_export latex
+{ \small
+#+end_export
+
 #+INCLUDE: "../pages/2nd-meetings-speakers.org"
 #+INCLUDE: "../pages/gdr-scienday-speakers.org"
+
+#+begin_export latex
+} % \small
+#+end_export
 
 * Sponsors
 
