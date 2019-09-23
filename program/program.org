@@ -32,20 +32,6 @@
   :TRIGGER:  chain-find-next(TODO,todo-only)
   :END:
 
-** fix website contents
-
-*** compile fixes
-
-*** Unable to resolve link: "P-ANDERSSON"
-    :PROPERTIES:
-    :CUSTOM_ID: P-ANDERSSON
-    :END:
-
-*** Unable to resolve link: "P-TAHERINNEJAD"
-    :PROPERTIES:
-    :CUSTOM_ID: P-TAHERINNEJAD
-    :END:
-
 * Program overview
 
 ** 2nd RISC-V Meeting

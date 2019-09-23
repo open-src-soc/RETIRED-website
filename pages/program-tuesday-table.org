@@ -27,7 +27,7 @@
 | 14h30 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
 | 14h45 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing]]                                     |
 | 15h00 | [[#P-ABERG][Martin Åberg]]     | [[#P-ABERG][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
-| 15h15 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ANDERSSON][Jan Andersson]]                                                   |
+| 15h15 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ABERG][Jan Andersson]]                                                   |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 15h30 | ---              | /Break/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
