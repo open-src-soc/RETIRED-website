@@ -3,7 +3,9 @@
 
 \usepackage[frenchb]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 
+% \usepackage{hyperref}
 \usepackage{calc}
 \usepackage{graphicx}
 \usepackage{multicol}
@@ -16,6 +18,7 @@
 \definecolor{rvblue}{HTML}{273272}
 \definecolor{rvorange}{HTML}{F7B217}
 
+\setbeamertemplate{navigation symbols}{}
 \setbeamercolor{block title}{fg=rvblue,bg=white!60!rvorange}
 % IMPORTANT: uncomment to debug the layout
 % \setbeamercolor{block body}{bg=white!96!black}
@@ -25,10 +28,11 @@
 \newlength{\othercolwidth}
 
 \setlength{\sepwidth}{0.8cm}
-\setlength{\firstcolwidth}{0.49\paperwidth - \sepwidth}
-\setlength{\othercolwidth}{0.49\paperwidth - \sepwidth}
+\setlength{\firstcolwidth}{0.50\paperwidth - \sepwidth}
+\setlength{\othercolwidth}{0.47\paperwidth - \sepwidth}
 
 \newcommand{\sepcolumn}[0]{\begin{column}{\sepwidth}\end{column}}
+\renewcommand*{\hypertarget}[2]{#2}
 
 % Command required for pandoc included file
 % More info at: https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc
@@ -44,7 +48,6 @@
     \end{center}
 
     \begin{columns}[t]
-    \sepcolumn
     \begin{column}{\firstcolwidth}
         \begin{block}{\centering Day 1 (Tuesday October 1st) }
             \vspace{1cm}
@@ -52,7 +55,6 @@
         \end{block}
     \end{column}
 
-    \sepcolumn
     \begin{column}{\othercolwidth}
         \begin{block}{\centering Day 2 (Wednesday October 2nd) }
             \vspace{1cm}
@@ -61,7 +63,6 @@
     \end{column}
     \end{columns}
 
-    % \vspace{2cm}
     \begin{block}{\centering Program Description}
     \begin{tiny}
     \begin{multicols}{3}
