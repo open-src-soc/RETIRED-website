@@ -25,10 +25,11 @@ def main():
 
     strip_hypertarget = False
     try:
-        major, _, _ = pandoc_version()
+        major, minor, _ = pandoc_version()
         if major >= 2:
-            # FIXME(ThomasH, 24 Sep 2019): not sure of the exact version
-            strip_hypertarget = True
+            if minor < 8:
+                # FIXME(ThomasH, 24 Sep 2019): not sure of the exact version
+                strip_hypertarget = True
     except FileNotFoundError:
         print("Unable to find a valid pandoc executable, please make sure that "
               "**pandoc is installed**!", file=sys.stderr)
