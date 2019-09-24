@@ -1,0 +1,25 @@
+\documentclass{beamer}
+\usepackage[orientation=portrait, size=a1]{beamerposter}
+
+\input{prelude.tex}
+
+\begin{document}
+
+\begin{frame}[t]
+    \begin{center}
+    % FIXME(ThomasH, 23 Sep 2019): the banner needs a redesign
+    \includegraphics[height=15cm]{./images/banner.png}
+    \end{center}
+    \begin{block}{\centering Day 3 (Thursday October 3st) }
+        \vspace{1cm}
+        {\input{day3.tex}}
+    \end{block}
+
+    \begin{block}{\centering Program Description}
+    \begin{multicols}{2}
+        \input{speakers_day3_clean.tex}
+    \end{multicols}
+    \end{block}
+\end{frame}
+
+\end{document}

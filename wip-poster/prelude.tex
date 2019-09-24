@@ -1,0 +1,36 @@
+\usepackage[frenchb]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% \usepackage{hyperref}
+\usepackage{calc}
+\usepackage{graphicx}
+\usepackage{multicol}
+
+\usepackage{longtable}
+\usepackage{booktabs}
+
+% Command required for pandoc included file
+% More info at: https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Tune the colorscheme
+\definecolor{rvblue}{HTML}{273272}
+\definecolor{rvorange}{HTML}{F7B217}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamercolor{block title}{fg=rvblue,bg=white!60!rvorange}
+% IMPORTANT: uncomment to debug the layout
+% \setbeamercolor{block body}{bg=white!96!black}
+
+\newlength{\sepwidth}
+\newlength{\firstcolwidth}
+\newlength{\othercolwidth}
+
+\setlength{\sepwidth}{0.8cm}
+\setlength{\firstcolwidth}{0.50\paperwidth - \sepwidth}
+\setlength{\othercolwidth}{0.47\paperwidth - \sepwidth}
+
+\newcommand{\sepcolumn}[0]{\begin{column}{\sepwidth}\end{column}}
+\renewcommand*{\hypertarget}[2]{#2}
