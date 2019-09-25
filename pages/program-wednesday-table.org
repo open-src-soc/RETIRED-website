@@ -33,7 +33,7 @@
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 14h30   | [[#P-PENNA][Pedro Henrique Penna]] | [[#P-PENNA][Nanvix: An Operating System for Lightweight Manycores]]                                   |
 | 14h45   | [[#P-DURAND][Yves Durand]]          | [[#P-DURAND][Enhancing scientific computation using a variable precision FPU with a RISC-V processor]] |
-| 15h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Challenges to Adoption of Open-Source RISC-V Processors]]                                 |
+| 15h00   | [[#P-PRIKRYL][Zdeněk Přikryl]]       | [[#P-PRIKRYL][Enhanced Tools for RISC-V Processor Development and Customization]]                                 |
 | 15h15   | /All/                | *Discussion with* [[#P-PENNA][Pedro Henrique Penna]], [[#P-DURAND][Yves Durand]] and [[#P-PRIKRYL][Zdeněk Přikryl]]                  |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
 | 15h30   | ---              | /Break/                                                                                           |
