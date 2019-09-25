@@ -1,3 +1,5 @@
+all: build booklet
+
 GIT_BRANCH:=$(shell git branch | sed -n '/\* /s///p')
 build: stack_build
 	stack exec site -- $@
@@ -60,6 +62,11 @@ endif
 
 ##################### program
 # le build doit être appelé depuis ce répertoire, parce que les chemis
-program:
-	$(MAKE) -C program
-.PHONY: program
+booklet:
+	$(MAKE) -C booklet
+.PHONY: booklet
+
+clean:
+	rm -rf _site
+	$(MAKE) -C booklet clean
+.PHONY: clean

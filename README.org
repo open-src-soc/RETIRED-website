@@ -1,7 +1,3 @@
-* requirements
-
-+ =stack=.  Follow install instructions at https://docs.haskellstack.org/en/stable/README/#how-to-install.
-
 * build tools [developer, integrator]
 
 #+BEGIN_EXAMPLE
@@ -13,6 +9,12 @@ You can skip =make stack_build=.  =make all= builds everything,
 including the build tools.
 
 * build the website [developer, integrator]
+
+** requirements
+
++ =stack=.  Follow install instructions at https://docs.haskellstack.org/en/stable/README/#how-to-install.
+
+** build
 
 #+BEGIN_EXAMPLE
 $ make
@@ -31,6 +33,20 @@ $ make watch
 To rebuild everything in =_site=:
 #+begin_example
 $ make rebuild
+#+end_example
+
+* build the program booklet
+
+** requirements
+
+- emacs
+- org-mode
+- texlive
+
+** build
+
+#+begin_example
+$ make booklet
 #+end_example
 
 * deploy [integrator]
