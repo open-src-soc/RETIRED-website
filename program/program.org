@@ -9,27 +9,6 @@
 #+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
 #+LATEX_HEADER: \usepackage{graphicx}
 #+LATEX_HEADER: \usepackage[all]{nowidow}
-#+LATEX_HEADER: \usepackage{fancyhdr}
-#+LATEX_HEADER_EXTRA: \pagestyle{fancy}
-#+LATEX_HEADER_EXTRA: \renewcommand{\headrulewidth}{0pt} % Customise the layout...
-#+LATEX_HEADER_EXTRA: \renewcommand{\footrulewidth}{0pt}
-#+LATEX_HEADER_EXTRA: \fancyhead[L]{}
-#+LATEX_HEADER_EXTRA: \fancyhead[R]{}
-#+LATEX_HEADER_EXTRA: \fancyhead[C]{%
-#+LATEX_HEADER_EXTRA: \includegraphics[width=.12\linewidth]{media/AdaCore-logo.png}
-#+LATEX_HEADER_EXTRA: \hspace{2em}
-#+LATEX_HEADER_EXTRA: \includegraphics[width=.12\linewidth]{media/Rambus.png}
-#+LATEX_HEADER_EXTRA: \hspace{2em}
-#+LATEX_HEADER_EXTRA: \includegraphics[width=.12\linewidth]{media/Hensoldt-logo.png}
-#+LATEX_HEADER_EXTRA: }
-
-# #+LATEX_HEADER_EXTRA: \fancyhead[RO,LE]{\sffamily AAPG ANR 2020}
-# #+LATEX_HEADER_EXTRA: \fancyhead[CO,CE]{\sffamily PRCE -- \axe }
-# #+LATEX_HEADER_EXTRA: \fancyhead[RE,LO]{\proj}
-# #+LATEX_HEADER_EXTRA: \fancyfoot[RO,LE]{\sffamily\builddate{}}
-# #+LATEX_HEADER_EXTRA: \fancyfoot[CO,CE]{\sffamily\thepage{}/\pageref{LastPage}}
-# #+LATEX_HEADER_EXTRA: \fancyfoot[LO,RE]{\sffamily\proj{} -- \version{}}
-
 #+LATEX_COMPILER: latexmk -pdf
 
 #+AUTHOR:    Christian Fabre
