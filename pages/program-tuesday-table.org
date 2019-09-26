@@ -34,9 +34,9 @@
 | *15h45* | *Chair: David Hely* | *Session on Safe and Secure Computing with RISC-V*                  |
 |---------+------------------+---------------------------------------------------------------------|
 | 15h45   | [[#P-COLLETTE][Thierry Collette]] | [[#P-COLLETTE][R&D challenges for Safe and Secure RISC-V based computer]]            |
-| 16h00   | [[#P-GUILLEY][Sylvain Guilley]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
+| 16h00   | [[#P-GUILLEY][Rafail Psiakis & Baptiste Pecatte]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
 | 16h15   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]]        |
-| 16h30   | /All/            | *Discussion with* [[#P-COLLETTE][Thierry Collette]], [[#P-GUILLEY][Sylvain Guilley]] & [[#P-CHOUTEAU][Fabien Chouteau]] |
+| 16h30   | /All/            | *Discussion with* [[#P-COLLETTE][Thierry Collette]], [[#P-GUILLEY][Rafail Psiakis, Baptiste Pecatte]] & [[#P-CHOUTEAU][Fabien Chouteau]] |
 |---------+------------------+---------------------------------------------------------------------|
 | 16h45   | ---                      | /Break/                                                                                                               |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|

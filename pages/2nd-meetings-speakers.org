@@ -235,8 +235,7 @@ mandatory to address in order to accelerate.
    :CUSTOM_ID: P-GUILLEY
    :END:
 
-By Rafail Psiakis &
-*[[https://perso.telecom-paristech.fr/guilley][Sylvain Guilley]]*
+By *Rafail Psiakis*, *Baptiste Pecatte* & [[https://perso.telecom-paristech.fr/guilley][Sylvain Guilley]]
 ([[http://www.secure-ic.com][Secure IC]]).
 
 RISC-V is an emerging instruction-set architecture widely used inside
