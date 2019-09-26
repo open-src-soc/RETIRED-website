@@ -258,6 +258,10 @@ attacks. In Secure-IC, RISC-V allows us to penetrate into the
 architecture itself and test new attacks (e.g. sidechannel attacks,
 Trojan injection, etc.) making it our Trojan horse to conquer security.
 
+/Rafail Psiakis is currently an R&D Engineer at Secure-IC SAS, Rennes, France working on SW/HW security solutions. He obtained a Ph.D degree in 2018 from University of Rennes. During his Ph.D, he was with Cairn team of the INRIA research center, Rennes, pursuing a Ph.D thesis entitled "Performance optimization mechanisms for fault-resilient VLIW processors". He received his B.S. & M.S. joint diploma in 2015 from the ECE Department of the University of Patras, Greece, pursuing a diploma thesis within the APEL laboratory. His research interests include computer architecture, embedded systems, fault tolerance, cyber-security and critical systems./
+
+/Baptiste Pecatte is currently R&D intern at Secure-IC working on CPU hardware-enabled cyber-security solutions. He has been adapting and optimizing the Cyber Escort Unit (TM) technology for several RISC-V cores, allowing for real-time Code and Control Flow Integrity. He studied embedded systems at Telecom ParisTech. Baptiste is also alumnus from Ecole Polytechnique (X2015)./
+
 ** Alternative languages for safe and secure RISC-V programming
    :PROPERTIES:
    :CUSTOM_ID: P-CHOUTEAU
