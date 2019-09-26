@@ -16,7 +16,7 @@
 |---------+----------------------+-----------------------------------------------------------------------------------------|
 | 11h00   | ---                  | /Break/                                                                                 |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
-| *11h30* |                    | *Session: Open Source Cores is an Actual Business*                                      |
+| *11h30* | *Chair: Yves Durand* | *Session: Open Source Cores is an Actual Business*                                      |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
 | 11h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] |
 | 11h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
