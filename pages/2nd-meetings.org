@@ -5,8 +5,8 @@
 * The Program of the /2nd RISC-V Meeting/
 
 The [[#mardi][/2nd RISC-V Meeting/]] will be held at [[https://espace-van-gogh.com][Espace Van Gogh]], [[https://www.openstreetmap.org/?mlat=48.84337&mlon=2.37081#map=19/48.84337/2.37081][62 quai de la Rapée]]:
-  - Tuesday October 1st, from 10:00 to 18:00 -- registration from 9:00.
-  - Wednesday October 2nd, from 9:00 to 18:00.
+  - Tuesday October 1st, from 09:45 to 18:00 -- registration from 9:00.
+  - Wednesday October 2nd, from 9:00 to 17:30 -- registration from 8:30.
 
 This event is organised by [[http://www.irtnanoelec.fr][IRT Nanoelec]] and [[http://www.cea.fr][CEA]], and is sponsored by:
 #+INCLUDE: "pages/sponsors-table.org"
