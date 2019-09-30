@@ -1,0 +1,965 @@
+% Created 2019-09-27 ven. 06:36
+\documentclass[a4paper, 10pt]{article}
+\usepackage[hidelinks]{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage[margin=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage[inline]{enumitem}
+\usepackage[all]{nowidow}
+\date{\small October 1st-2nd: Espace Van Gogh, 62 quai de la Rapée, Paris XIIe\\October 3rd: Campus Pierre et Marie Curie, 4 place Jussieu, Paris Ve. Tower 26, Corridor 25–26, Room 105\\~\\\url{https://open-src-soc.org}}
+\title{\includegraphics[width=.6\linewidth]{media/riscv-logo-1.png}\\~\\The RISC-V Week, on October 1st-3rd\\\large~\\
+  \emph{joins two events:}\\~\\~\\ 2nd RISC-V Meeting, on October 1st-2nd \\~\\ Scientific Day on ``RISC-V for critical embedded systems'' on October 3rd\\~\\~\\
+  \normalsize The 2nd RISC-V Meeting is organized by:\\~\\
+  \includegraphics[width=.15\linewidth]{media/IRT-nanoelec.png}
+  ~~
+  \includegraphics[width=.096\linewidth]{media/logo_CEA.png}
+  \\~\\~\\~\\
+  and sponsored by:\\~\\
+  \includegraphics[width=.3\linewidth]{media/AdaCore-logo.png}
+  ~~
+  \includegraphics[width=.3\linewidth]{media/Rambus.png}
+  ~~
+  \includegraphics[width=.3\linewidth]{media/Hensoldt-logo.png}
+  \\
+  ~\\~\\~\\~\\~\\
+  The Scientific Day is organized by:\\~\\
+  \includegraphics[width=.18\linewidth]{media/IRT-saintexupery.png}
+  ~~
+  \includegraphics[width=.18\linewidth]{media/GDR-SOC2.jpg}
+}
+%% \section{Sponsors}
+%% \label{sec:org80aa65a}
+
+%% This event is organised by \href{http://www.irtnanoelec.fr}{IRT Nanoelec} and \href{http://www.cea.fr}{CEA}, and is sponsored by:
+
+%% \begin{center}
+%% \includegraphics[width=.3\linewidth]{media/AdaCore-logo.png}
+%%  ~
+%% %
+%% % \medskip
+%% %
+%% \includegraphics[width=.3\linewidth]{media/Rambus.png}
+%% ~
+%% %
+%% % \medskip
+%% %
+%% \includegraphics[width=.3\linewidth]{media/Hensoldt-logo.png}
+%% \end{center}
+\hypersetup{
+ pdfauthor={Christian Fabre},
+ pdftitle={RISC-V Week},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.2.3)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+
+
+\section{Program overview}
+\label{sec:org4424919}
+
+\subsection{2nd RISC-V Meeting}
+\label{sec:org6325354}
+
+\subsubsection{Tuesday October 1st, First Day of the 2nd RISC-V Meeting}
+\label{sec:orgc7a111c}
+
+\begin{center}
+\begin{tabular}{l|p{4cm}|p{11cm}}
+\hline
+Time & Speaker & Title\\
+\hline
+09h00 & --- & \emph{Registration}\\
+\hline
+\textbf{09h45} & Christian Fabre \& Sébastien Faucou & \textbf{Welcome Opening and Program of the RISC-V Week}\\
+\hline
+\textbf{10h00} & --- & \textbf{Tutorials}\\
+\hline
+10h00 & \hyperref[sec:org39da51d]{Jean-Paul Chaput} & \hyperref[sec:org39da51d]{RISC-V design using Free Open Source Software}\\
+\hline
+11h00 & --- & \emph{Break}\\
+\hline
+11h30 & \hyperref[sec:orged882b9]{Frédéric Pétrot} & \hyperref[sec:orged882b9]{Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V}\\
+\hline
+12h30 & --- & \emph{Lunch}\\
+\hline
+\textbf{13h30} & --- & \textbf{Keynote from the RISC-V Foundation}\\
+\hline
+13h30 & \hyperref[sec:orgf6daae1]{Bertrand Tavernier} & \hyperref[sec:orgf6daae1]{The Momentum and Opportunity of Custom, Open Source Processing}\\
+\hline
+14h15 & --- & \emph{Break}\\
+\hline
+\textbf{14h30} & \textbf{Chair: Thierry Collette} & \textbf{Session on Open HW Opportunities}\\
+\hline
+14h30 & \hyperref[sec:org6c5e3e2]{David Bol} & \hyperref[sec:org6c5e3e2]{Ecological transition in ICT: A role for open hardware?}\\
+14h45 & \hyperref[sec:orgcd043a0]{Carolynn Bernier} & \hyperref[sec:orgcd043a0]{A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing}\\
+15h00 & \hyperref[sec:orgd12d66c]{Martin Åberg} & \hyperref[sec:orgd12d66c]{Development of a RV64GC IP core for the GRLIB IP Library}\\
+15h15 & \emph{All} & \textbf{Discussion with} \hyperref[sec:org6c5e3e2]{David Bol}, \hyperref[sec:orgcd043a0]{Carolynn Bernier} \& \hyperref[sec:orgd12d66c]{Jan Andersson}\\
+\hline
+15h30 & --- & \emph{Break}\\
+\hline
+\textbf{15h45} & \textbf{Chair: David Hely} & \textbf{Session on Safe and Secure Computing with RISC-V}\\
+\hline
+15h45 & \hyperref[sec:org81512d2]{Thierry Collette} & \hyperref[sec:org81512d2]{R\&D challenges for Safe and Secure RISC-V based computer}\\
+16h00 & \hyperref[sec:org80a67cf]{Rafail Psiakis, Baptiste Pecatte} & \hyperref[sec:org80a67cf]{RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security}\\
+16h15 & \hyperref[sec:orgc9cca85]{Fabien Chouteau} & \hyperref[sec:orgc9cca85]{Alternative languages for safe and secure RISC-V programming}\\
+16h30 & \emph{All} & \textbf{Discussion with} \hyperref[sec:org81512d2]{Thierry Collette}, \hyperref[sec:org80a67cf]{Rafail Psiakis, Baptiste Pecatte} \& \hyperref[sec:orgc9cca85]{Fabien Chouteau}\\
+\hline
+16h45 & --- & \emph{Break}\\
+\hline
+\textbf{17h00} & \textbf{Chair: Frédéric Pétrot} & \textbf{Session on Modeling \& Simulation}\\
+\hline
+17h00 & \hyperref[sec:org49f51bd]{Hugues Cassé} & \hyperref[sec:org49f51bd]{Verification of SimNML instruction set description using co-simulation}\\
+17h15 & \hyperref[sec:orgc2ba8cf]{Olivier Sentieys} & \hyperref[sec:orgc2ba8cf]{Fast and Accurate Vulnerability Analysis of a RISC-V Processor}\\
+17h30 & \hyperref[sec:orgf2630f5]{Pierre-Guillaume Le Guay} & \hyperref[sec:orgf2630f5]{Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core}\\
+17h45 & \emph{All} & \textbf{Discussion with} \hyperref[sec:org49f51bd]{Huges Cassé}, \hyperref[sec:orgc2ba8cf]{Olivier Sentieys} \& \hyperref[sec:orgf2630f5]{Pierre-Guillaume Le Guay}\\
+\hline
+18h00 & --- & \emph{Closure}\\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Wednesday October 2nd, Second Day of the 2nd RISC-V Meeting}
+\label{sec:orgc78d559}
+
+\begin{center}
+\begin{tabular}{l|p{4cm}|p{11cm}}
+\hline
+Time & Speaker & Title\\
+\hline
+08h30 & --- & \emph{Registration}\\
+\hline
+\textbf{09h00} & --- & \textbf{Keynote on Uniprocessor Performance}\\
+\hline
+09h00 & \hyperref[sec:org9d270ea]{André Seznec} & \hyperref[sec:org9d270ea]{It's the Instruction Fetch Front-End, Stupid!}\\
+\hline
+\textbf{10h00} & \textbf{Chair: Kevin Martin} & \textbf{Session: Towards High Performance}\\
+\hline
+10h00 & \hyperref[sec:org555c581]{Matheus Cavalcante} & \hyperref[sec:org555c581]{Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI}\\
+10h15 & \hyperref[sec:org2e5f334]{Bernard Goossens} & \hyperref[sec:org2e5f334]{An Out-of-Order RISC-V Core Developed with HLS}\\
+10h30 & \hyperref[sec:org32bc8c5]{Nima TaheriNejad} & \hyperref[sec:org32bc8c5]{Open source GPUs: How can RISC-V play a role?}\\
+11h45 & \emph{All} & \textbf{Discussion with} \hyperref[sec:org555c581]{Matheus Cavalcante},  \hyperref[sec:org2e5f334]{Bernard Goossens} \& \hyperref[sec:org32bc8c5]{Nima TaheriNejad}\\
+\hline
+11h00 & --- & \emph{Break}\\
+\hline
+\textbf{11h30} & \textbf{Chair: Yves Durand} & \textbf{Session: Open Source Cores is an Actual Business}\\
+\hline
+11h30 & \hyperref[sec:orga8599a4]{Ekaterina Berezina} & \hyperref[sec:orga8599a4]{Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore}\\
+11h45 & \hyperref[sec:org95c1564]{Rick O'Connor} & \hyperref[sec:org95c1564]{Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores}\\
+12h00 & \hyperref[sec:org4fde642]{Yann Loisel} & \hyperref[sec:org4fde642]{Silicon at the speed of software}\\
+12h15 & \emph{All} & \textbf{Discussion with} \hyperref[sec:orga8599a4]{Ekaterina Berezina}, \hyperref[sec:org95c1564]{Rick O'Connor} and \hyperref[sec:org4fde642]{Yann Loisel}\\
+\hline
+12h30 & --- & \emph{Lunch}\\
+\hline
+\textbf{13h30} & --- & \textbf{Keynote on RISC-V in HPC}\\
+\hline
+13h30 & \hyperref[sec:orge116549]{Romain Dolbeau} & \hyperref[sec:orge116549]{European Processor Initiative: challenges \& opportunities for RISC-V accelerators in an HPC platform}\\
+\hline
+\textbf{14h30} & \textbf{Chair: Arnaud Tisserand} & \textbf{Session on Improving the HW/SW Interface}\\
+\hline
+14h30 & \hyperref[sec:org749a93b]{Pedro Henrique Penna} & \hyperref[sec:org749a93b]{Nanvix: An Operating System for Lightweight Manycores}\\
+14h45 & \hyperref[sec:orgb60eba6]{Yves Durand} & \hyperref[sec:orgb60eba6]{Enhancing scientific computation using a variable precision FPU with a RISC-V processor}\\
+15h00 & \hyperref[sec:org8b6a149]{Zdeněk Přikryl} & \hyperref[sec:org8b6a149]{Enhanced Tools for RISC-V Processor Development and Customization}\\
+15h15 & \emph{All} & \textbf{Discussion with} \hyperref[sec:org749a93b]{Pedro Henrique Penna}, \hyperref[sec:orgb60eba6]{Yves Durand} and \hyperref[sec:org8b6a149]{Zdeněk Přikryl}\\
+\hline
+15h30 & --- & \emph{Break}\\
+\hline
+\textbf{16h00} & \textbf{Chair: Olivier Savry} & \textbf{Session on Formal Verification}\\
+\hline
+16h00 & \hyperref[sec:org5484e0d]{Sylvain Boulmé} & \hyperref[sec:org5484e0d]{Extending the CompCert certified compiler with instruction scheduling and control-flow integrity}\\
+16h15 & \hyperref[sec:orga5c9455]{Sergio Marchese} & \hyperref[sec:orga5c9455]{Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs}\\
+16h30 & \hyperref[sec:orgd8322bb]{Romain Soulat} & \hyperref[sec:orgd8322bb]{Formal Proof of RISC-V Cores}\\
+16h45 & \emph{All} & \textbf{Discussion with} \hyperref[sec:org5484e0d]{Sylvain Boulmé}, \hyperref[sec:orga5c9455]{Sergio Marchese} and \hyperref[sec:orgd8322bb]{Romain Soulat}\\
+\hline
+17h00 & \href{../pages/gdr-scienday.html}{Sébastien Faucou} & \href{../pages/gdr-scienday.html}{Scientific Day: RISC-V for critical embedded systems in Campus de Jussieu on Thursday October 3rd}\\
+17h15 & \emph{All} & \textbf{Wrap Up, Comments \& Perspectives}\\
+17h30 & --- & \emph{Closure}\\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection{Scientific Day: RISC-V for critical embedded systems}
+\label{sec:orgc63f74b}
+
+\begin{center}
+\begin{tabular}{l|p{4cm}|p{11cm}}
+\hline
+Time & Speaker & Title\\
+\hline
+09h & --- & \emph{Welcome}\\
+\hline
+09h30 & Sébastien Pillement & Presentation of GDR SOC2\\
+\hline
+09h40 & Marie-Hélène Deredempt & Presentation of IRT Saint-Exupéry\\
+\hline
+09h50 & \hyperref[sec:orge622757]{Michael Chapman} & \hyperref[sec:orge622757]{RISC-V in embedded applications}\\
+\hline
+10h35 & --- & \emph{Break}\\
+\hline
+10h50 & \hyperref[sec:orgedcfbb5]{Antoine Certain} & \hyperref[sec:orgedcfbb5]{What does the space industry expect from RISC-V?}\\
+\hline
+11h20 & \hyperref[sec:orgd37d3f2]{Johan Klockars} & \hyperref[sec:orgd37d3f2]{Development of a RV64GC IP core for the GRLIB IP Library}\\
+\hline
+12h05 & --- & \emph{Lunch}\\
+\hline
+14h00 & \hyperref[sec:org6bcc10e]{Denis Dutoit} & \hyperref[sec:org6bcc10e]{European Processor Initiative: First steps towards a made-in-Europe high-performance microprocessor}\\
+\hline
+14h45 & \hyperref[sec:orgafaed1b]{Eric Jenn} & \hyperref[sec:orgafaed1b]{Achieving determinism and performance on the RISC-V FlexPRET Processor}\\
+\hline
+15h30 & --- & \emph{Break}\\
+\hline
+15h45 & \hyperref[sec:org05c0359]{Daniel Große} & \hyperref[sec:org05c0359]{RISC-V based Virtual Prototype: An Open Source Platform for Modeling and Verification}\\
+\hline
+16h30 & \hyperref[sec:org8b4a799]{Romain Soulat} & \hyperref[sec:org8b4a799]{Formal Verification of RISC-V Implementation Designs}\\
+\hline
+17h15 & --- & \emph{Closure}\\
+\hline
+\end{tabular}
+\end{center}
+
+\section{Speakers' bios \& abstracts}
+\label{sec:org9be9778}
+
+{ \small
+
+\subsection{2nd RISC-V Meeting Tutorials}
+\label{sec:orga05bda0}
+\subsubsection{RISC-V design using Free Open Source Software}
+\label{sec:org39da51d}
+By \textbf{\href{https://www.lip6.fr/actualite/personnes-fiche.php?ident=P109}{Jean-Paul Chaput}}, Roselyne Chotin, Marie-Minerve Louerat, Adrian
+Satin (\href{https://www.lip6.fr}{LIP6}).
+
+This tutorial aims to build a RISC-V processor using only free VLSI
+CAD tools with a symbolic technology approach (a refined Mead-Conway
+method as formerly used by MOSIS). The toolchain is currently
+organised as follow:
+\begin{enumerate*}[label=(\arabic*)]
+\item A design description in VHDL language.
+\item Simulation with GHDL.
+\item Logical synthesis with Yosys.  We use a frontend to convert VHDL
+into Verilog (from Alliance).
+\item Physical design (place \& route) using Coriolis.
+\item DRC \& LVS using Alliance.
+\item Timing analysis with Tas \& Yagle.
+\item Symbolic to real translation (Alliance).
+\end{enumerate*}
+
+Our first objective is to design a RISC-V for AMS 350nm node (c35b4).
+
+The choice of symbolic technology is mainly made for three reasons:
+\begin{enumerate*}
+\item Node portability.  From one symbolic layout, you may target
+multiple technologies. Only step 7 needs to be done.
+\item Community. Symbolic layout do not contains any NDA related
+information.  As such it can freely be published and shared.
+\item Security.  With a published layout, everybody can check that the
+chip send back from the foundry is exactly what it should be (no
+hardware trojan).
+\end{enumerate*}
+
+\emph{\footnotesize Jean-Paul Chaput holds a Master Degree in MicroElectronics and Software Engineering.  He joined the LIP6 laboratory within SU (formerly UPMC) in 2000.  Currently he is a Research Engineer in the Analog and Mixed Signal Team at LIP6. His main focus is on physical level design software.  He is a key contributor in developing and maintaining the Alliance \& Coriolis VLSI CAD projects for CMOS technologies.  In particular he contributed in developing the routers of both Alliance  \& Coriolis and the whole Coriolis toolchain infrastructure.  He his now a key contributor in extending Alliance \& Coriolis to the Analog Mixed-Signal integration for nanometric CMOS technologies.}
+
+\subsubsection{Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V}
+\label{sec:orged882b9}
+By Liliana Andrare, Mounir Benabdendi, Olivier Muller, Frédéric
+Rousseau, \textbf{\href{http://tima.imag.fr/sls/people/petrot/}{Frédéric Pétrot}} (\href{http://www.grenoble-inp.fr}{Grenoble-IPN}).
+
+This talk presents the work done by the team teaching computer
+architecture and assembler level programming at the Institute of
+Engineering of Univ. Grenoble Alpes (\href{http://ensimag.grenoble-inp.fr}{Grenoble INP Ensimag}, \href{http://phelma.grenoble-inp.fr}{Grenoble
+INP Phelma} and \href{https://www.polytech-grenoble.fr}{Polytech'Grenoble}).
+
+We will in particular detail what are the goals of these classes and how
+we mapped them on the RISC-V architecture. We will also have demos at
+hand for those interested in the putative use of this material, as
+teachers or hobbyists.
+
+\emph{\footnotesize Starting in 1994, Frédéric Pétrot was assistant professor at Universié Pierre et Marie Curie in Paris, where he was primary teaching VLSI design, CAD algorithms for VLSI design, bases of operating systems, and practical use of parser generators (but also C, ADA, UNIX, \ldots{}). He was one of the main contributor of the open-source Alliance CAD system, still in use today. He also started working on ESL tools, building the ancestor of the SoCLib SystemC library. He moved to Grenoble INP ENSIMAG in 2004, taking the responsibility of all classes related to logic circuit design and computer architecture. He still teaches UNIX, bases of OS design and knows no other editor than vim.}
+
+\subsection{2nd RISC-V Meeting Keynotes}
+\label{sec:org224aa82}
+\subsubsection{The Momentum and Opportunity of Custom, Open Source Processing}
+\label{sec:orgf6daae1}
+By \textbf{Bertrand Tavernier} (\href{https://www.thalesgroup.com/en/global/innovation/research-and-technology}{Thales R\&T}, \href{https://riscv.org}{The RISC-V Foundation}).
+
+The growth of human and business interaction with technology continues
+to explode. At the literal heart of that technology sits a silicon
+core, combined with general and specific instructions and
+connections. The insane cost, risk, development time, necessary
+volumes, and limited computing demands kept the lucrative chip
+opportunity within reach of just a handful of companies -- focused
+mostly on general purpose processors. New computing needs in various
+power and performance dimensions have increased demand and competition
+for custom processors. This pressure is quietly and rapidly disrupting
+the processor industry. An Open source approach to processors now
+reduces risk and investment, with accelerated time to market, and
+opens the opportunity to thousands of possible custom
+processors. Learn about the trends, opportunities, and examples --
+from smart watches to supercomputers -- as well as the global momentum
+of RISC-V!
+
+\emph{\footnotesize Bertrand Tavernier is VP Software Research \& Technologies for Thales group. He manages global software R\&T strategy and lead software architects network between the seven Thales Global Business Unit and the five Thales Research \& Technology centers. Prior, he held several positions related to safety critical embedded software as Safran Electronics workbench chief engineer from 2011 to 2015.}
+
+\subsubsection{It's the Instruction Fetch Front-End, Stupid!}
+\label{sec:org9d270ea}
+By \textbf{\href{https://team.inria.fr/pacap/members/andre-seznec}{André Seznec}}
+(\href{https://www.inria.fr}{INRIA}).
+
+Achieving high single-thread performance remains a major challenge even
+in the multicore era. To achieve ultimate single-thread performance, a
+uniprocessor needs a very efficient memory hierarchy, an aggressive
+out-of-order execution core and a highly efficient instruction fetch
+front-end engine.
+In this talk, I will focus on the challenges for the design of the
+instruction fetch frond-end in a very wide-issue processor.
+
+\emph{\footnotesize André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in Rennes. His main research activity has ported on the architecture of microprocessors, including caches, pipeline, branch predictors, speculative execution, multithreading and multicores. His research has influenced the design of many high-end industrial microprocessors, particularly the caches and the branch predictors.}
+\emph{\footnotesize André Seznec is member of the hall of fame of the 3 major conferences in computer architecture, ACM/IEEE ISCA, IEEE HPCA and ACM IEEE Micro.  He received the first Intel Research Impact Medal in 2012 for his « exemplary work on high-performance computer micro-architecture, branch prediction and cache architecture. » He is a IEEE fellow (2013) and an ACM fellow (2016).}
+
+\subsubsection{European Processor Initiative: challenges \& opportunities for RISC-V accelerators in an HPC platform}
+\label{sec:orge116549}
+By \textbf{\href{https://fr.linkedin.com/in/romaindolbeau}{Romain Dolbeau}}
+(\href{https://www.european-processor-initiative.eu/}{EPI},
+\href{https://atos.net}{ATOS}).
+
+The European Processor Initiative (EPI) is a project currently
+implemented under the first stage of the Framework Partnership
+Agreement signed by the Consortium with the European Commission (FPA:
+800928), whose aim is to design and implement a roadmap for a new
+family of low-power European processors for extreme scale computing,
+high-performance Big-Data and a range of emerging applications.
+In this talk, I will describe the currently anticipated architecture
+of the EPI design and how to leverage this architecture in the
+software, using open standards. In particular, the EPI project is
+developing IP for a set of RISC-V-based accelerators designed to
+connect directly to the processor network-on-chip. I'll also talk on
+how EPI plan to integrate those IP in a silicon device, and how other
+accelerators IP designers could leverage EPI to create new
+high-performance multi-chip processing devices.
+
+\emph{\footnotesize Romain Dolbeau is a Distinguished Expert at Atos-Bull. After studying computer architecture at Université Paris XI, Université Rennes 1 and ENS Cachan, Romain co-founded and joined CAPS entreprise, a pioneer company in compilation that introduced directive-based programming for heterogeneous computing with the HMPP technology. Romain joined Bull in 2014 as an HPC expert, helping customers leverage both CPU and accelerators to get the best performance out of their supercomputers. Since late 2018, Romain is working as the lead software architect for the EPI project.}
+
+\subsection{2nd RISC-V Meeting Presentations}
+\label{sec:org76e4864}
+\subsubsection{Ecological transition in ICT: A role for open hardware ?}
+\label{sec:org6c5e3e2}
+By \textbf{\href{https://perso.uclouvain.be/david.bol}{David Bol}}
+(\href{https://uclouvain.be/en/research-institutes/icteam/ecs.html}{ECS,
+ICTEAM, UC Louvain}).
+
+Technological innovation has been fueling our financial economic system
+focused on growth. It allowed the prosperity of developed countries but
+also lead to technical obsolescence, accumulation of technologies and
+life activity acceleration as by-products. Pursuing the exponential
+economic growth on a finite planet lead us to an environmental crisis
+whose climate change is the most visible symptom. The emergency we are
+facing calls for an ecological transition towards more sustainable
+society and economy based on resource efficiency, sobriety and
+resilience. In this context, it is important for engineers to critically
+analyze our technological innovation habits.
+
+This talk gives a provocative personal point of view of innovation
+habits in the field of information and communication technologies (ICT),
+where exponential trends (Moore's law, Cooper's law, Koomey's law)
+define the R\&D roadmaps. We will discuss the potential role of
+open(-source) hardware towards a more sustainable innovation Bio:
+
+\emph{\footnotesize David Bol is an assistant professor at the \href{https://uclouvain.be/en/research-institutes/icteam/ecs.html}{Electronic Circuits and Systems (ECS)} group, ICTEAM Institute of UC Louvain (UCL). He received the Ph.D degree in Engineering Science from UCLouvain in 2008 in the field of ultra-low power digital nanoelectronics. In 2005, he was a visiting Ph.D student at the CNM, Sevilla, Spain, and in 2009, a postdoctoral researcher at intoPIX, Louvain-la-Neuve, Belgium.  In 2010, he was a visiting postdoctoral researcher at the UC Berkeley Lab for Manufacturing and Sustainability, Berkeley, CA. In 2015, he participated to the creation of e-peas semiconductors spin-off company, Louvain-la-Neuve, Belgium. He leads the Electronic Circuits and Systems (ECS) research group focused on ultra-low-power design of smart-sensor integrated circuits for the IoT and biomedical applications with a specific focus on environmental sustainability. His personal IC interests include computing, power management, sensing and wireless communications. Prof. Bol has authored more than 100 papers and conference contributions and holds three delivered patents. He (co-)received three Best Paper/Poster/Design Awards in IEEE conferences (ICCD 2008, SOI Conf. 2008, FTFC 2014). He serves as a reviewer for various IEEE journals/conferences and presented several keynotes in international conferences. On the private side, he pioneered the parental leave for male professors in his institute to spend time connecting to nature with his family.}
+
+\subsubsection{A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing}
+\label{sec:orgcd043a0}
+By Hela Belhadj Amor, \textbf{Carolynn Bernier} (\href{http://www.leti-cea.fr}{CEA
+LETI}), Zdeněk Přikryl (\href{http://www.codasip.com}{Codasip GmbH}).
+
+We present an instruction-set extension to the open-source RISC-V ISA
+(RV32IM) dedicated to ultra-low power (ULP) software-defined wireless
+IoT transceivers. The custom instructions are tailored to the needs of
+8/16/32-bit integer complex arithmetic typically required by quadrature
+modulations. The proposed extension occupies only 3 major opcodes and
+most instructions are designed to come at a near-zero hardware and
+energy cost. A functional model of the new architecture is used to
+evaluate four IoT baseband processing test benches: FSK demodulation,
+LoRa preamble detection, 32-bit FFT and CORDIC algorithm. Results show
+an average energy efficiency improvement of more than 35\% with up to 50\%
+obtained for the LoRa preamble detection algorithm.
+
+\emph{\footnotesize Carolynn Bernier is a wireless systems designer and architect specialized in IoT communications. She has been involved in RF and analog design activities at CEA, LETI since 2004, always with a focus on ultra-low power design methodologies. Her recent interests are in low complexity algorithms for machine learning applied to deeply embedded systems.}
+
+\subsubsection{Development of a RV64GC IP core for the GRLIB IP Library}
+\label{sec:orgd12d66c}
+By \textbf{Martin Åberg} (\href{https://www.gaisler.com/}{Cobham Gaisler}).
+
+Cobham Gaisler is a world leader for space computing solutions where the
+company provides radiation tolerant system-on-chip devices based around
+the LEON processors. The building blocks for these devices are also
+available as IP cores from the company in an IP library named GRLIB.
+Cobham Gaisler is currently developing a RV64GC core that will be
+provided as part of GRLIB. The presentation will cover why we see RISC-V
+as a good fit for us after SPARC32 and what we see missing in the
+ecosystem features
+
+\emph{\footnotesize Martin Åberg is a Software Engineer at Cobham Gaisler. His expertise covers embedded software development, operating systems, device drivers, fault-tolerance concepts, flight software, processor verification. He has a Master of Science degree in Computer Engineering, and  focuses on real-time systems and computer networks.}
+
+
+\subsubsection{R\&D challenges for Safe and Secure RISC-V based computer}
+\label{sec:org81512d2}
+By Arnaud Samama, Emmanuel Gureghian, Fabrice Lemonnier, Eric
+Lenormand and \textbf{Thierry Collette} (\href{https://www.thalesgroup.com/en/global/innovation/research-and-technology}{Thales R\&T}).
+
+Thales is involved in the open hardware initiative and joint the
+RISC-V foundation last year. In order to deliver safe and secure
+embedded computing solutions, the availability of Open Source RISC-V
+cores \& IPs is a key opportunity. In order to support and emphases
+this initiative, an european industrial ecosystem must be gathered and
+set up. Key R\&D challenges must be therefore addressed. In this
+presentation, we will present the research subjects which are
+mandatory to address in order to accelerate.
+
+\emph{\footnotesize In January 2019, Thierry Collette became the director of the digital research group at Thales Research France. Previously, Thierry Collette was the head of a division in charge of technological development for embedded systems and integrated components at CEA Leti \& List for eight years. He was the CTO of the European Processor Initiative (EPI) in 2018. Before that, he was the deputy director in charge of programs and strategy at CEA List. From 2004 to 2009, he managed the architectures and design unit at CEA. He obtained an electrical engineering degree in 1988 and a Ph.D in microelectronics at the University of Grenoble in 1992. He contributed to the creation of five CEA startups: ActiCM in 2000 (bought by CRAFORM), Kalray in 2008, Arcure in 2009, Kronosafe in 2011, and WinMs in 2012.}
+
+\subsubsection{RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security}
+\label{sec:org80a67cf}
+By \textbf{Rafail Psiakis}, \textbf{Baptiste Pecatte} \&
+\href{https://perso.telecom-paristech.fr/guilley}{Sylvain Guilley}
+(\href{http://www.secure-ic.com}{Secure IC}).
+
+RISC-V is an emerging instruction-set architecture widely used inside
+plenty of modern embedded SoCs. As the number of commercial vendors
+adopting this architecture in their products increases, security becomes
+a priority. In Secure-IC we use RISC-V implementations in many of our
+products (e.g. PULPino in Securyzr HSM, PicoSoC in Cyber Escort Unit,
+etc.). The advantage is that they are natively protected against a lot
+of modern vulnerability exploits (e.g. Specter, Meltdow, ZombieLoad and
+so on) due to the simplicity of their architecture. For the rest of the
+vulnerability exploits, Secure-IC crypto-IPs have been implemented
+around the cores to ensure the authenticity and the confidentiality of
+the executed code. Due to the fact that RISC-V ISA is open-source, new
+verification methods can be proposed and evaluated both at the
+architectural and the micro-architectural level. Secure-IC with its
+solution named Cyber Escort Unit, verifies the control flow of the code
+executed on a PicoRV32 core of the PicoSoC system. The community also
+uses the open-source RISC-V ISA in order to evaluate and test new
+attacks. In Secure-IC, RISC-V allows us to penetrate into the
+architecture itself and test new attacks (e.g. sidechannel attacks,
+Trojan injection, etc.) making it our Trojan horse to conquer security.
+
+\emph{\footnotesize Rafail Psiakis is currently an R\&D Engineer at Secure-IC SAS, Rennes, France working on SW/HW security solutions. He obtained a Ph.D degree in 2018 from University of Rennes. During his Ph.D, he was with Cairn team of the INRIA research center, Rennes, pursuing a Ph.D thesis entitled ``Performance optimization mechanisms for fault-resilient VLIW processors''. He received his B.S. \& M.S. joint diploma in 2015 from the ECE Department of the University of Patras, Greece, pursuing a diploma thesis within the APEL laboratory. His research interests include computer architecture, embedded systems, fault tolerance, cyber-security and critical systems.}
+\emph{\footnotesize Baptiste Pecatte is currently R\&D intern at Secure-IC working on CPU hardware-enabled cyber-security solutions. He has been adapting and optimizing the Cyber Escort Unit (TM) technology for several RISC-V cores, allowing for real-time Code and Control Flow Integrity. He studied embedded systems at Telecom ParisTech. Baptiste is also alumnus from Ecole Polytechnique (X2015)}
+
+\subsubsection{Alternative languages for safe and secure RISC-V programming}
+\label{sec:orgc9cca85}
+By \textbf{\href{https://twitter.com/deschips}{Fabien Chouteau}}
+(\href{https://www.adacore.com}{Ada Core}).
+
+In this talk I want to open a window into the wonderful world of
+"alternative" programming languages for RISC-V. What can you get by
+looking beyond C/C++.
+So I will start with a quick introduction to the Ada and SPARK
+languages, the benefits, the hurdles. I will also present an overview of
+the applications and domains where they shine, when failure is not an
+option.
+At the end of the talk, I will give my view of the RISC-V architecture
+and community from the perspective of an alternative languages
+developer. I will cover the good points, the risks, and provide some
+ideas on how the RISC-V can keep the door open.
+
+\emph{\footnotesize Fabien joined AdaCore in 2010 after his master's degree in computer science at the EPITA (Paris). He is involved in real-time, embedded and hardware simulation technology. Maker/DIYer in his spare time, his projects include electronics, music and woodworking.}
+
+\subsubsection{Verification of SimNML instruction set description using co-simulation}
+\label{sec:org49f51bd}
+By \textbf{Hugues Cassé}, Emmanuel Caussé, Pascal Sainrat (\href{https://www.irit.fr/-Equipe-TRACES-?lang=fr}{IRIT - Université de Toulouse}).
+
+The TRACES team at IRIT has developed a description of the RISC-V
+instruction set in SimNML, which is an Architecture Description
+Language (ADL). GLISS automatically convert this description into a
+library supporting, among others, a runnable Instruction Set
+Simulator.
+
+This presentation exposes the validation of our RISC-V description by
+parallely running and checking the generated simulator with a
+different source of execution implementing the RISC-V (different
+simulator or real microprocessor).  This work contributes to the
+confidence we can have into static analysis tools working on program
+binary representation.
+
+In such tools, the instruction set support is a boring and error-prone
+task whose validity is hard to assert. On the opposite, the SimNML
+description provides a golden model that is easier to write and that
+can be tested to detect errors. Once a sufficient level of confidence
+is obtained about the description, it can be processed automatically
+to derive properties useful for static analyses work.
+
+\emph{\footnotesize Hugues Cassé is professor-assistant in the University of Toulouse. He performs research on WCET focused on the static analysis of memories and caches and on the value analysis of binary code. He is the designer and the main developer of the academic WCET tool O TAWA . He has been involved in several ANR projects (MascotTe, MORE, W-SEPT), European projects (MERASA, parMERASA), and other projects (SOCKET – FUI, CAPACITES – DGE -- CAPACITES).}
+\subsubsection{Fast and Accurate Vulnerability Analysis of a RISC-V Processor}
+\label{sec:orgc2ba8cf}
+By Joseph Paturel, Simon Rokicki, Davide Pala,
+\textbf{\href{http://people.rennes.inria.fr/Olivier.Sentieys/}{Olivier Sentieys}}
+(\href{https://www.inria.fr}{INRIA}).
+
+As the RISC-V ISA gains traction in the safety-critical embedded system
+domain, the development of hardened cores becomes crucial. During this
+presentation, we present a vulnerability analysis framework that allows
+for a fast and accurate estimation of processor errors due to transient
+faults. The proposed set of tools is based on the 32-bit RISC-V core
+Comet supporting the M extension. The generated hardware's reaction to
+particle hits is characterized at the gate-level using logic transient
+pulse width based on physical transistor models. The Comet core being
+designed at the C level with high-level synthesis tools, a fast, cycle-
+and bit-accurate simulator can be derived from the core specifications.
+The previously extracted error patterns are hence re-injected in the
+core during the execution of applications and the system response is
+evaluated. This enables the estimation of various vulnerability related
+metrics and can swiftly drive the core-hardening design process. Results
+show that the combinational logic needed to implement the M extension
+plays a non-negligible role in the overall core vulnerability and that
+multiple-bit upset patterns need to be considered.
+
+\emph{\footnotesize Olivier Sentieys is a Professor at the University of Rennes holding an INRIA Research Chair on Energy-Efficient Computing Systems. He is leading the \href{https://team.inria.fr/cairn/}{Cairn} team common to Inria and IRISA Laboratory. He is also the head of the “Computer Architecture” department of IRISA. His research interests include system-level design, energy-efficiency, reconfigurable systems, hardware acceleration, approximate computing, fault tolerance, and energy harvesting sensor networks.}
+
+\subsubsection{Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core}
+\label{sec:orgf2630f5}
+By \href{mailto:caaliph.andriamisaina@cea.fr}{Caaliph Andriamisaina}
+(\href{http://www-list.cea.fr}{CEA LIST}),
+\textbf{\href{../pages/pierre-guillaume.leguay@cea.fr}{Pierre-Guillaume Le Guay}},
+(\href{http://www-list.cea.fr}{CEA LIST}).
+
+Power consumption monitoring of a processor is important for power
+management to reduce power usage. Performance counters have been widely
+used as proxies to estimate processor power online. This work focus on
+the dynamic power modelling at register-transfer level (RTL) of the
+RISC-V Rocket core, developed at the University of California, Berkeley.
+By creating our power model at RTL level, we aim at providing a
+coarse-grained estimation of power consumption, intended at the early
+stage of development and for software developers.
+
+The proposed power modelling methodology is based on the Hardware
+Performance Monitors (HPM) defined in the RISC-V ISA and implemented in
+the rocket-chip. These HPM monitor different events that take place
+during instructions execution and reveal several amount of information
+about power consumption. These events can be the number of cycles, the
+number of instructions retired, caches misses, etc.
+
+\emph{\footnotesize Pierre-Guillaume Le Guay is a research engineer at CEA List, computing and design environment laboratory. He received the MSc degree in electrical engineering from Université Paris-Sud, Orsay, in 2017. His current research topics focus on the power consumption estimation and modelling applied to embedded systems and multicore architectures.}
+
+\subsubsection{Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI}
+\label{sec:org555c581}
+By \textbf{\href{mailto:matheusd@iis.ee.ethz.ch}{Matheus Cavalcante}},
+\href{mailto:fschuiki@iis.ee.ethz.ch}{Fabian Schuiki},
+\href{mailto:zarubaf@iis.ee.ethz.ch}{Florian Zaruba},
+\href{mailto:mschaffner@iis.ee.ethz.ch}{Michael Schaffner}
+(\href{https://iis.ee.ethz.ch}{ETH Zurich}),
+\href{mailto:lbenini@iis.ee.ethz.ch}{Luca Benini}
+(\href{https://iis.ee.ethz.ch}{ETH Zurich} \&
+\href{http://www.dei.unibo.it}{Universitá di Bologna}).
+
+In this presentation, we will discuss about our design and
+implementation experience with Ara, a vector processor based on RISC-V's
+Vector Extension. Ara is implemented in GlobalFoundries 22FDX FD-SOI
+technology. Its latest instance runs at up to 1.2 GHz in nominal
+conditions, achieving a peak performance of up to 34 DP-GFLOPS and an
+energy efficiency of up to 67 DP-GFLOPS/W. We will discuss the
+performance and scalability of Ara, including its limitations under
+different work loads, and show that the vector processor achieves a high
+utilization of its functional units, up to 97\%, when running a 256x256
+matrix multiplication on sixteen lanes. Ara will be released as part of
+the PULP platform using the same permissive Solderpad license.
+
+\emph{\footnotesize Matheus Cavalcante received the M.Sc. degree in Integrated Electronic Systems from the Grenoble Institute of Technology (Phelma) in 2018 and is currently pursuing his Ph.D. degree with the Digital Circuits and Systems group of Luca Benini at ETH Zurich. His research interests encompass high-performance computing (namely vector processing) and interconnection networks.}
+
+\subsubsection{An Out-of-Order RISC-V Core Developed with HLS}
+\label{sec:org2e5f334}
+By \textbf{\href{https://perso.univ-perp.fr/bernard.goossens/}{Bernard Goossens}}
+\& David Parello (\href{https://webdali.univ-perp.fr}{UPVD}).
+
+I will introduce the out-of-order RISC-V core (4-stage pipeline: fetch +
+decode + rename; issue; writeback; commit) that we developed. Everything
+is written entirely in C under Vivado HLS. The code has been
+successfully tested on a Pynq card (free development board provided to
+teacher-researchers upon request to Xilinx, as part of the XUP
+initiative). This RISC-V core should be understood as a basic kit on
+which users are invited to add extensions. The RISC-V core does not
+contain any traditional accelerator for filling the pipeline (eg branch
+predictor, caches) or floating operators (only the set of 32-bit integer
+instructions has been implemented). It can serve as a nutshell to add
+units and measure their effects, for example in the context of
+educational projects. This RISC-V core is the core brick of the LBP
+processor, a 64-cores manycore parallelizing processor, under
+development.
+
+\emph{\footnotesize Bernard Goossens is Professor Emeritus at the \href{https://webdali.univ-perp.fr}{University of Perpignan (UPVD)}. He is a member of the \href{http://www.lirmm.fr/recherche/equipes/dali}{Dali} team at \href{http://www.lirmm.fr}{LIRMM}. His research is on the capture of very distant ILP.}
+
+\subsubsection{Open source GPUs: How can RISC-V play a role?}
+\label{sec:org32bc8c5}
+By \textbf{\href{https://www.ict.tuwien.ac.at/staff/taherinejad}{Nima
+Taherinejad}} (\href{https://www.ict.tuwien.ac.at}{TU Wien}).
+
+I will first briefly review existing open source GPUs and their
+status. Given its merit and the work we have done in group on the
+award-winning Nyuzi GPGPU, I will pay a closer attention to that work.
+Next, I will discuss some of the challenges they face as well as the
+importance of investing more into research and development of such
+architectures and potential direction of such research and
+development.  At the end, I position RISC-V with respect to the open
+source GPUs and present some ideas on how the RISC-V community can
+play a role in a potentially joint future.
+
+\emph{\footnotesize Nima Taherinejad is a PhD graduate of the University of British Columbia (UBC), Vancouver, Canada. He is currently at the \href{https://www.ict.tuwien.ac.at}{TU Wien} (formerly known also as Vienna University of Technology), Vienna, Austria, where he leads the system-on-chip (SoC) educational MSc module and works on self-awareness in resource-constrained cyber-physical systems, embedded systems, memristor-based circuit and systems, health-care, and robotics. In the field of computer architecture his activities revolve mainly around GPU architectures and resource management in multi-processor SoCs.}
+
+\subsubsection{Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore}
+\label{sec:orga8599a4}
+By \textbf{\href{https://www.linkedin.com/in/kate-berezina}{Ekaterina Berezina}},
+Dmitry Gusev, Alexander Redkin (\href{https://syntacore.com}{Syntacore}).
+
+We describe family of the state-of-the-art RISC-V compatible processor
+IP developed by Syntacore with a specific focus on the open-source part
+of the product line.
+As of 2019, SCRx family of RISC-V compatible cores includes eight
+industry-grade cores with comprehensive features, targeted at different
+applications: from compact microcontroller-class SCR1 core to the
+high-performance 64bit Linux-capable multicore SCR7. The SCRx cores
+deliver competitive performance at low power already in baseline
+configurations. On the top, Syntacore provides one-stop
+workload-specific customization service to enable customer designs
+differentiation via significant performance and efficiency boost.
+Industry-standard interfacing options support enables seamless
+integration with existing designs.
+We detail IP features, benchmarks, and collateral availability, with a
+specific focus on the open-source SCR1 core. Initially introduced in
+2017, SCR1 is one of the first fully open and free to use industry-grade
+RISC-V compatible cores, which, since its introduction, found extensive
+use both in the industry and in academia.
+\href{https://github.com/syntacore/scr1}{\texttt{https://github.com/syntacore/scr1}}.
+
+\emph{\footnotesize Ekaterina Berezina is a Senior HW Engineer at Syntacore, where she contributes to the SCRx core family development and maintenance.  Ekaterina has more than 6 years of experience in CPU IP development including architecture and microarchitecture definition, RTL design, testing and verification, area/timing/power optimization for ASIC and FPGA. She received her Master's degree in Computer Science at Saint-Petersburg ITMO University and teaches Computer Architecture classes there.}
+
+\subsubsection{Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores}
+\label{sec:org95c1564}
+By \textbf{Rick O'Connor} (\href{https://openhwgroup.org}{OpenHW Group}).
+
+This talk will provide a brief overview of the RISC-V instruction set
+architecture and describe the CORE-V family of open-source cores that
+implement the RISC-V ISA. RISC-V (pronounced “risk-five”) is an open,
+free ISA enabling a new era of processor innovation through open
+standard collaboration. Born in academia and research, RISC-V ISA
+delivers a new level of free, extensible software and hardware freedom
+on architecture, paving the way for the next 50 years of computing
+design and innovation.
+CORE-V is a series of RISC-V based open-source processor cores with
+associated processor subsystem IP, tools and software for electronic
+system designers. The CORE-V family provides quality core IP in line
+with industry best practices in both silicon and FPGA optimized
+implementations. These cores can be used to facilitate rapid design
+innovation and ensure effective manufacturability of production SoCs.
+The session will describe barriers to adoption of open-source IP and
+opportunities to overcome these barriers.
+
+\emph{\footnotesize Rick O'Connor is Founder and serves as President \& CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects. The OpenHW Group Core-V Family is a series of RISC-V based open-source cores with associated processor subsystem IP, tools and software for electronic system designers.}
+\emph{\footnotesize Previously Rick was Executive Director of the RISC-V Foundation. RISC-V (pronounced “risk-five”) is a free and open ISA enabling a new era of processor innovation through open standard collaboration.}
+%Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 235 members building an open, collaborative community of software and hardware innovators powering processor innovation. Born in academia and research, the RISC-V ISA delivers a new level of free, extensible software and hardware freedom on architecture, paving the way for the next 50 years of computing design and innovation.}
+%\emph{\footnotesize Throughout his career, Rick has continued to be at the leading-edge of technology and corporate strategy and has held executive positions in many industry standards bodies. Also, with many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over \$750 million in revenue. With very strong interpersonal skills, Rick is a regular speaker at key industry forums and has built a very strong professional network of key executives at many of the largest global technology firms including: Altera (now part of Intel), AMD, ARM, Cadence, Dell, Ericsson, Facebook, Google, Huawei, HP, IBM, IDT, Intel, Microsoft, Nokia, NXP, RedHat, Synopsys, Texas Instruments, Western Digital, Xilinx and many more.}
+\emph{\footnotesize Rick holds an Executive MBA degree from the University of Ottawa and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College.}
+
+\subsubsection{Silicon at the speed of software}
+\label{sec:org4fde642}
+By \textbf{Yann Loisel} (\href{https://sifive.com}{SiFive}).
+
+For 30+ years, chips kept getting faster and cheaper. In the race to
+get to the next process node, there wasn't time or a need to
+customize. But the world has changed—compute has hit a limit and the
+cost of building chips keeps increasing exponentially.
+The next wave of innovation is now happening at the hardware-software
+interface, and companies need custom silicon solutions to stay
+ahead. SiFive is leading the charge.
+
+SiFive brings the power of open source and software automation to the
+semiconductor industry, making it possible to develop new hardware
+faster and more affordably than ever before. With our platform for
+rapidly designing, testing and building RISC V-based core IP and
+chips, we’re accelerating the pace of innovation for businesses large
+and small.  You don’t need to be an expert in silicon design to
+produce custom chips. SiFive’s platform makes it possible to design at
+the system level and create chips that meet your exact specifications
+without deep pockets or a high-volume guarantee.
+
+The inventors of RISC V joined forces with silicon experts bringing a
+new approach to semiconductors together with decades of industry
+experience, hundreds of tapeouts and millions of chips shipped.
+
+\emph{\footnotesize After receiving his degree in Cryptography, Yann started work at the French DoD, finally reaching the position of Cryptanalysis Team Manager. He then successively joined SCM Microsystems GmbH, managing the security of smart card readers and DVB payTV decoders, then Innova Card, a fabless company providing secure microcontrollers, acting as Chief Security Officer and joined Maxim Integrated as Security Architect, managing all security-related topics including physical protection, cryptography, applications security, and certifications.  He’s now Security Architect at SiFive, in charge of defining the platform security at the system level for SiFive RISC-V chips.}
+
+\subsubsection{Nanvix: An Operating System for Lightweight Manycores}
+\label{sec:org749a93b}
+By \textbf{\href{http://www.sites.google.com/view/ppenna}{Pedro Henrique Penna}}
+(\href{https://www.pucminas.br}{PUC Minas},
+\href{https://www.univ-grenoble-alpes.fr}{UGA}), Marcio Castro
+(\href{http://ufsc.br}{UFSC}, Brésil), François Broquedis
+(\href{http://www.grenoble-inp.fr}{INPG}), Henrique Cota de Freitas
+(\href{https://www.pucminas.br}{PUC Minas}, Brésil), Jean-François Méhaut
+(\href{https://www.univ-grenoble-alpes.fr}{UGA}).
+
+Lightweight manycores differ from other high core count architectures in
+two major architectural points: they feature a distributed memory memory
+architecture; and they have their cores grouped into clusters with small
+amounts of local memory available. Nanvix is general purpose operating
+system (OS) that we designed from scratch to address this next
+generation of processors. Our OS features a distributed structure, in
+which traditional OS functionalities are implemented as system servers;
+and it aims at a novel distributed paging system to overcome
+architectural challenges of lightweight manycores. So far, a great
+effort was made to make Nanvix portable and performant across multiple
+targets, including industrial processors, such as MPPA (Kalray), and
+academic lightweight manycores, like those based in OpenRISC (OpTiMSoC)
+and RISC-V (PULP). Nanvix delivers these features through a rich
+hardware abstraction layer (HAL), which we shall cover in this talk.
+Nanvix source tree:
+\href{https://github.com/nanvix}{\texttt{https://github.com/nanvix}}
+
+\emph{\footnotesize Pedro Henrique Penna is a PhD Candidate in Informatics at Université Grenoble Alpes (\href{https://www.univ-grenoble-alpes.fr}{UGA}, France) in a cotutelle regime with Pontifícia Universidade Católica de Minas Gerais (\href{https://www.pucminas.br}{PUC Minas}, Brazil). In his thesis, Pedro is focused on the design of operating systems for lightweight manycore processors, and he works in collaboration with Kalray and Technical University of Munich (TUM, Germany) in this subject. Pedro earned his Master Degree in Computer Science from Universidade Federal de Santa Catarina (\href{http://ufsc.br}{UFSC}, Brazil) in 2017, and he is the main designer of Nanvix.}
+
+\subsubsection{Enhancing scientific computation using a variable precision FPU with a  RISC-V processor}
+\label{sec:orgb60eba6}
+By \textbf{Yves Durand} (\href{http://www.leti-cea.fr}{CEA LETI}).
+
+Scientific computation applications are almost exclusively based on
+single or double precision floating point formats of the IEEE-754
+standard. These formats, of respectively 32 or 64 bits, have a fixed
+structure, which means that they are unlikely to exactly match the
+needs of the application. At best, it will be overkill, meaning wasted
+time, memory and power in computing useless bits. At worst, it will be
+insufficient, meaning numerically wrong results with possible
+catastrophic consequences in a world where embedded computing systems
+interfere more and more with our lives.
+
+We exploit the extensibility of RISC-V for adding support for variable
+precision floating point operations, and for variable length floating
+point formats in close memory. In this talk, we discuss the impact of
+these extensions on the system architecture, at all levels of the
+computing stack. We propose examples based on linear algebra kernels,
+which demonstrate the improvements in numerical quality and confidence
+in the numerical results.
+
+\emph{\footnotesize Yves Durand received his engineering degree in 1983 and a PhD in computer science in 1988. He worked with ST Microelectronics as a research engineer, then moved to Hewlett Packard in 1993 and led R\&D projects related to networking interfaces and « smart communicating objects ». He then joined the Laboratoire d'Electronique et de Technologie de l'Information (CEA-LETI), Grenoble, in 2003. He has been coordinating the IST FP6 4More project. His current focus is numerical modelling of computing systems.}
+
+\subsubsection{Enhanced Tools for RISC-V Processor Development and Customization}
+\label{sec:org8b6a149}
+By \textbf{Zdeněk Přikryl} \& Chris Jones (\href{http://www.codasip.com}{Codasip
+GmbH}).
+
+The emergence of the RISC-V architecture has given rise to a demand
+for widely differing microarchitectural implementations, ranging from
+deeply embedded microcontrollers to DSPs and superscalar
+processors. To meet the challenge of addressing so many different
+operating points, it is necessary to abstract the (micro)architectural
+details and automate the generation and verification of RISC-V
+microprocessors. The Codasip approach to delivering RISC-V processor
+IPs is to employ the silicon-proven methodology of the high-level
+CodAL architecture description language and its suite of tools called
+Studio to implement various RISC-V microarchitectures. Using Codasip
+Studio (an Eclipse-based integrated processor development
+environment), designers write a high-level description (in CodAL
+architecture description language) of a processor and then
+automatically synthesize the design’s RTL, testbench, virtual platform
+models, and processor toolchain (C/C++ compiler, debugger, profiler,
+etc.). Designers can start using the Codasip processor IPs immediately
+or, as the Codasip processor IPs are described in CodAL, they can
+extend the ISA in any way, adding a key differentiator or any other
+secret sauce into their product.
+
+\emph{\footnotesize Dr Zdeněk Přikryl is the co-founder and chief technology officer of \href{http://www.codasip.com}{Codasip GmbH}. He has over 10 years of experience in processor design from small MCUs to complex DSPs/VLIWs, along with embedded systems design, HLS, and simulation. Previously he was a Researcher at the Technical University of Brno and a software engineer at Red Hat.}
+
+\subsubsection{Extending the CompCert certified compiler with instruction scheduling and control-flow integrity}
+\label{sec:org5484e0d}
+By \textbf{\href{http://www-verimag.imag.fr/\~boulme}{Sylvain Boulmé}}
+(\href{http://ensimag.grenoble-inp.fr}{ENSIMAG},
+\href{http://www-verimag.imag.fr}{Verimag},
+\href{https://www.univ-grenoble-alpes.fr}{Université Grenoble-Alpes}).
+
+The CompCert certified compiler -- developed by [\href{http://compcert.inria.fr/}{Xavier Leroy et al.
+2006-2018}] at Inria -- is the first optimizing C compiler with a
+formal proof of correctness. In particular, it does not have the
+middle-end bugs usually found in compilers [\href{http://doi.acm.org/10.1145/1993498.1993532}{Yang et al. 2011}]. It is
+now used in real-time safety-critical industry [\href{http://hal.inria.fr/hal-00653367}{Bedin França et
+al. 2012}; \href{http://hal.inria.fr/hal-01643290}{Kästner et al. 2018}]. It produces assembly code for several
+processors including RISC-V (32 bit and 64 bit).
+
+This talk will present two backends of CompCert developed at the Verimag
+Laboratory of Grenoble. The first one -- jointly developed with Cyril
+Six (Kalray-Verimag) and David Monniaux (Verimag) -- targets the K1c
+processor of Kalray. This backend features a (certified) postpass
+scheduling which optimizes running-times of the produced program by
+exploiting the instruction-level-parallelism of this VLIW processor.
+
+Our second (more experimental) backend targets the intrinSec processor
+designed by Olivier Savry et al at LETI. This secure cryptoprocessor
+extends the RISC-V Instruction Set with instructions and registers for
+protecting Control-Flow Integrity (CFI). With Paolo Torrini (Verimag),
+we have modified the RISC-V backend of CompCert in order to include
+these CFI protections. We are formally proving the functional
+correctness of this backend.
+
+\emph{\footnotesize Sylvain Boulmé is Maître de conférences (associate professor) at ENSIMAG (Engineering school in Information Technology). His research applies the Coq proof assistant and the OCaml typechecker the verification of software in toolchains (in particular static analyzers and compilers).}
+
+\subsubsection{Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs}
+\label{sec:orga5c9455}
+By \textbf{\href{https://www.linkedin.com/in/sergiomarchese}{Sergio Marchese}} (\href{https://www.onespin.com}{OneSpin Solutions})
+
+RISC-V processor IPs are increasingly being integrated into
+system-on-chip designs for a variety of applications. However, there
+is still a lack of dedicated functional verification solutions
+supporting high-integrity, trusted integrated circuits. This
+presentation examines an efficient, novel, formal-based RISC-V
+processor verification methodology. The RISC-V ISA is formalized in a
+set of Operational SystemVerilog assertions. Each assertion is
+formally verified against the processor’s RTL model. Crucially, the
+set of assertions is mathematically proven to be complete and free
+from gaps, thus ensuring that all possible RTL behaviors have been
+examined. This systematic verification process detects both hardware
+Trojans and genuine functional errors present in the RTL code. The
+solution is demonstrated on an open-source RISC-V implementation using
+a commercially available formal tool, and is arguably a significant
+improvement to previously published RISC-V ISA verification
+approaches, advancing hardware assurance and trust of RISC-V designs.
+
+\emph{\footnotesize Sergio Marchese is technical marketing manager at OneSpin Solutions. He has 20 years of experience in electronic chip design, and deployment of advanced hardware development solutions across Europe, North America, and Asia. His expertise covers IC design, functional verification, safety standards, including ISO 26262 and DO-254, and detection of hardware Trojans and security vulnerabilities. He is passionate about enabling the next generation of high-integrity chips that underpin the Internet of Things, 5G, artificial intelligence, and autonomous vehicles.}
+
+\subsubsection{Formal Proof of RISC-V Cores}
+\label{sec:orgd8322bb}
+By Alexandre Alves, Jimmy Le Rhun, Delphine Longuet and \textbf{Romain
+Soulat} (\href{https://www.thalesgroup.com/en/global/innovation/research-and-technology}{Thales R\&T}).
+
+Formal verification of hardware designs is a classical application of
+model checking in industry. RISC-V cores can be formally verified for
+functional correctness and framework already exist to automatically
+perform that kind of verification. When designs includes safety or
+security mechanisms, special additional verification requirements can
+be added to formally verify that those mechanisms performs correctly
+against threats or feared events.
+
+\emph{\footnotesize Romain Soulat is working at Thales Research and Technology (TRT) on the application of formal methods. He obtained his PhD. from Ecole Normale Supérieure Paris-Saclay in 2014 on the subject of formal verification of timed automata and controllers. In 2014, he joined the Critical Embedded Systems Laboratory at TRT to work on the topic of formal verification. His current research focus on model checking at system or implementation levels, numerical accuracy analysis and formal verification of AI-based systems.}
+\subsection{Speakers of the Scientifc Day on RISC-V for critical embedded systems}
+\label{sec:org066b013}
+\subsubsection{RISC-V in embedded applications}
+\label{sec:orge622757}
+By \textbf{\href{https://www.linkedin.com/michael-chapman-at-cortus}{Michael Chapman}}, \href{https://www.cortus.com}{Cortus}
+
+Cortus is a French ASIC design company with a very large selection of IPs
+available including processors (Cortus proprietary ISA, RISC-V ISA), and many
+other Digital, Analog/RF and Security (HW \& SW) which together with its ASIC
+Design expertise enables it to architect, design and implement innovative chips
+for its clients.
+Cortus provides a comprehensive and complete toolchain package such as debugger,
+compiler, IDE, etc, for all the chips it develops.
+To facilitate the work of software developers, Cortus can also provide FPGA
+prototypes.
+Cortus has designed and is designing chips and modules for customers
+incorporating RISC-V processors in the following application fields: Satellite,
+Avionics, Automotive, IoT, Hardware Security Module, HPC (outside Europe)
+
+\emph{\footnotesize Michael Chapman is the creator of microprocessors, micro-controllers,
+CAN (Controller Area Network) and System C.}
+\emph{\footnotesize He has worked on a Silicon on Saphire radiation hard microprocessor chip set for Marconi Space and Defence, a pure asynchronous chip for Acorn computers, and developed all the initial CAN implementations including the Intel 82526 and those for Bosch internal implementations, Philips, Motorola, National, NEC, Siemens as well as the Intel 82527 and those on Intel MCUs. He also developed MCUs for engine management and ABS.}
+\emph{\footnotesize He designed a new generation 16 bit micro-controller for Siemens and modeled that controller in 'C'. The simulation environment he created escaped from Siemens and became the foundation of System C.}
+\emph{\footnotesize In 2003, he created the first Cortus processor which is at the heart of security solutions used in bank cards, SIM cards, e-passport and is the root of trust in many devices including Blackberry, Intel, Fujitsu, etc.}
+\subsubsection{What does the space industry expect from RISC-V?}
+\label{sec:orgedcfbb5}
+By \textbf{Antoine Certain}, Airbus Defence \& Space
+
+The space industry has some particularities which makes the usage of
+COTS components quite difficult. But, with the emergence of new space
+designs based on COTS, the space industry open its doors to a bigger
+ecosystem. And the RISC V ecosystem could answer to the major
+requirements of spacecraft design. This presentation will present the
+main requirements such industry expect from a core IP.
+
+\emph{\footnotesize Antoine CERTAIN is an experienced hardware and software architect on embedded data-handling applications on spacecraft. He has gained large scale of space knowledge thanks to several projects for ESA, CNES and internally to Airbus Defence and Space. He is now team leader of the R\&D On board data processing team of Airbus Defence and Space in Toulouse, FR.}
+
+\subsubsection{Development of a RV64GC IP core for the GRLIB IP Library}
+\label{sec:orgd37d3f2}
+By \textbf{Johan Klockars}, \href{https://www.gaisler.com}{Cobham Gaisler}
+
+Cobham Gaisler is a world leader for space computing solutions where
+the company provides radiation tolerant system-on-chip devices based
+around the LEON processors. The building blocks for these devices are
+also available as IP cores from the company in an IP library named
+GRLIB.  Cobham Gaisler is currently developing a RV64GC core that will
+be provided as part of GRLIB. The presentation will cover features of
+the IP core and how it fits with existing peripherals, with technical
+items we see missing in the specification.
+
+\emph{\footnotesize Johan Klockars has a MSc in Computer Science \& Engineering and is a Hardware Engineer at Cobham Gaisler, working on their new RISC-V CPU core. He has been doing embedded systems development for 20 years: image processing and communications protocols in FPGAs, real-time systems, WiFi networking, device drivers, etc.}
+
+\subsubsection{European Processor Initiative: First step towards a made-in-Europe high-performance microprocessor}
+\label{sec:org6bcc10e}
+By \textbf{Denis Dutoit}, \href{https://www.leti-cea.com}{CEA LETI}
+
+The European Processor Initiative (EPI) is a project funded by the European Commission, whose aim is to design and implement a roadmap for a new family of low-power European processors for extreme scale computing, high-performance
+Big-Data and a range of emerging applications. The project started in December 2018 and aims to deliver a high-performance, low-power processor, implementing ARM based general purpose processors and RISC-V based specific accelerators.
+The EPI processor will also meet high security and safety requirements. This will be achieved through intensive use of simulation, development of a complete software stack and tape-out in the most advanced semiconductor process node.
+After an introduction on High Performance Computing new challenges and associated technology/architecture evolution, the presentation will highlight the EPI position statement on generic computing, accelerator with RISC-V and design
+methodology. The presentation will end with EPI’s roadmap towards a wide range of applications from Exascale computing to embedded HPC.
+
+\emph{\footnotesize Denis Dutoit, EPI global architecture leader, Architecture, IC Design and Embedded Software Division, Leti}
+\emph{\footnotesize Denis Dutoit joined CEA-Leti in 2009, after working for STMicroelectronics and STEricsson. In CEA-Leti, he has been involved in System-on-a-Chip architecture for computing and 3D Integrated Circuit projects. After defining the Leti’s roadmap of technologies and solutions for advanced computing, Denis Dutoit is now involved in European Projects in High Performance Computing as coordinator, project leader and SoC architect.}
+
+\subsubsection{Achieving determinism and performance on the RISC-V FlexPRET Processor}
+\label{sec:orgafaed1b}
+By \textbf{Eric Jenn}, \href{http://www.irt-saintexupery.com/}{IRT Saint-Exupéry}
+
+Performance improvement usually comes at the cost of temporal
+determinism. Trading better average performance for a loss of
+predictability is sometimes acceptable, but it is not for
+safety-critical applications where the time at which a value is
+produced is often as important as the value itself. In this talk, we
+address the question of temporal determinism, which is a prerequisite
+to dependability. We show how we combine a deterministic programming
+model with a deterministic hardware architecture and an “holistic”
+optimization process to achieve both performance and
+dependability. This work is applied on the MultiPRET processor, a
+"multicore" declination of the RISC-V FlexPRET PREcision Timed
+Architecture (PRET) proposed by the University of California at
+Berkeley.
+
+\emph{\footnotesize Dr Eric Jenn is a research engineer at Thales AVS. He is currently managing the Critical Applications on Predictable High-Performance Computing Architectures (CAPHCA) collaborative research project at IRT Saint-Exupéry in Toulouse. Dr Jenn has been working in the area of safety critical systems for around 30 years, both on the analysis and development of nuclear and avionics systems. His interests cover all aspects of the development of dependable real-time systems, including certification, system modeling and design, real-time software development, formal verification, and microarchitecture design. He has participated in many collaborative research projects involving academic and industrial partners, including GUARDS, Diana, SPICES, ESPASS, etc.}
+
+\subsubsection{RISC-V based Virtual Prototype: An Open Source Platform for Modeling and Verification}
+\label{sec:org05c0359}
+By \textbf{\href{http://www.informatik.uni-bremen.de/\~grosse/}{Daniel Große}}, \href{https://www.uni-bremen.de}{University of Bremen} and \href{https://www.dfki.de/en/web/}{DFKI GmbH}
+
+
+We propose an open source RISC-V based Virtual Prototype (VP) under
+MIT license, available online. Our VP is implemented in standard
+compliant SystemC using a generic bus system with TLM 2.0
+communication. It provides a 32 and 64 bit RISC-V core with
+different privilege levels, the RISC-V CLINT and PLIC interrupt
+controllers and an essential set of peripherals. It supports
+simulation of (mixed 32 and 64 bit) multi-core platforms and provides
+SW debug and coverage measurement capabilities. We support FreeRTOS,
+Zephyr and Linux operating systems. Our VP allows a significantly
+faster simulation compared to RTL, while being more accurate than
+existing ISSs. The VP has been designed as configurable and extensible
+platform. For example we provide the configuration for the RISC-V
+HiFive1 board from
+SiFive. \href{http://www.systemc-verification.org/riscv-vp}{\texttt{http://www.systemc-verification.org/riscv-vp}}
+
+\emph{\footnotesize Daniel Große is a Senior Researcher at the University of Bremen and the German Research Center for Artificial Intelligence (DFKI) Bremen, Germany. His research interests include verification, virtual prototyping, debugging and synthesis. He has published more than 120 papers in peer-reviewed journals and conferences and served in program committees of numerous conferences, such as DAC, ICCAD, DATE and CODES+ISSS. He received best paper awards at FDL 2007, DVCon Europe 2018, and ICCAD 2018.}
+
+\subsubsection{Formal Verification of RISC-V Implementation Designs}
+\label{sec:org8b4a799}
+By
+\textbf{Romain Soulat}, \href{https://www.thalesgroup.com/en/global/innovation/research-and-technology}{Thales Research \& Technology}
+
+Formal verification of hardware designs is a classical application of model
+checking in industry. RISC-V cores can be formally verified for functional
+correctness and framework already exist to automatically perform that kind of
+verification. When designs includes safety or security mechanisms, special
+additional verification requirements can be added to formally verify that those
+mechanisms performs correctly against threats or feared events.
+
+\emph{\footnotesize Romain Soulat is working at Thales Research and Technology (TRT) on the application of formal methods. He obtained his PhD. from Ecole Normale Supérieure Paris-Saclay in 2014 on the subject of formal verification of timed automata and controllers. In 2014, he joined the Critical Embedded Systems Laboratory at TRT to work on the topic of formal verification. His current research focus on model checking at system or implementation levels, numerical accuracy analysis and formal verification of AI-based systems.}
+
+} % \small
+
+\end{document}
