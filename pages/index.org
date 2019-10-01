@@ -58,7 +58,7 @@ solutions, and high-level keynotes.
 
 *** Program Committee
 
-The Program Committee is comprises:
+The Program Committee comprises:
 
 - Thierry Collette, [[https://www.thalesgroup.com/fr/global/innovation/recherche-technologie][Thales R&T]]
 - [[https://fr.linkedin.com/in/christianfabre][Christian Fabre]], [[http://www.cea.fr][CEA]], chair
