@@ -45,7 +45,7 @@ The choice of symbolic technology is mainly made for three reasons:
    :END:
 
 By Liliana Andrare, Mounir Benabdendi, Olivier Muller, Frédéric
-Rousseau, *[[http://tima.imag.fr/sls/people/petrot/][Frédéric Pétrot]]* ([[http://www.grenoble-inp.fr][Grenoble-IPN]]).
+Rousseau, *[[http://tima.imag.fr/sls/people/petrot/][Frédéric Pétrot]]* ([[http://www.grenoble-inp.fr][Grenoble-IPN]]).  ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-11h30-Frederic-Petrot.pdf][slides]]).
 
 This talk presents the work done by the team teaching computer
 architecture and assembler level programming at the Institute of

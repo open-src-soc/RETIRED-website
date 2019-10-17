@@ -12,7 +12,7 @@
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 11h00 | ---              | /Break/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
-| 11h30 | [[#T-PETROT][Frédéric Pétrot]]  | [[#T-PETROT][Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V]] |
+| 11h30 | [[#T-PETROT][Frédéric Pétrot]]  | [[#T-PETROT][Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-11h30-Frederic-Petrot.pdf][slides]])|
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 12h30 | ---              | /Lunch/                                                                                                       |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
