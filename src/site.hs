@@ -17,8 +17,11 @@ main = do
   hakyll $ do
 
     -- static content
-    match ( "CNAME" .||. "css/*" .||. "css/layouts/*" .||. "img/*"
-            .||. "js/*" .||. "media/*") $ do
+    match ( "CNAME"
+            .||. "css/*" .||. "css/layouts/*" .||. "js/*"
+            .||. "img/*"
+            .||. "media/*" .||. "media/slides/*"
+          ) $ do
       route idRoute
       compile copyFileCompiler
 
