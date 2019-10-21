@@ -47,9 +47,6 @@ main = do
     create ["sitemap.xml"] $ do
         route idRoute
         compile $ do
-            -- posts <- recentFirst =<< loadAll "posts/*"
-            -- pages <- loadAll "pages/*"
-            -- let allPages = pages ++ posts
             let sitemapCtx = builtPageCtx <> lastGitModification
             makeItem ""
                 >>= loadAndApplyTemplate "templates/sitemap.xml" sitemapCtx
