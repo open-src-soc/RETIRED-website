@@ -405,7 +405,7 @@ the PULP platform using the same permissive Solderpad license.
    :END:
 
 By *[[https://perso.univ-perp.fr/bernard.goossens/][Bernard Goossens]]*
-& David Parello ([[https://webdali.univ-perp.fr][UPVD]]).
+& David Parello ([[https://webdali.univ-perp.fr][UPVD]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-10h15-Bernard-Goossens.pdf][slides]]).
 
 I will introduce the out-of-order RISC-V core (4-stage pipeline: fetch +
 decode + rename; issue; writeback; commit) that we developed. Everything

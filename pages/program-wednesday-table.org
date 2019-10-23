@@ -10,7 +10,7 @@
 | *10h00* | *Chair: Kevin Martin* | *Session: Towards High Performance*                                                    |
 |-------+--------------------+------------------------------------------------------------------------------------------|
 | 10h00 | [[#P-CAVALCANTE][Matheus Cavalcante]] | [[#P-CAVALCANTE][Ara: design and implementation of a 1GHz+ 64-bit RISC-V Vector Processor in 22 nm FD-SOI]] |
-| 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISC-V Core Developed with HLS]]                                           |
+| 10h15 | [[#P-GOOSSENS][Bernard Goossens]]   | [[#P-GOOSSENS][An Out-of-Order RISC-V Core Developed with HLS]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-10h15-Bernard-Goossens.pdf][slides]])                                  |
 | 10h30 | [[#P-TAHERINEJAD][Nima TaheriNejad]]   | [[#P-TAHERINEJAD][Open source GPUs: How can RISC-V play a role?]]                                            |
 | 11h45 | /All/              | *Discussion with* [[#P-CAVALCANTE][Matheus Cavalcante]],  [[#P-GOOSSENS][Bernard Goossens]] & [[#P-TAHERINEJAD][Nima TaheriNejad]]               |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
