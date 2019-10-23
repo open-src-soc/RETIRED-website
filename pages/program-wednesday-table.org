@@ -41,7 +41,7 @@
 | *16h00* | *Chair: Olivier Savry* | *Session on Formal Verification*                                                                 |
 |---------+----------------+--------------------------------------------------------------------------------------------------|
 | 16h00   | [[#P-BOULME][Sylvain Boulmé]] | [[#P-BOULME][Extending the CompCert certified compiler with instruction scheduling and control-flow integrity]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-16h00-Sylvain-Boulm%C3%A9.pdf][slides]]) |
-| 16h15   | [[#P-MARCHESE][Sergio Marchese]] | [[#P-MARCHESE][Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs]]                         |
+| 16h15   | [[#P-MARCHESE][Sergio Marchese]] | [[#P-MARCHESE][Complete Formal Verification of RISC-V Cores for Trojan-Free Trusted ICs]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-16h15-Sergio-Marchese.pdf][slides]])               |
 | 16h30   | [[#P-SOULAT][Romain Soulat]]  | [[#P-SOULAT][Formal Proof of RISC-V Cores]]                                                                     |
 | 16h45   | /All/          | *Discussion with* [[#P-BOULME][Sylvain Boulmé]], [[#P-MARCHESE][Sergio Marchese]] and [[#P-SOULAT][Romain Soulat]]                              |
 |---------+----------------+--------------------------------------------------------------------------------------------------|

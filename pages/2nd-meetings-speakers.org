@@ -670,7 +670,7 @@ correctness of this backend.
    :CUSTOM_ID: P-MARCHESE
    :END:
 
-By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][OneSpin Solutions]])
+By *[[https://www.linkedin.com/in/sergiomarchese][Sergio Marchese]]* ([[https://www.onespin.com][OneSpin Solutions]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-16h15-Sergio-Marchese.pdf][slides]]).
 
 RISC-V processor IPs are increasingly being integrated into
 system-on-chip designs for a variety of applications. However, there
