@@ -117,7 +117,7 @@ instruction fetch frond-end in a very wide-issue processor.
 
 By *[[https://fr.linkedin.com/in/romaindolbeau][Romain Dolbeau]]*
 ([[https://www.european-processor-initiative.eu/][EPI]],
-[[https://atos.net][ATOS]]).
+[[https://atos.net][ATOS]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-13h30-Romain-Dolbeau.pdf][slides]]).
 
 The European Processor Initiative (EPI) is a project currently
 implemented under the first stage of the Framework Partnership

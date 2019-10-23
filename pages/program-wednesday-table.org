@@ -27,7 +27,7 @@
 |---------+----------------+------------------------------------------------------------------------------------------------------|
 | *13h30* | ---            | *Keynote on RISC-V in HPC*                                                                                            |
 |---------+----------------+------------------------------------------------------------------------------------------------------|
-| 13h30   | [[#K-DOLBEAU][Romain Dolbeau]] | [[#K-DOLBEAU][European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform]] |
+| 13h30   | [[#K-DOLBEAU][Romain Dolbeau]] | [[#K-DOLBEAU][European Processor Initiative: challenges & opportunities for RISC-V accelerators in an HPC platform]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-13h30-Romain-Dolbeau.pdf][slides]]) |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
 | *14h30* | *Chair: Arnaud Tisserand* | *Session on Improving the HW/SW Interface*                                              |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
