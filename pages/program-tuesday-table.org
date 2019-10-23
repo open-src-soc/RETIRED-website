@@ -43,7 +43,7 @@
 | *17h00* | *Chair: Frédéric Pétrot* | *Session on Modeling & Simulation*                                                                                    |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|
 | 17h00   | [[#P-CASSE][Hugues Cassé]]             | [[#P-CASSE][Verification of SimNML instruction set description using co-simulation]]                                                |
-| 17h15   | [[#P-SENTIEYS][Olivier Sentieys]]         | [[#P-SENTIEYS][Fast and Accurate Vulnerability Analysis of a RISC-V Processor]]                                                        |
+| 17h15   | [[#P-SENTIEYS][Olivier Sentieys]]         | [[#P-SENTIEYS][Fast and Accurate Vulnerability Analysis of a RISC-V Processor]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-17h15-Olivier-Sentieys.pdf][slides]])                                              |
 | 17h30   | [[#P-LEGUAY][Pierre-Guillaume Le Guay]] | [[#P-LEGUAY][Coarse-grained power modelling and estimation using the Hardware Performance Monitors (HPM) of the RISC-V Rocket core]] |
 | 17h45   | /All/                    | *Discussion with* [[#P-CASSE][Huges Cassé]], [[#P-SENTIEYS][Olivier Sentieys]] & [[#P-LEGUAY][Pierre-Guillaume Le Guay]]                                              |
 |---------+--------------------------+-----------------------------------------------------------------------------------------------------------------------|

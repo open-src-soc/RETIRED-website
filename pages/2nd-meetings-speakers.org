@@ -321,7 +321,7 @@ to derive properties useful for static analyses work.
 
 By Joseph Paturel, Simon Rokicki, Davide Pala,
 *[[http://people.rennes.inria.fr/Olivier.Sentieys/][Olivier Sentieys]]*
-([[https://www.inria.fr][INRIA]]).
+([[https://www.inria.fr][INRIA]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-17h15-Olivier-Sentieys.pdf][slides]])
 
 As the RISC-V ISA gains traction in the safety-critical embedded system
 domain, the development of hardened cores becomes crucial. During this
