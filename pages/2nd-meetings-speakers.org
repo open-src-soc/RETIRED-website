@@ -95,7 +95,7 @@ of RISC-V!
    :END:
 
 By *[[https://team.inria.fr/pacap/members/andre-seznec][André Seznec]]*
-([[https://www.inria.fr][INRIA]]).
+([[https://www.inria.fr][INRIA]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-09h00-Andr%C3%A9-Seznec.pdf][slides]]).
 
 Achieving high single-thread performance remains a major challenge even
 in the multicore era. To achieve ultimate single-thread performance, a
