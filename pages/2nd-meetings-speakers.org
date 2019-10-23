@@ -515,7 +515,7 @@ opportunities to overcome these barriers.
    :CUSTOM_ID: P-LOISEL
    :END:
 
-By *Yann Loisel* ([[https://sifive.com][SiFive]]).
+By *Yann Loisel* ([[https://sifive.com][SiFive]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-12h00-Yann-Loisel.pdf][slides]]).
 
 For 30+ years, chips kept getting faster and cheaper. In the race to
 get to the next process node, there wasn't time or a need to
