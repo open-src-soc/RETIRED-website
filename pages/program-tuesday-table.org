@@ -25,7 +25,7 @@
 | *14h30* | *Chair: Thierry Collette* | *Session on Open HW Opportunities*                                                                            |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|
 | 14h30 | [[#P-BOL][David Bol]]        | [[#P-BOL][Ecological transition in ICT: A role for open hardware?]]                                                       |
-| 14h45 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing]]                                     |
+| 14h45 | [[#P-BERNIER][Carolynn Bernier]] | [[#P-BERNIER][A RISC-V ISA Extension for Ultra-Low Power IoT Wireless Signal Processing]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-14h45-Carolynn-Bernier.pdf][slides]])                            |
 | 15h00 | [[#P-ABERG][Martin Åberg]]     | [[#P-ABERG][Development of a RV64GC IP core for the GRLIB IP Library]]                                                      |
 | 15h15 | /All/            | *Discussion with* [[#P-BOL][David Bol]], [[#P-BERNIER][Carolynn Bernier]] & [[#P-ABERG][Jan Andersson]]                                                   |
 |-------+------------------+---------------------------------------------------------------------------------------------------------------|

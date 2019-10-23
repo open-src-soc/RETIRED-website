@@ -176,7 +176,7 @@ open(-source) hardware towards a more sustainable innovation Bio:
    :END:
 
 By Hela Belhadj Amor, *Carolynn Bernier* ([[http://www.leti-cea.fr][CEA
-LETI]]), Zdeněk Přikryl ([[http://www.codasip.com][Codasip GmbH]]).
+LETI]]), Zdeněk Přikryl ([[http://www.codasip.com][Codasip GmbH]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-14h45-Carolynn-Bernier.pdf][slides]]).
 
 We present an instruction-set extension to the open-source RISC-V ISA
 (RV32IM) dedicated to ultra-low power (ULP) software-defined wireless
