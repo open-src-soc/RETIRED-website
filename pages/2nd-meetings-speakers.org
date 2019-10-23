@@ -450,7 +450,7 @@ potentially joint future.
    :END:
 
 By *[[https://www.linkedin.com/in/kate-berezina][Ekaterina Berezina]]*,
-Dmitry Gusev, Alexander Redkin ([[https://syntacore.com][Syntacore]]).
+Dmitry Gusev, Alexander Redkin ([[https://syntacore.com][Syntacore]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-11h30-Ekaterina-Berezina.pdf][slides]]).
 
 We describe family of the state-of-the-art RISC-V compatible processor
 IP developed by Syntacore with a specific focus on the open-source part
