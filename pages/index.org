@@ -71,7 +71,7 @@ The Program Committee comprises:
 - Ivan Miró-Panadès, [[http://www.cea.fr][CEA]]
 - Ahmed Ould El Hacen, [[https://www.wisekey.com][Wisekey]]
 - Thomas Peyret, [[http://www.cea.fr][CEA]]
-- Frederic Pétrot, [[http://www.grenoble-inp.fr][INPG]]/[[http://tima.univ-grenoble-alpes.fr/tima][TIMA]]
+- Frédéric Pétrot, [[http://www.grenoble-inp.fr][INPG]]/[[http://tima.univ-grenoble-alpes.fr/tima][TIMA]]
 - Olivier Savry, [[http://www.cea.fr][CEA]], co-chair
 - Olivier Sentieys, [[https://www.inria.fr][INRIA]]
 
