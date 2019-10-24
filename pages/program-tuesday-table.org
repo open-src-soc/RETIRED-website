@@ -35,7 +35,7 @@
 |---------+------------------+---------------------------------------------------------------------|
 | 15h45   | [[#P-COLLETTE][Thierry Collette]] | [[#P-COLLETTE][R&D challenges for Safe and Secure RISC-V based computer]]            |
 | 16h00   | [[#P-GUILLEY][Rafail Psiakis & Baptiste Pecatte]]  | [[#P-GUILLEY][RISC-V ISA: Secure-IC's Trojan Horse to Conquer Security]]            |
-| 16h15   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]]        |
+| 16h15   | [[#P-CHOUTEAU][Fabien Chouteau]]  | [[#P-CHOUTEAU][Alternative languages for safe and secure RISC-V programming]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-16h15-Fabien-Chouteau.pdf][slides]]) |
 | 16h30   | /All/            | *Discussion with* [[#P-COLLETTE][Thierry Collette]], [[#P-GUILLEY][Rafail Psiakis, Baptiste Pecatte]] & [[#P-CHOUTEAU][Fabien Chouteau]] |
 |---------+------------------+---------------------------------------------------------------------|
 | 16h45   | ---                      | /Break/                                                                                                               |

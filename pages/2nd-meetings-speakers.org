@@ -268,7 +268,7 @@ Trojan injection, etc.) making it our Trojan horse to conquer security.
    :END:
 
 By *[[https://twitter.com/deschips][Fabien Chouteau]]*
-([[https://www.adacore.com][Ada Core]]).
+([[https://www.adacore.com][Ada Core]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-16h15-Fabien-Chouteau.pdf][slides]]).
 
 In this talk I want to open a window into the wonderful world of
 "alternative" programming languages for RISC-V. What can you get by
