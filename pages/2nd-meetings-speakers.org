@@ -551,7 +551,7 @@ By *[[http://www.sites.google.com/view/ppenna][Pedro Henrique Penna]]*
 ([[http://ufsc.br][UFSC]], Brésil), François Broquedis
 ([[http://www.grenoble-inp.fr][INPG]]), Henrique Cota de Freitas
 ([[https://www.pucminas.br][PUC Minas]], Brésil), Jean-François Méhaut
-([[https://www.univ-grenoble-alpes.fr][UGA]]).
+([[https://www.univ-grenoble-alpes.fr][UGA]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-14h30-Pedro-Penna.pdf][slides]]).
 
 Lightweight manycores differ from other high core count architectures in
 two major architectural points: they feature a distributed memory memory
