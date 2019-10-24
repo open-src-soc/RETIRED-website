@@ -291,7 +291,7 @@ ideas on how the RISC-V can keep the door open.
   :CUSTOM_ID: P-CASSE
   :END:
 
-By *Hugues Cassé*, Emmanuel Caussé, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]).
+By *Hugues Cassé*, Emmanuel Caussé, Pascal Sainrat ([[https://www.irit.fr/-Equipe-TRACES-?lang=fr][IRIT - Université de Toulouse]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-17h00-Hugues-Cass%C3%A9.pdf][slides]]).
 
 The TRACES team at IRIT has developed a description of the RISC-V
 instruction set in SimNML, which is an Architecture Description
