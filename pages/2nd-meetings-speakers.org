@@ -348,8 +348,7 @@ multiple-bit upset patterns need to be considered.
    :CUSTOM_ID: P-LEGUAY
    :END:
 
-By [[mailto:caaliph.andriamisaina@cea.fr][Caaliph Andriamisaina]]
-([[http://www-list.cea.fr][CEA LIST]]),
+By [[mailto:caaliph.andriamisaina@cea.fr][Caaliph Andriamisaina]],
 *[[file:pierre-guillaume.leguay@cea.fr][Pierre-Guillaume Le Guay]]*,
 ([[http://www-list.cea.fr][CEA LIST]]).
 
