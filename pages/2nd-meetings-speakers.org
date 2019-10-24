@@ -606,7 +606,7 @@ in the numerical results.
    :END:
 
 By *Zdeněk Přikryl* & Chris Jones ([[http://www.codasip.com][Codasip
-GmbH]]).
+GmbH]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-15h00-Zden%C4%9Bk-P%C5%99ikryl.pdf][slides]]).
 
 The emergence of the RISC-V architecture has given rise to a demand
 for widely differing microarchitectural implementations, ranging from
