@@ -480,7 +480,7 @@ use both in the industry and in academia.
    :CUSTOM_ID: P-OCONNOR
    :END:
 
-By *Rick O'Connor* ([[https://openhwgroup.org][OpenHW Group]]).
+By *Rick O'Connor* ([[https://openhwgroup.org][OpenHW Group]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-11h45-Rick-O'Connor.pdf][slides]]).
 
 This talk will provide a brief overview of the RISC-V instruction set
 architecture and describe the CORE-V family of open-source cores that

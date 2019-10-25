@@ -19,7 +19,7 @@
 | *11h30* | *Chair: Yves Durand* | *Session: Open Source Cores is an Actual Business*                                      |
 |---------+--------------------+-----------------------------------------------------------------------------------------|
 | 11h30   | [[#P-BEREZINA][Ekaterina Berezina]] | [[#P-BEREZINA][Open-source processor IP in the SCRx family of the RISC-V compatible cores by Syntacore]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-11h30-Ekaterina-Berezina.pdf][slides]]) |
-| 11h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] |
+| 11h45   | [[#P-OCONNOR][Rick O'Connor]]      | [[#P-OCONNOR][Open Source Processor IP for High Volume Production SoCs: CORE-V Family of RISC-V cores]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-11h45-Rick-O'Connor.pdf][slides]]) |
 | 12h00   | [[#P-LOISEL][Yann Loisel]]        | [[#P-LOISEL][Silicon at the speed of software]] ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-12h00-Yann-Loisel.pdf][slides]])                                               |
 | 12h15   | /All/              | *Discussion with* [[#P-BEREZINA][Ekaterina Berezina]], [[#P-OCONNOR][Rick O'Connor]] and [[#P-LOISEL][Yann Loisel]]                     |
 |---------+----------------------+-----------------------------------------------------------------------------------------|
