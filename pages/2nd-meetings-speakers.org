@@ -197,7 +197,7 @@ obtained for the LoRa preamble detection algorithm.
    :CUSTOM_ID: P-ABERG
    :END:
 
-By *Martin Åberg* ([[https://www.gaisler.com/][Cobham Gaisler]]).
+By *Martin Åberg* ([[https://www.gaisler.com/][Cobham Gaisler]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-15h00-Martin-%C3%85berg.pdf][slides]]).
 
 Cobham Gaisler is a world leader for space computing solutions where the
 company provides radiation tolerant system-on-chip devices based around
