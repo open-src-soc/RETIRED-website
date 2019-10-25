@@ -577,7 +577,8 @@ Nanvix source tree:
   :CUSTOM_ID: P-DURAND
   :END:
 
-By *Yves Durand* ([[http://www.leti-cea.fr][CEA LETI]]).
+By *Yves Durand*, Christian Fabre, Andrea Bocco, Tiago Trevisan Jost
+([[http://www.leti-cea.fr][CEA LETI]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-14h45-Yves-Durand.pdf][slides]]).
 
 Scientific computation applications are almost exclusively based on
 single or double precision floating point formats of the IEEE-754
