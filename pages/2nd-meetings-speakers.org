@@ -149,7 +149,7 @@ high-performance multi-chip processing devices.
 
 By *[[https://perso.uclouvain.be/david.bol][David Bol]]*
 ([[https://uclouvain.be/en/research-institutes/icteam/ecs.html][ECS,
-ICTEAM, UC Louvain]]).
+ICTEAM, UC Louvain]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-14h30-David-Bol.pdf][slides]]).
 
 Technological innovation has been fueling our financial economic system
 focused on growth. It allowed the prosperity of developed countries but
