@@ -9,7 +9,7 @@
   :END:
 
 By *[[https://www.lip6.fr/actualite/personnes-fiche.php?ident=P109][Jean-Paul Chaput]]*, Roselyne Chotin, Marie-Minerve Louerat, Adrian
-Satin ([[https://www.lip6.fr][LIP6]]).
+Satin ([[https://www.lip6.fr][LIP6]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-01-10h00-Jean-Paul-Chaput.pdf][slides]]).
 
 This tutorial aims to build a RISC-V processor using only free VLSI
 CAD tools with a symbolic technology approach (a refined Mead-Conway
