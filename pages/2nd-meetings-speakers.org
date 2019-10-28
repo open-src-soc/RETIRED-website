@@ -429,7 +429,7 @@ development.
    :END:
 
 By *[[https://www.ict.tuwien.ac.at/staff/taherinejad][Nima
-Taherinejad]]* ([[https://www.ict.tuwien.ac.at][TU Wien]]).
+Taherinejad]]* ([[https://www.ict.tuwien.ac.at][TU Wien]]). ([[./media/slides/2nd-RISC-V-Meeting-2019-10-02-10h30-Nima-TaheriNejad.pdf][slides]]).
 
 In this talk, first, I briefly review existing open source GPUs and
 their status. Given its merit and the work we have done in group on the
