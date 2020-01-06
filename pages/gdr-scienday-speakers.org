@@ -73,7 +73,7 @@ items we see missing in the specification.
    :CUSTOM_ID: T3-DUTOIT
    :END:
 
-By *Denis Dutoit*, [[https://www.leti-cea.com][CEA LETI]]
+By *Denis Dutoit*, [[https://www.leti-cea.com][CEA LETI]] ([[./media/slides/Scien-Day-GDR-SOC2-2019-10-03-14h00-Denis-Dutoit.pdf][slides]]).
 
 The European Processor Initiative (EPI) is a project funded by the European Commission, whose aim is to design and implement a roadmap for a new family of low-power European processors for extreme scale computing, high-performance
 Big-Data and a range of emerging applications. The project started in December 2018 and aims to deliver a high-performance, low-power processor, implementing ARM based general purpose processors and RISC-V based specific accelerators.

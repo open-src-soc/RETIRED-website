@@ -17,7 +17,7 @@
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
 | 12h05 | ---                    | /Lunch/                                                                                             |
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
-| 14h00 | [[#T3-DUTOIT][Denis Dutoit]]           | [[#T3-DUTOIT][European Processor Initiative: First steps towards a made-in-Europe high-performance microprocessor]] |
+| 14h00 | [[#T3-DUTOIT][Denis Dutoit]]           | [[#T3-DUTOIT][European Processor Initiative: First steps towards a made-in-Europe high-performance microprocessor]] ([[./media/slides/Scien-Day-GDR-SOC2-2019-10-03-14h00-Denis-Dutoit.pdf][slides]]) |
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
 | 14h45 | [[#T3-JENN][Eric Jenn]]              | [[#T3-JENN][Achieving determinism and performance on the RISC-V FlexPRET Processor]]                              |
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
