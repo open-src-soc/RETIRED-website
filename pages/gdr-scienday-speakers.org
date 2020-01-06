@@ -55,7 +55,7 @@ main requirements such industry expect from a core IP.
    :CUSTOM_ID: T3-KLOCKARS
    :END:
 
-By *Johan Klockars*, [[https://www.gaisler.com][Cobham Gaisler]]
+By *Johan Klockars*, [[https://www.gaisler.com][Cobham Gaisler]] ([[./media/slides/Scien-Day-GDR-SOC2-2019-10-03-11h20-Johan-Klockars.pdf][slides]]).
 
 Cobham Gaisler is a world leader for space computing solutions where
 the company provides radiation tolerant system-on-chip devices based
