@@ -5,7 +5,7 @@
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
 | 09h30 | Sébastien Pillement    | Presentation of GDR SOC2 ([[./media/slides/Scien-Day-GDR-SOC2-2019-10-03-09h30-Sébastien-Pillement.pdf][slides]])                                                                   |
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
-| 09h40 | Marie-Hélène Deredempt | Presentation of IRT Saint-Exupéry                                                                   |
+| 09h40 | Marie-Hélène Deredempt | Presentation of IRT Saint-Exupéry ([[./media/slides/Scien-Day-GDR-SOC2-2019-10-03-09h40-Marie-Hélène-Deredempt.pdf][slides]])                                                                  |
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
 | 09h50 | [[#T3-CHAPMAN][Michael Chapman]]        | [[#T3-CHAPMAN][RISC-V in embedded applications]] ([[./media/slides/Scien-Day-GDR-SOC2-2019-10-03-09h50-Michael-Chapman.pdf][slides]])                                                            |
 |-------+------------------------+-----------------------------------------------------------------------------------------------------|
