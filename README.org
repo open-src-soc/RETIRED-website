@@ -35,11 +35,11 @@ $ make rebuild
 
 * deploy [integrator]
 
-Rebuild everything, push the website contents in directory =site=, and
-=git push= to =site='s remote.  The directory =site= is a git
-submodule.  If the website is hosted on =github.io= (or similar
-services) =git push=ing its contents will update the contents of the
-website.
+This build rule rebuilds everything, pushes the website contents in
+directory =site=, and =git push= to =site='s remote.  The directory
+=site= is intended to be a git submodule.  If the website is hosted on
+=github.io= (or similar services) =git push=ing its contents will
+update the contents of the website.
 
 #+begin_example
 $ make deploy
