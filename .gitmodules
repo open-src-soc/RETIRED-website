@@ -1,3 +1,4 @@
 [submodule "site"]
 	path = site
-	url = git@github.com:open-src-soc/open-src-soc.github.io.git
+	url = git@github.com:open-src-soc/RETIRED-open-src-soc.github.io.git
+	branch = master
